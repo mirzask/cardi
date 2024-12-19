@@ -56,3 +56,65 @@ tags:
 - Make sure there are normal origins, make note of [[Coronary Artery Calcium (CAC)|CAC]] (if any).
 
 
+# Measuring Aortic Sizes
+
+- Start at the sinuses of Valsalva
+- Hit `X` to grab your cross-hairs. You will drag the cross hairs to the middle of the sinuses of Valsalva in the axial view window.
+- In your coronal view window, there is a pink/red line with a small circle. Drag this circle to line up the pink/red line to be perpendicular to the wall of the sinus of Valsalva. The blue/purple line should be in the center of the long-axis of the aorta at the sinus of Valsalva.
+	- ![[Pasted image 20241219093520.webp|516]]
+- Similarly for your sagittal view, you will want your pink/red line to be perpendicular to the sinuses of Valsalva. You will also want your green line to be in the center of the long-axis of the aorta at the sinus of Valsalva.
+	- ![[Pasted image 20241219093535.webp|515]]
+- Once you’ve lined things up, in your axial view window you will now have what is called a “true short axis” of the aorta at that level.
+	- ![[Pasted image 20241219093600.webp|494]]
+- Slide up and down to evaluate the AV anatomy. You will be able to determine if it is tricuspid, bicuspid, etc.
+	- Recall, the RCC is going to be the most anterior cusp. HINT: There is an ‘A’ (for anterior) at the top of the axial window and a ‘P’ (for posterior) at the bottom to help orient you.
+
+## Measure at sinuses of Valsalva
+
+- Measure aortic root diameter at the sinuses of Valsalva on CT
+	- Drag the lines until you see the widest section in the coronal and sagittal planes
+	- Now in your axial view (SAX), you will measure commissure to sinus. 
+		- RCC measurement:
+			- Normally, this will be from the commissure between the LCC and NCC
+			- You will then drag up to the sinus of the RCC
+		- NCC measurement:
+			- LCC and RCC commissure → sinus of NCC
+		- LCC measurement:
+			- RCC and NCC commissure → sinus of LCC
+		- ![[Pasted image 20241219093726.webp|409]]
+
+## Measure at Sinotubular Junction
+
+- Drag the lines to the sinotubular junction, i.e. where the sinuses and the tubule combine
+	- ![[Pasted image 20241219093908.webp]]
+- In the axial view, the “true short axis” should be pretty close to appearing like a circle.
+	- 📝 Hit `X` to get the cross-hairs off.
+- Hit `Alt+D` to automagically measure
+- Right click and Capture to stash the image and measurement
+
+## Measure at the widest segment
+
+- The widest segment (typically) is at the mid-aorta at the level of the main pulmonary artery (MPA)
+- Same as above, drag your crosshairs to the desired level and adjust to be perpendicular to the artery wall in the coronal and sagittal views. Line up the blue/green line to be in the center/parallel to the long axis of the aorta at that level.
+- In the axial view, the “true short axis” should appear like a circle
+- `Alt+D` to auto-measure
+	- ![[Pasted image 20241219094025.webp|521]]
+- Right click and `Capture` to add this to the `Series List`
+
+## Measure the proximal descending thoracic aorta
+
+- Note: the proximal descending thoracic aorta begins immediately distal to the great vessels (not when the aorta physically starts descending), i.e. after the takeoff of the L subclavian artery
+- Line things up in two of the views. In the example Adam showed, he lined it up in the axial and sagittal views and made the measurement in the coronal view.
+	- ![[Pasted image 20241219094116.webp|466]]
+- Note: the shape of the proximal descending thoracic aorta will _not_ be perfectly circular.
+
+## Measure aorta using "candy cane" view
+
+- Rotate your cross hairs so you are cutting through both the ascending and descending thoracic aorta.
+- ![[Pasted image 20241219094213.webp|343]]
+- Last step is to click the `MPR` button at the top right and change it to `MIP`
+	- ![[Pasted image 20241219094235.webp]]
+- Hit `Ctrl`, hit the button down and drag sideways, you can increase/decrease the slab thickness. For example, this may allow you to capture the entire thickness of the aorta in different planes by manipulating the slab thickness.
+- Hit `D` to make measurements at different levels of the aorta. Provides a sanity check to make sure you didn’t miss a larger/wider part of the aorta.
+	- ![[Pasted image 20241219094309.webp|528]]
+- Right-click and select ‘Capture’ to store this image with your measurements.
