@@ -3,6 +3,7 @@ tags:
   - CT
   - scct
 ---
+- Home position in all views: Right click → `Reset`
 - Scrolling
 	- Left-click and move up/down to scroll through the image
 	- Wheel click and move up/down to zoom in/out
@@ -11,8 +12,11 @@ tags:
 - `D` to make measurements, e.g. pulmonary artery diameter
 - `Alt+D` is used to draw a circle for automated measurement, e.g. diameter at the sinotubular junction 
 	- This functionality does not seem to exist in Syngo Via AFAIK
+	- `Alt-Click` to realign and jump to wherever you want, Hutt did this to hop from sinuses of Valsalva to ST junction. Very efficient!
+- Hutt did a cool `Alt` click to leap up from the sinuses of Valsalva to 
 - `Left+Right mouse click` and move mouse/up down to affect the leveling
 - `Right click` → Select `Reset` (all the way at bottom) to go back to your standard views.
+- `Ctrl+P` gives you a Lasso measuring tool, e.g. to measure the LA, RA areas
 
 |                                             |                                                                                                                                                                                                                                                                                          |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -49,7 +49,7 @@ tags:
 	- ![[Pasted image 20241219091612.webp]]
 		- Arrow highlights LAA thrombus
 - Evaluate the **Pulmonary artery**
-	- Push down the `D` button and drag your cursor to measure the diameter. You will generally want <32 mm in size for a “normal” measurement.
+	- Push down the `D` button and drag your cursor to measure the diameter. You will generally want <32 mm in size for a “normal” measurement. I've also heard anything >28 mm 
 - Look for MAC or AV calcification
 - Look at the coronary artery anatomy
 	- Dedicated studies to evaluate coronary artery anatomy often will involve the use of BB, nitroglycerin and optimal contrast timing to appropriately assess the coronary arteries. This is not the case for CTA chest, so you’ll have to take things with a grain of salt.
