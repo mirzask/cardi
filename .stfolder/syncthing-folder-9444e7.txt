@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: cardi
+created: 2024-12-13T10:36:49-06:00

@@ -1,0 +1,11 @@
+---
+tags:
+  - ACHD
+  - CT
+---
+- Normally, the four pulmonary vv. are return oxygenated blood into the LA. In the case of PAPVR, you have _one or more_ pulmonary veins dumping oxygenated blood into the systemic venous system (usually RA, SVC, or IVC).
+- Most commonly, PAPVRs involve the:
+	- LUPV (left upper pulmonary vein) → ascending vertical vein → innominate vein *or* 
+	- RUPV → SVC
+		- This type is often associated with a concurrent sinus venosus defect connecting the RA and LA
+- Scimitar syndrome is a subtype of PAPVR in which part or all of the blood from the right lung is returned into the IVC.
