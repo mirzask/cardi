@@ -10,6 +10,8 @@ tags:
 	- Right-click and move up/down to pan
 - `X` to turn cross-hairs on/off
 - `D` to make measurements, e.g. pulmonary artery diameter
+- `E` for ellipsoid will allow you to measure Hounsfeld units
+- Right-click → `Measurement` gives you a lot of options
 - `Alt+D` is used to draw a circle for automated measurement, e.g. diameter at the sinotubular junction 
 	- This functionality does not seem to exist in Syngo Via AFAIK
 	- `Shift-Click` to correct the automated measurement.
