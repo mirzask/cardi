@@ -83,6 +83,12 @@ tags:
 			- RCC and NCC commissure → sinus of LCC
 		- ![[Pasted image 20241219093726.webp|409]]
 
+
+> [!Warning] What if it is a **bicuspid aortic valve*?*
+> Measure from **Sinus-to-Sinus**
+> ![[Pasted image 20241219155905.webp|453]]
+
+
 ## Measure at Sinotubular Junction
 
 - Drag the lines to the sinotubular junction, i.e. where the sinuses and the tubule combine

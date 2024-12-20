@@ -12,6 +12,7 @@ tags:
 - `D` to make measurements, e.g. pulmonary artery diameter
 - `Alt+D` is used to draw a circle for automated measurement, e.g. diameter at the sinotubular junction 
 	- This functionality does not seem to exist in Syngo Via AFAIK
+	- `Shift-Click` to correct the automated measurement.
 	- `Alt-Click` to realign and jump to wherever you want, Hutt did this to hop from sinuses of Valsalva to ST junction. Very efficient!
 - Hutt did a cool `Alt` click to leap up from the sinuses of Valsalva to 
 - `Left+Right mouse click` and move mouse/up down to affect the leveling

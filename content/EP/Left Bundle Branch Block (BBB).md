@@ -2,6 +2,26 @@
 tags:
   - EP
 ---
+
+
+>[!warning]
+>The Mean QRS Vector, “Axis”, and [[Ventricular Hypertrophy]] cannot be determined accurately in the presence of Bundle Branch Block.
+
+- RBBB and LBBB are specific varieties of **interventricular conduction delay (IVCD)**
+	- Caused by a block (of conduction) in the Right or in the Left Bundle Branch. The blocked Bundle Branch delays depolarization to the ventricle that it supplies.
+- QRS > 0.12 secs, i.e. > 3 small squares
+
+![[Left Bundle Branch Block (BBB)-20241220132421455.webp]]
+
+- LBBB almost immediately divides into 3 fascicles after splitting off from the His bundle. Hence, why if you see LBBB, it suggests a diffuse pathological process instead of a localized one.
+- LBBB itself causes disordered LV contraction and in patients with poor systolic function, can worsen cardiac performance. (See [[Cardiac Resynchronization Therapy (CRT)]])
+	- In patients with LBBB and [[Heart Failure]], [[Cardiac Resynchronization Therapy (CRT)|CRT]] can help recoordinate ventricular contractions
+- Prognosis:
+	- Younger patients with LBBB usually have no underlying heart disease, i.e. excellent prognosis
+	- Older patients, LBBB usually indicates presence of progressive heart disease (most commonly CAD, CM, or [[Valvular Heart Disease|valvular heart disease]])
+- Widened, R-R' appearance detected in leads V5 and V6
+# Complete versus Incomplete
+
 - **Complete LBBB** 
 	- QRS duration ≥120 ms
 	- Broad notched or slurred R wave in lateral leads (I, aVL, V5, and V6) and an occasional RS pattern in V5 and V6 attributed to displaced transition of QRS complex

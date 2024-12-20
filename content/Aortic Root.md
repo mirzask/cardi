@@ -2,6 +2,9 @@
 tags:
   - echo
 ---
+
+- The aortic root is an extension of the [[Left Ventricular Outflow Tract (LVOT)|LVOT]], extending from the basal attachment of the aortic valve cusps within the [[Left Ventricular Outflow Tract (LVOT)|LVOT]] to their peripheral attachment at the level of the sinotubular junction. Its components are the sinuses of Valsalva, the fibrous interleaflet triangles and the valvular cusps themselves.
+
 The aortic root is a geometrically complex structure that includes:
 1. the aortic valve annulus,
 	1. not a true or distinct anatomic structure but is a virtual ring that may be defined by joining the basal attachments, or nadirs, of the three aortic leaflets. The distal (uppermost) attachments of the leaflets, in the shape of a crown, form a true anatomic ring.
@@ -23,6 +26,12 @@ The aortic root is a geometrically complex structure that includes:
 		- measurements of the aortic annulus should be made in the zoom mode using standard electronic calipers in midsystole, when the annulus is slightly larger and rounder than in diastole, between the hinge points of the aortic valve leaflets (usually between the hinge point of the right coronary cusp and the edge of the sinus at the side of the commissures between the left coronary cusp and the noncoronary cusp) from **inner edge to inner edge**. 
 	- <u>end-diastole</u> for all other aortic root measurements
 		- All other aortic measurements should be made at end-diastole, in a strictly perpendicular plane to that of the long axis of the aorta.
+
+# Aortic Annulus
+
+- The aortic annulus is defined as the luminal contour within a virtual plane aligned with the most basal attachment points of the three aortic valve cusps (sometimes referred to as the ‘basal hinge points’). 
+	- Quantitative assessment requires the accurate identification of each of these three points in turn to create a plane that transects all three.
+
 
 # Reference Ranges
 
