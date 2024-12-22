@@ -8,6 +8,7 @@ aliases:
 	- [[Pulsed Wave Doppler]]
 	- [[Continuous Wave Doppler]]
 	- [[Tissue Doppler]]
+	- [[Color Doppler]]
 
 Doppler frequency changes depending on the direction and the velocity of a moving object, which in the case of cardiac echocardiography tends to involve RBCs in circulation or myocardial tissue (e.g. mitral annulus).
 
@@ -29,3 +30,7 @@ Doppler frequency changes depending on the direction and the velocity of a movin
 
 ![[Echo Doppler-20240731143419958.webp]]
 
+## Pulmonary Vein Doppler
+
+[Figure source](<https://www.onlinejase.com/article/S0894-7317(20)30614-3/abstract>)
+![[Echo Doppler-20241222082252034.webp]]

@@ -3,6 +3,7 @@ tags:
   - valvulardisease
 ---
 
+
 # Acute Aortic Regurgitation
 
 - Causes include
@@ -53,6 +54,11 @@ Surveillance with repeat non-invasive testing, e.g. repeat TTE
 		- I've seen permitting a slightly elevated HR to ↓ diastolic regurgitant filling
 		- In some patients this may result in a paradoxical apparent ↑ in BP
 # Diagnosis
+
+
+> [!NOTE] There is no such thing as "physiologic" AI
+> While ‘‘physiologic’’ or mild degrees of tricuspid and PR are commonly noted in normal exams, AR is not. When AR is detected, the evaluation starts with an assessment of the anatomy of the aortic valve and root to determine the etiology of the regurgitation followed by an assessment of LV size, geometry, and function.
+
 
 - Echo
 	- determine whether there is rapid equilibration of the aortic and LV diastolic pressures; visualizing the aortic root; and evaluating LV size and systolic function
