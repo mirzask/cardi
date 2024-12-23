@@ -27,12 +27,21 @@ The aortic root is a geometrically complex structure that includes:
 	- <u>end-diastole</u> for all other aortic root measurements
 		- All other aortic measurements should be made at end-diastole, in a strictly perpendicular plane to that of the long axis of the aorta.
 
-# Aortic Annulus
+# Aortic Valve Annulus
 
 - The aortic annulus is defined as the luminal contour within a virtual plane aligned with the most basal attachment points of the three aortic valve cusps (sometimes referred to as the ‘basal hinge points’). 
 	- Quantitative assessment requires the accurate identification of each of these three points in turn to create a plane that transects all three.
 
+# Sinuses of Valsalva
+
+- The aortic root diameter at the sinus of Valsalva is measured in the **PLAX view** using the **leading edge to leading edge method** (from the leading edge of the anterior root wall to the leading edge of the posterior aortic root wall) and is measured at **end-diastole** (end-diastole can be recognized as being at the onset of the QRS).[^ase-aorta]
+- Leading edge to leading edge method is kind of a relic of the past as it was initially devised to minimize the impact of ‘‘blooming’’ of bright reflectors on this measurement.[^ase-aorta]
+
+![[Aortic Root-20241223081433702.webp|620]]
 
 # Reference Ranges
 
 ![[Pasted image 20241212124221.webp]]
+
+
+[^ase-aorta]: https://www.asecho.org/wp-content/uploads/2015/01/2015_Thoracic-Aorta.pdf

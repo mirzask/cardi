@@ -17,6 +17,7 @@ tags:
 	- 📝 You may then be asked if you need to `Clear the output panel now?`, and you will select `Yes`.
 	- ![[Pasted image 20241219090443.webp]]
 - For 4D studies, you’ll `Right Click` → Select `HEART` → Select `Cardiac`
+	- Iyer like's to use `Other Workflow` → `Cardiac Measurement`
 
 # 3D View
 
