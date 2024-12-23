@@ -49,9 +49,3 @@ tags:
 	- Fri-Sat: 4-9PM (last time to give them a patient is 2015)
 	- Residents cap at 3 patients per short-call, 5 new patients in 24 hours, 8 new patients in 48 hours
 	- Use their time effectively, both for their learning as well as for your efficiency, by assigning them admissions and interesting consults.
-
-# Vascular Complications
-
-- Call the Interventional Cardiology fellow on call. On nights that there is not IC fellow call coverage, contact the IC attending on call directly.
-	- If needed, the IC fellow will then involve the IC attending on call.
-	- For the ICU, the IC fellow will involve the B service attending for perceived serious vascular issues (and can involve the IC attending on call if the B service attending requests this).
