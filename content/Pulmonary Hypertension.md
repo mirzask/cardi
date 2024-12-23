@@ -41,7 +41,7 @@
 ![[Pulmonary Hypertension-20241222073843662.webp|579]]
 # Echo Findings
 
-- PV acceleration time < 105 ms is highly suggestive of pulmonary hypertension
+- [[Pulmonary Velocity Acceleration Time (PVAT)|PV acceleration time]] < 105 ms is highly suggestive of pulmonary hypertension
 
 Additional echocardiographic signs suggestive of pulmonary hypertension[^esc]
 

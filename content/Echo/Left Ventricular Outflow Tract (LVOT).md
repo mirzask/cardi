@@ -11,8 +11,12 @@ aliases:
 - Normal values for LVOT peak velocity: 0.9 to 1.1 m/s
 - Normal values for TVI: 20 to 24 cm.
 - Stroke volume is proportional to LVOT TVI.
+- Echo
+	- Although guidelines suggest that the LVOT measurement should be made 0.5 to 1.0 cm from the annulus, studies indicate that calculating AV area using the LVOT measured at the annulus is more reproducible and accurate. [^ase-struc]
 
 📝 It should be noted that LVOT area is usually slightly underestimated since it has an oval shape, but LVOT area by 2D echocardiography assumes its circular shape. However, since LVOT area remains fixed, LVOT TVI can be used to monitor the change in stroke volume. Normally, there is no variation in LVOT velocity. However, in patients with severe LV dysfunction, LVOT velocity alternates every other beat (**pulsus alternans**), and in patients with tamponade or constrictive pericarditis, LVOT velocity varies with respiration (**pulsus paradoxus**).
 
 - Sources:
 	- Chapter 4 of Oh textbook
+
+[^ase-struc]: https://www.asecho.org/wp-content/uploads/2022/01/PIIS0894731721005940.pdf

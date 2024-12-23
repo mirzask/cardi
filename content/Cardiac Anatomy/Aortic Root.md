@@ -38,6 +38,24 @@ The aortic root is a geometrically complex structure that includes:
 - Leading edge to leading edge method is kind of a relic of the past as it was initially devised to minimize the impact of ‘‘blooming’’ of bright reflectors on this measurement.[^ase-aorta]
 
 ![[Aortic Root-20241223081433702.webp|620]]
+- With [[Transesophageal Echocardiography (TEE)|TEE]], aortic measurements are performed from the <u>mid-esophageal (ME) long-axis view</u> at **end-diastole**, using the **leading edge-to-leading edge** technique [^ase-struc]
+	- ![[Aortic Root-20241223133022232.webp]]
+
+## Sinus of Valsalva Aneurysms
+
+<center>Indications for Intervention on Sinus of Valsalva Aneurysms Based on Size of the Aneurysm</center>
+
+|                                                                                                      | ACCF/AHA Guidelines (2010) | ESC Guidelines (2014) | CCS Guidelines (2014) |
+| ---------------------------------------------------------------------------------------------------- | -------------------------- | --------------------- | --------------------- |
+| Degenerative                                                                                         | 5.5 cm                     | 5.5 cm                | 5.5 cm                |
+| Bicuspid Aortic Valve                                                                                | 5.5 cm                     | 5.0 cm                | 5.0-5.5               |
+| Marfan Syndrome                                                                                      | 4.0-5.0 cm                 | 5.0 cm                | 5.0 cm                |
+| Other Genetic Syndromes[†](https://www.jcvaonline.com/article/S1053-0770(20)31361-6/fulltext#tb2fn2) | 4.0-5.0 cm                 | —                     | 4.0-5.0 cm            |
+| Concomitant Cardiac Surgery                                                                          | 4.5 cm                     | 4.5 cm                | —                     |
+| Annual Growth Rate                                                                                   | 0.5 cm/year                | 0.3 cm/year           | 0.5 cm/year           |
+
+![[Aortic Root-20241223142501021.webp|594]]
+Figure and Table [source](<https://www.jcvaonline.com/article/S1053-0770(20)31361-6/fulltext>)
 
 # Reference Ranges
 
@@ -45,3 +63,4 @@ The aortic root is a geometrically complex structure that includes:
 
 
 [^ase-aorta]: https://www.asecho.org/wp-content/uploads/2015/01/2015_Thoracic-Aorta.pdf
+[^ase-struc]: https://www.asecho.org/wp-content/uploads/2022/01/PIIS0894731721005940.pdf

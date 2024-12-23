@@ -34,3 +34,11 @@ Doppler frequency changes depending on the direction and the velocity of a movin
 
 [Figure source](<https://www.onlinejase.com/article/S0894-7317(20)30614-3/abstract>)
 ![[Echo Doppler-20241222082252034.webp]]
+
+## [[Right Ventricular Outflow Tract (RVOT)|RVOT]] VTI Doppler Patterns
+
+- “Visual assessment of RVOT spectral signals demonstrates the presence of <u>four dynamic patterns</u>, independent of the etiology of the [[Pulmonary Hypertension]], that not only correlate with the severity of [[Pulmonary Hypertension]], but also are useful in identifying a range of PASP with great accuracy that minimizes subjective interpretation.” [^alc-rvot]
+- ![[Echo Doppler-20241223153511338.webp]]
+- ![[Echo Doppler-20241223153551571.webp]]
+
+[^alc-rvot]: Angel López-Candales, Kathy Edelman, Shape of the right ventricular outflow Doppler envelope and severity of pulmonary hypertension, _European Heart Journal - Cardiovascular Imaging_, Volume 13, Issue 4, April 2012, Pages 309–316, [https://doi.org/10.1093/ejechocard/jer235](https://doi.org/10.1093/ejechocard/jer235)

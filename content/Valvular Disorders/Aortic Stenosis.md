@@ -5,6 +5,7 @@ tags:
 - Related
 	- [[Aortic Valve]]
 	- [[Subaortic Stenosis]]
+	- [[Prosthetic Aortic Valve Stenosis]]
 - MC mechanism is calcification/calcific degeneration
 - In a patient with <u>severe AS</u>, Skolnick asks **"Is the patient safe enough to return for follow-up in 6-12 months?"**
 	- It is important to make sure that the patient is truly ASx before saying, "I'll see you again in 6 months."
