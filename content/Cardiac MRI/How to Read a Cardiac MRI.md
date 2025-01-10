@@ -1,0 +1,42 @@
+---
+tags:
+  - cMRI
+---
+- Open cvi42 application
+- On left pane 'Viewer' is your homebase
+- Start reading your scout images and assess extra-cardiac findings
+- `_trufi` sequence on Siemens good contrast b/w blood pool (bright 🔆 blood) and myocardium
+	- Gated images
+- Function Biplanar LAX can auto-calculate stuff for you
+- `Shift+Right click` for window/level
+- `Alt+R` to rotate images
+	- Orme used this to get anterior wall on SAX at 12 o'clock
+- Flow
+	- On Left pane select, `Flow 2D`
+	- Select flow images → drag them in
+	- See Total Forward Volume, Total Backward Volume, etc.
+	- Load aortic and pulmonary flows → Click 'Comparison' → Will automatically calculate a Qp/Qs for you
+- `_vibe_`
+	- Measurements of aorta, look at pulmonary veins, etc.
+	- "poor man's CTA"
+- MPR View
+	- Only works with certain sequences
+- 4D flow is free breathing
+	- We use Arterys (now under Tempus)
+	- Can use to calculate Qp/Qs as well
+- High TI imaging is great to see clot/thrombus, which will appear dark/black ⚫
+- `tiscout` to pick where myocardium is darkest/blackest. ti-scout to identify the time when the myocardium is nulled
+	- Amyloid never nulls
+	- "Normal myocardial nulling argues against [[Amyloidosis]]"
+	- Phase-sensitive inversion recovery (PSIR) lets the computer try to figure it out. Try if can't null and see if computer can figure it out.
+- 
+
+# Measure ventricle size
+
+- Left panel, select `Function SAX`
+- Pull in `cine_trufi_* SAX stack`
+- Pull in cross reference views in the smaller two windows
+- Find diastole (and systole) to correspond to your measurements of interest
+- SV between LV and RV should be +/- 10 mL
+	- not accounting for regurgitation, etc.
+- 

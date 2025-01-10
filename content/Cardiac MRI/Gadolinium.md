@@ -4,6 +4,8 @@ tags:
 aliases:
   - Late Gadolinium Enhancement (LGE)
 ---
+- Gadolinium is not visualized on MRI, but instead facilitates, the relaxation of hydrogen, protons in water
+- Is itself toxic, but because it is bound to a specific chelating agent it is safe for use
 - When acute infarct/inflammation,
 	- Rupture of cellular membrane.
 	- Cellular swelling and edema.

@@ -5,6 +5,10 @@ tags:
 
 Hypertrophic cardiomyopathy (HCM), the most common inherited cardiomyopathy, is characterized by [[Left Ventricular Hypertrophy|LVH]] (wall thickness in *any* segment ≥ 1.5 cm) without a secondary cause. It exhibits variable phenotypic expression due to incomplete penetrance. This condition leads to a range of symptoms, from asymptomatic to [[Heart Failure with Reduced Ejection Fraction (HFrEF)|heart failure]] and [[Sudden Cardiac Death (SCD)]].
 
+- TODO
+	- Risk factors that if present may warrant ICD implantation:
+		- ≥15% LGE
+		- Frequent NSVT
 # Pathophysiology
 
 Arises from enhanced actin-myosin interaction results in excessive myocardial contraction and simultaneous impairment in diastolic relaxation.[^jase]

@@ -4,6 +4,9 @@ tags:
 ---
 - Unlike T1-, T2-, or T2*-_weighted_ images, mapping permits both visualization and quantification of the disease process, independent of whether myocardial disease is focal or diffuse. This innovation is important because historically, diffuse myocardial disease related to specific disease pathways has been difficult to non-invasively quantify or even appreciate.
 - Native T1, T2, and T2* are measured in the absence of contrast agents (at least 24 h from the last dose, if any, in patients with normal renal function).
+- `T2*` ≤ 20 is abnormal and ≤ 10 is really abnormal
+- T2: "if the colors are cool, then everything is fine"
+	- By contrast, if red/warm, then there may be a problem
 - Tesla for mapping
 	- T1, ECV and T2 mapping are typically performed at 1.5 or 3 Tesla (T).
 	- T2* mapping for iron overload currently should be performed at 1.5 T.
