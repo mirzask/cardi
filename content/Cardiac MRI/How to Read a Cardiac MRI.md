@@ -4,6 +4,9 @@ tags:
 ---
 - Open cvi42 application
 - On left pane 'Viewer' is your homebase
+- 3 groups of MRI images (in order)
+	- Echo-like images
+	- 
 - Start reading your scout images and assess extra-cardiac findings
 - `_trufi` sequence on Siemens good contrast b/w blood pool (bright 🔆 blood) and myocardium
 	- Gated images

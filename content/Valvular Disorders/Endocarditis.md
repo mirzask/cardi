@@ -21,14 +21,26 @@ aliases:
 
 # Diagnosis
 
+![[Endocarditis-20250110121055805.webp]]
+
+![[Endocarditis-20250110121104248.webp]]
+
 ## Modified Duke Criteria
 
 ![[Endocarditis-20240909202039031.webp|550]]
 
 ![[Endocarditis-20240909202301609.webp]]
+
+## Cardiac CTA
+
+
 # Management
 
 ![[Endocarditis-20240909202219104.webp]]
+
+[ESC Guidelines](https://academic.oup.com/eurheartj/article/44/39/3948/7243107#429636718)
+
+![[Endocarditis-20250110122620130.webp]]
 # Complications
 
 - Progression to involve the valve annulus → **fistula** between the LA and LV, which could result in significant [[Mitral Regurgitation|regurgitation]].

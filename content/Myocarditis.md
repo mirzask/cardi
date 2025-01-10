@@ -3,6 +3,16 @@ tags:
   - pericardial
 ---
 
+# Diagnosis
+
+## [[Cardiac MRI]]
+
+![[Myocarditis-20250110121234595.webp]]
+
+
+![[Myocarditis-20250110121446484.webp]]
+Figure caption: Cardiovascular magnetic resonance criteria for myocarditis (Lake Louise Criteria) in the same patients: regional myocardial edema (top left), hyperemia in images acquired early after contrast injection (top right), and inflammatory necrosis in images acquired late (>10 minutes) after contrast injection (bottom). All 3 criteria are positive. ([Source](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.122.014068?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed))
+
 # Myopericarditis
 
 - Nomenclature: Pericarditis with known or clinically suspected concomitant myocardial involvement should be referred to as **'myopericarditis'**, while predominant myocarditis with pericardial involvement should be referred to as **'perimyocarditis'**, according to Task Force consensus.

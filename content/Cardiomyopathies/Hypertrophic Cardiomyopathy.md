@@ -4,6 +4,9 @@ tags:
 ---
 
 Hypertrophic cardiomyopathy (HCM), the most common inherited cardiomyopathy, is characterized by [[Left Ventricular Hypertrophy|LVH]] (wall thickness in *any* segment ≥ 1.5 cm) without a secondary cause. It exhibits variable phenotypic expression due to incomplete penetrance. This condition leads to a range of symptoms, from asymptomatic to [[Heart Failure with Reduced Ejection Fraction (HFrEF)|heart failure]] and [[Sudden Cardiac Death (SCD)]].
+- Formal definition: "A clinical diagnosis of HCM in adult patients can therefore be established by imaging, typically with 2D echocardiography or cardiovascular magnetic resonance (CMR) showing a maximal end-diastolic wall thickness of ≥ 15 mm anywhere in the left ventricle, in the absence of another cause of hypertrophy in adults." [^ommen]
+	- 📝More limited hypertrophy (13-14 mm) can be diagnostic when present in family members of a patient with HCM or in conjunction with a positive genetic test identifying a pathogenic or likely pathogenic variant often in a sarcomere gene.
+- Nearly any pattern and distribution of LV wall thickening can be observed in HCM, with the basal anterior septum in continuity with the anterior free wall the most common location for LVH. In a subset of patients, hypertrophy can be limited and focal, confined to only 1 or 2 LV segments with normal LV mass.
 
 - TODO
 	- Risk factors that if present may warrant ICD implantation:
@@ -11,7 +14,8 @@ Hypertrophic cardiomyopathy (HCM), the most common inherited cardiomyopathy, is 
 		- Frequent NSVT
 # Pathophysiology
 
-Arises from enhanced actin-myosin interaction results in excessive myocardial contraction and simultaneous impairment in diastolic relaxation.[^jase]
+- Arises from enhanced actin-myosin interaction results in excessive myocardial contraction and simultaneous impairment in diastolic relaxation.[^jase]
+- The pathophysiology of HCM consists of dynamic [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction, [[Mitral Regurgitation|mitral regurgitation (MR)]], [[Diastology|diastolic dysfunction]], myocardial ischemia, arrhythmias, metabolic and energetic abnormalities, and potentially [[Dysautonomia|autonomic dysfunction]].[^ommen]
 
 HCM's hallmark is the **dynamic [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction**, which can occur at rest (1/3 of patients) or with provocation in 75% of HCM patients.[^jase] Unlike [[Aortic Stenosis|aortic stenosis]], where the obstruction is fixed, the degree of blockage in HCM changes based on factors like heart rate, blood volume, and even body position. This obstruction occurs due to the thickening of the ventricular septum, which protrudes into the LVOT, particularly during systole. Of note, while [[Left Ventricular Hypertrophy|LVH]] is most frequently asymmetric, involving the ventricular septum, but can occur in any pattern.[^jase] This encroachment, coupled with **systolic anterior motion (SAM)** of the mitral valve leaflet, restricts blood flow out of the ventricle. 
 
@@ -66,6 +70,13 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 - **Genetic Testing**
 	- While HCM is a genetic disease, genetic testing isn't always necessary for diagnosis. Genetic testing helps identify specific gene mutations, which can be helpful for family screening but doesn't change the initial approach to management.
 
+## HCM Mimics
+
+- Systemic disorders include various metabolic and multiorgan syndromes such as RASopathies (variants in several genes involved in RAS-MAPK signaling); mitochondrial myopathies; glycogen and lysosomal storage diseases in children; and Fabry, [[Amyloidosis|amyloid]], [[Sarcoidosis|sarcoid]], and Danon cardiomyopathies. 
+	- In these syndromic or infiltrative diseases, although the magnitude and distribution of increased LV wall thickness can be similar to that of HCM, the pathophysiologic mechanisms responsible for hypertrophy, natural history, and treatment strategies are not the same.
+- Causes of **secondary LVH**, which can also overlap phenotypically with HCM, including remodeling secondary to athletic training (ie, '**athlete's heart**') as well as morphologic changes related to long-standing systemic hypertension (ie, **hypertensive cardiomyopathy**). Similarly, hemodynamic obstruction caused by left-sided obstructive lesions ([[Aortic Stenosis|valvular or subvalvular stenosis]]) or obstruction after antero-apical infarction and [[Takotsubo Cardiomyopathy|stress cardiomyopathy]] can cause diagnostic dilemmas.
+	- Although HCM cannot be definitely excluded in such situations, a number of clinical markers and testing strategies can be used to help differentiate between HCM and conditions of physiologic LVH.
+
 ## Echo in HCM
 
 
@@ -75,6 +86,11 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 
 - LV wall thickness
 - Systolic anterior motion (SAM)
+- Several morphologic abnormalities are also not diagnostic of HCM but can be part of the phenotypic expression of the disease, including hypertrophied and apically displaced papillary muscles, myocardial crypts, anomalous insertion of the papillary muscle directly in the anterior leaflet of the mitral valve (in the absence of chordae tendineae), elongated mitral valve leaflets, myocardial bridging, and right ventricular (RV) hypertrophy.
+
+### Systolic anterior motion (SAM)
+
+- Although common in HCM, SAM of the [[Mitral Valve|mitral valve]] and hyperdynamic LV function are not pathognomonic and are not required for a clinical diagnosis.
 ### [[Left Ventricular Outflow Tract (LVOT)|LVOT]] Obstruction
 
 > [!NOTE] [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction $\propto$ [[Mitral Regurgitation|MR]] severity
@@ -161,6 +177,9 @@ Managing HCM involves addressing four key areas:
 - Negative inotrope that ↓ LVOT gradients in HCM with [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction
 - TTE at weeks 4, 8, and 12 after initiation of therapy, then every 12 weeks for for gradient monitoring and to assess for LV systolic dysfunction, as part of the Risk Evaluation and Mitigation Strategy (REMS) program for mavacamten.[^jase]
 
+## [[Implantable Cardioverter-Defibrillator (ICD)|ICD]] for [[Sudden Cardiac Death (SCD)|SCD]] Prevention
+
+- One of the major treatment initiatives responsible for lowering the mortality rate has been the evolution of sudden cardiac death (SCD) risk stratification strategies based on several major noninvasive risk markers that can identify adult patients with HCM at greatest risk for sudden death who are then candidates for implantable cardioverterdefibrillator (ICD) placement. [^ommen]
 ## Interventions
 
 ### Surgical Myectomy
@@ -170,3 +189,4 @@ Managing HCM involves addressing four key areas:
 
 [^bbm-sign]: Trevino, A. R., & Buergler, J. (2014). The Brockenbrough – Braunwald – Morrow Sign. Methodist DeBakey Cardiovascular Journal, 10(1), 34. https://doi.org/10.14797/mdcj-10-1-34
 [^jase]: Abbasi M, Ong KC, Newman DB, Dearani JA, Schaff HV, Geske JB. Obstruction in hypertrophic cardiomyopathy: many faces. _Journal of the American Society of Echocardiography_. 2024;37(6):613-625. doi:10.1016/j.echo.2024.02.010
+[^ommen]: Ommen SR, Ho CY, Asif IM, Balaji S, Burke MA, Day SM, Dearani JA, Epps KC, Evanovich L, Ferrari VA, Joglar JA, Khan SS, Kim JJ, Kittleson MM, Krittanawong C, Martinez MW, Mital S, Naidu SS, Saberi S, Semsarian C, Times S, Waldman CB; Peer Review Committee Members. 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. 2024 Jun 4;149(23):e1239-e1311. doi: 10.1161/CIR.0000000000001250. Epub 2024 May 8. Erratum in: Circulation. 2024 Aug 20;150(8):e198. doi: 10.1161/CIR.0000000000001277. PMID: 38718139.

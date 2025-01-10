@@ -73,6 +73,19 @@ aliases:
 - Avoid caffeinated drinks for at least 12 hours
 - Avoid theophylline-containing medications for at least 48 hours
 
+## Prep for FDG-PET
+
+- 1-2 days prior to study: low/no carb, high fat diet
+	- Ideally fast 18 hours
+	- Heparin injection traditionally used, but newer data showing that it probably doesn't make a difference.
+- Measurement of ketones in serum is a better marker that patient is in ketogenic state than checking blood sugar levels.
+	- ![[Positron Emission Tomography (PET)-20250110122124444.webp]]
+		- [Source](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.124.016774)
+
+Dietary carbohydrate intake normally triggers insulin secretion, which activates the predominantly expressed glucose transporter GLUT4 in normal myocardium and allows glucose to enter cells. In the absence of carbohydrates and insulin, the myocardium uses free fatty acids for energy.9 However, in inflammatory cells, glucose enters the cell via GLUT1 and GLUT3 (which are constitutively expressed).10 After entering a cell via a glucose transporter, 18F-FDG is trapped by phosphorylation, allowing for metabolic imaging.11 As such, active inflammation or granulomatous disease may be identified by 18F-FDG in an atmosphere that optimally suppresses physiological myocardial uptake of 18F-FDG, as illustrated in Figure 1.12,13 In contrast, when using 18F-FDG imaging to assess myocardial viability, a high insulin state is preferred to promote glucose utilization by hibernating myocardium.14 In such cases, 18F-FDG imaging takes advantage of the upregulation of glucose transporters in ischemic and hibernating myocardium. ([Source](https://www.sciencedirect.com/science/article/abs/pii/S1071358123064425?via%3Dihub))
+
+![[Positron Emission Tomography (PET)-20250110121735855.webp]]
+
 # Hybrid PET/MR
 
 - **Hybrid PET/MR**
