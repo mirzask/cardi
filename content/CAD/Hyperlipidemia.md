@@ -138,6 +138,15 @@ Variability in individual response to statins
 ![](https://d3i71xaburhd42.cloudfront.net/8069b1c2d8623a8041c32b6cbf235ab2f95be264/4-Figure2-1.png)
 
 
+## Statin-Intolerance
+
+ 1. Try 2-3 different daily [[Statins]] and allow a 1 mo washout between each of them
+ 2. Try less than daily statin (e.g. 1x/week, every other day, etc.)
+	 1. Kopecky likes to do rosuvastatin 1x/week → ↑ LDL receptors will improve the efficacy of [[Ezetimibe]], [[PCSK9 Inhibitors|PCKS9i]]
+ 3. Start [[Ezetimibe]]
+ 4. Add [[PCSK9 Inhibitors]] if high-risk
+ 5. Add [[Bempedoic Acid]] if *not* high-risk
+
 # Primary Prevention
 
 ![[Hyperlipidemia-20240925184923066.webp]]

@@ -4,6 +4,16 @@ tags:
   - CAD
 ---
 
+
+|                | High Intensity                                           | Moderate Intensity                                                                                                            | Low Intensity                                                    |
+| -------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| LDL-C Lowering | ≥50%                                                     | 30%–49%                                                                                                                       | <30%                                                             |
+| Statins        | Atorvastatin (40 mg) 80 mg<br>Rosuvastatin 20 mg (40 mg) | Atorvastatin 10 mg (20 mg)<br>Rosuvastatin (5 mg) 10 mg<br>Simvastatin 20–40 mg                                               | Simvastatin 10 mg                                                |
+|                |                                                          | Pravastatin 40 mg (80 mg)<br>Lovastatin 40 mg (80 mg)<br>Fluvastatin XL 80 mg<br>Fluvastatin 40 mg BID<br>Pitavastatin 1–4 mg | Pravastatin 10–20 mg<br>Lovastatin 20 mg<br>Fluvastatin 20–40 mg |
+Table source: Table 3 of [^2018-guideline]
+
+
+
 - Dr. O'Keefe is not a fan of Atorva 80 mg b/c side effects of statins are dose-dependent.
 	- You can get rhabdo with high doses of statins. Dr. O'Keefe gave an example of post-transplant patient on Atorva 80 who got rhabdo and died a few months later.
 	- Delta between 40 mg and 80 mg of atorva is 48% → 51% reduction (delta is only 3%)
@@ -15,6 +25,8 @@ tags:
 - Dr. O'Keefe gets nervous getting someones LDL < 30
 - Side effects are not related to LDL level, rather related to statin dose.
 - ⚠️ Statins are contraindicated in pregnancy 🤰and lactation
+- 📝 At equivalent statin doses, Asians achieve greater LDL lowering than Westerners
+	- ∴ Consider starting with lower dose (1/4 dose) in Asians
 - Mnemonic for statin side effects "LIPITOR":
 	- Liver effects
 	- Increased blood sugar
@@ -52,3 +64,16 @@ tags:
 
 Variability in individual response to statins
 ![](https://d3i71xaburhd42.cloudfront.net/8069b1c2d8623a8041c32b6cbf235ab2f95be264/4-Figure2-1.png)
+
+# Drug-Drug Interactions
+
+## Simvastatin
+
+- Risk of myopathy, including rhabdomyolysis, is ↑ by concomitant administration of:
+	- [[Calcium Channel Blockers (CCBs)|CCBs]] Verapamil or Diltiazem
+		- 📝 Simvastatin dose should not exceed 10 mg/day!
+	- [[Amiodarone]], Amlodipine or Ranolazine
+		- 📝 Simvastatin dose should not exceed 20 mg/day!
+
+[^2018-guideline]: Grundy, S, Stone, N, Bailey, A. et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. JACC. 2019 Jun, 73 (24) 3168–3209.
+https://doi.org/10.1016/j.jacc.2018.11.002

@@ -94,6 +94,10 @@ Schema [source](https://clinicalproblemsolving.com/dx-schema-chest-pain/)
 
 # Risk Scores for Patient Stratification
 
+- ==Clinical Decision Pathways are useful to identify low risk patients for early discharge==
+	- Serial troponins in HEART Pathway, EDACS, ADAPT, etc
+	- For example, if HEART score < 3 and normal evaluation patient may be able to be discharged and have outpatient eval.
+
 |                                                      | HEART Pathway                                                      | EDACS                                                              | ADAPT (mADAPT)                                                     | NOTR                                                                  | 2020 ESC/hs-cTn                            | 2016 ESC/GRACE                                                                                       |
 | ---------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
 | Target population                                    | Suspected ACS                                                      | Suspected ACS, CP >5 min, planned serial troponin                  | Suspected ACS, CP >5 min, planned observation                      | Suspected ACS, ECG, troponin ordered                                  | Suspected ACS, stable                      | Suspected ACS, planned serial troponin                                                               |
@@ -101,7 +105,16 @@ Schema [source](https://clinicalproblemsolving.com/dx-schema-chest-pain/)
 | Patients with primary outcome in study population, % | 6–22                                                               | 12                                                                 | 15                                                                 | 5–8                                                                   | 9.8                                        | 10–17                                                                                                |
 | Troponin                                             | cTn, hs-cTn                                                        | hs-cTn                                                             | cTn, hs-cTn                                                        | cTn, hs-cTn                                                           | hs-cTn                                     | cTn, hs-cTn                                                                                          |
 | Variables used                                       | History  <br>ECG  <br>Age  <br>Risk factors  <br>Troponin (0, 3 h) | Age  <br>Sex  <br>Risk factors  <br>History  <br>Troponin (0, 2 h) | TIMI score 0-1  <br>No ischemic ECG changes  <br>Troponin (0, 2 h) | Age  <br>Risk factors  <br>Previous AMI or CAD  <br>Troponin (0, 2 h) | History  <br>ECG  <br>hs-cTn (0, 1 or 2 h) | Age  <br>HR, SBP  <br>Serum Cr  <br>Cardiac arrest  <br>ECG  <br>Cardiac biomarker  <br>Killip class |
-![[Acute Coronary Syndromes (ACS)-20240923121531173.webp]]
+![[Acute Coronary Syndromes (ACS)-20240923121531173.webp|758]]
+
+##  HEART Score
+
+- Helps determine who will benefit from hospital 🏥 admission
+- Low (0-3), Medium (4-6), or High (7-10) Risk for 30-Day MACE
+
+![[Acute Coronary Syndrome (ACS)-20250112123911174.webp|410]]
+
+
 # Cardiac Testing
 
 Test selection should be based on **patient risk and pre-test likelihood of CAD** and may be influenced by site expertise and availability[^cp]

@@ -1,0 +1,11 @@
+---
+tags:
+  - cardiomyopathy
+  - EP
+---
+- Fatty replacement of RV free wall
+- Repolarization abnormality on ECG
+- Conduction delay on ECG
+- Arrhythmia (VT with LBBB morphology)
+- 30% with Family History of someone who has had it
+- No competitive athletics d/t risk of further arrhythmias ⚡

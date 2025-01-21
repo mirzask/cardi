@@ -19,4 +19,16 @@ aliases:
 
 ![[Microvascular Dysfunction-20240925180001054.webp]]
 
+[[Adenosine]] testing
+
+| CFR     | IMR      | Interpretation                      |
+| ------- | -------- | ----------------------------------- |
+| ✅ (≥ 2) | ✅ (< 25) | Normal                              |
+| ❌ (< 2) | ✅ (< 25) | Functional CMD                      |
+| ✅ (≥ 2) | ❌ (≥ 25) | Structural CMD (*early in course?*) |
+| ❌ (< 2) | ❌ (≥ 25) | Structural CMD                      |
+
+- [[Acetylcholine]] testing
+
+
 [^cmd-natrev]: Camici, P. G., d’Amati, G., & Rimoldi, O. (2014). Coronary microvascular dysfunction: mechanisms and functional assessment. Nature Reviews Cardiology, 12(1), 48–62. https://doi.org/10.1038/nrcardio.2014.160
