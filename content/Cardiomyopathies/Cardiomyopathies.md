@@ -17,3 +17,4 @@ tags:
 	- [[Sarcoidosis]]
 	- Infections or [[Myocarditis]]
 	- Eosinophilic cardiomyopathy
+- [[Hypertrophic Cardiomyopathy]]

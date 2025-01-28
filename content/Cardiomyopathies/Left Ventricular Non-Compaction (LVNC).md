@@ -7,7 +7,7 @@ aliases:
 
 - LVNC is really a spectrum (compared to what was previously thought)
 
-Ammon's approach to managing patients with LVNC
+Ommen's approach to managing patients with LVNC
 ```mermaid
 flowchart TD
     A[LVNC] --> B(Systolic Function)

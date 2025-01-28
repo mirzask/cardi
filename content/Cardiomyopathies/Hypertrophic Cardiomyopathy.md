@@ -97,14 +97,17 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 > The degree of resting LVOT obstruction has been shown to be directly proportional to the degree of MR associated with SAM.[^jase]
 
 
+- Primarily caused by SAM of the [[Mitral Valve|mitral valve]]
 - **[[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction** is assessed using [[Continuous Wave Doppler]]-derived peak instantaneous gradient
 - 📝 Can occur even in the absence of [[Left Ventricular Hypertrophy|LVH]] 2/2 anatomical issues of the [[Mitral Valve|MV]] leaflet and papillary muscles‼️
-- LVOT gradient ≥ 50 mm Hg (at rest or with provocation) identifies <u>severe</u> obstruction and often serves as a threshold for pursuing septal reduction therapy or initiation of myosin inhibitor therapy.
+- Obstruction is considered present if peak LVOT gradient is ≥ 30 mm Hg. Resting or provoked gradients ≥ 50 mm Hg are generally considered capable of causing symptoms and, therefore, are the threshold for contemplating advanced pharmacological or invasive therapies if symptoms are refractory to standard management.[^ommen]
+	- LVOT gradient ≥ 50 mm Hg (at rest or with provocation) identifies <u>severe</u> obstruction and often serves as a threshold for pursuing septal reduction therapy or initiation of myosin inhibitor therapy.
+	- Provocative measures include standing, **Valsalva strain**, or exercise with simultaneous auscultation or echocardiography.[^ommen]
 - Classification of HCM on the basis of obstruction: [^jase]
 	- **resting obstruction** (LVOT gradient ≥30 mm Hg),
 	- **latent obstruction** (<30 mm Hg at rest, ≥30 mm Hg with provocation), and
 	- **nonobstructive** (<30 mm Hg at rest and with provocation).
-
+- ⚠️ LVOTO in HCM is dynamic and sensitive to ventricular preload, afterload, and contractility. 2 Thus, gradients vary with heart rate, blood pressure, volume status, activity, medications, food, and alcohol intake.
 
 
 - Classically described as having a "dagger"-shaped appearance, but honestly resembles more of a nonworking upper edge of a Bowie knife. [^jase] Dr. Saghir also used the term "dragon's tooth," which I like.
@@ -118,6 +121,11 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 
 ### [[Mitral Regurgitation]]
 
+- [[Mitral Regurgitation|MR]] in HCM can be either primary or secondary (d/t SAM)
+	- Common primary abnormalities of the mitral valve in patients with HCM include excessive leaflet length, anomalous papillary muscle insertion, and anteriorly displaced papillary muscles.[^ommen]
+	- MR jet characteristics can be useful to tease out if 1˚ or 2˚ MR
+		- MR caused by SAM is typically mid-to-late systolic in timing and posterior or lateral in orientation, owing to the anterior distortion of the mitral valve and compromised leaflet coaptation.[^ommen]
+			- 📝 central and anterior jets may also result from SAM of the mitral valve.
 - **Posteriorly-directed MR jet** (classically): Usually, the anterior and posterior MV leaflets fail to coapt in mid-late systole, due to the upward and anterior motion of the anterior leaflet toward the LVOT, creating a funnel that directs the MR posteriorly through the interleaflet gap.[^jase]
 - Contours compared to SAM:
 	- Compared with the CWD contour of [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction, the contour of SAM-mediated [[Mitral Regurgitation|MR]] is more rounded with higher velocity, the latter of which reflects a much higher LV-to-LA gradient. [^jase]

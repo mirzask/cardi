@@ -1,0 +1,18 @@
+---
+tags:
+  - cardiomyopathy
+---
+- LVEDD >55
+- Responds to de-training
+- Super-normal exercise capacity
+- No MRI scar tissue or perfusion defects
+- Seems to be more pronounced among rowers 🚣 and bicyclists 🚴‍♀️
+- Endurance athletes tend to have more dilation
+- Needs to be differentiated from [[Hypertrophic Cardiomyopathy]]
+	- Unusual LVH pattern
+	- LVEDD <45
+	- Marked LAE
+	- Bizarre ECG
+	- Abnormal LV filling
+	- Reduced TDI velocity
+	- Female
