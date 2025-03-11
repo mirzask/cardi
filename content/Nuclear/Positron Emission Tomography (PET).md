@@ -122,6 +122,17 @@ PET always has attenuation correction. SPECT on the other hand doesn't always ha
 
 - Compared with [[Single-photon emission computed tomography (SPECT)|SPECT]] MPI, the advantages of PET MPI include improved spatial resolution, better [[Attenuation Correction (AC)|attenuation correction]], and lower radiation dose. These advantages are highly relevant in viability images because they allow better identification of the presence, extent, and severity of scar.
 	- Moreover, the PET system is more sensitive than a [[Single-photon emission computed tomography (SPECT)|SPECT]] system due to the higher count rate and provides the possibility of [[Attenuation Correction (AC)|attenuation correction]].[^asnc]
+- Higher spatial and temporal resolution
+- Peak stress rather than post-peak image acquisition
+- Superior diagnostic value for coronary artery disease (CAD) when compared with myocardial perfusion SPECT
+- Low radiation dose
+	- Short half-lives of radionuclide tracers allow lower effective radiation doses and faster imaging protocols (i.e., increased laboratory throughput).
+- Short acquisition time allowing multiple studies in 1 day, 
+- Quantitation of absolute myocardial blood flow (MBF; mL/g/min), increasing sensitivity to identify diffuse atherosclerosis, microvascular dysfunction, coronary steal and/or hibernating myocardium
+
+![[Positron Emission Tomography (PET)-20250311103928222.webp]]
+[Figure source](https://www.asnc.org/wp-content/uploads/2024/05/Positron-Emission-Tomography-Myocardial-Perfusion-ImagingaE%E2%80%B9.pdf)
+
 - Quantification of [[Myocardial Blood Flow (MBF)|MBF]] may provide diagnostic and prognostic information earlier than visual interpretation of relative radiotracer uptake, which is a fundamental disadvantage of the conventional SPECT technique.[^asnc]
 - It is also possible to combine [[Single-photon emission computed tomography (SPECT)|SPECT]] MPI with 18F-FDG PET metabolic imaging. [^imaging]
 
