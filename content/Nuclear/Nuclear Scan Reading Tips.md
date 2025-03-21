@@ -3,6 +3,10 @@ tags:
   - nuclear
 ---
 
+- Bateman dumbing it down for me
+	- Are the short axis 🍩 views circular? Any thickness?
+	- Is there [[Nuclear Scan Reading Tips#Transient ischemic dilation (TID) ratio|TID]]?
+	- The apex should be thinner than elsewhere (if not, think of things like apical [[Hypertrophic Cardiomyopathy|HCM]])
 - LAD supplies 45-65% of the LV
 - RCA supplies at most ~20% of the LV if a dominant RCA
 - Preparation prior to MPI PET
@@ -11,6 +15,7 @@ tags:
 	- 48-hour theophylline avoidance
 - The most common cause of non-response to Regadenoson is failing to avoid caffeine ☕
 	- Half-life of caffeine in a healthy, young person is 4.5 hours. One of the reasons Bateman suspects there are issues of non-response with Regadenoson in patients with liver disease is that the caffeine lingers around much longer.
+- <u>Wall</u> volume on Cedars: anything ≥ 125 mL should make you think of LVH
 
 # Dealing with "hotspots"
 
@@ -109,7 +114,7 @@ Figure source: https://pubmed.ncbi.nlm.nih.gov/36607537/
 # [[Single-photon emission computed tomography (SPECT)|SPECT]]
 
 - In Cedars, scans that end with `_AC` are [[Attenuation Correction (AC)|attenuation corrected]] and scans that end with `_SC` are **scatter corrected**.
-- In the `QPS` tab, selecting `Prompt+` will overlay the supine and upright images
+- In the `QPS` tab, selecting `Prone+` will overlay the supine and upright images
 	- 🤔 Does the defect go away when the images are overlaid?
 
 ## QC for [[Single-photon emission computed tomography (SPECT)|SPECT]]
@@ -129,6 +134,8 @@ Figure source: https://pubmed.ncbi.nlm.nih.gov/36607537/
 	- ![[Nuclear Scan Reading Tips-20241106115329022.webp]]
 - "Hurricane sign" is suggestive of motion artifact on [[Single-photon emission computed tomography (SPECT)|SPECT]]
 	- ![[Nuclear Scan Reading Tips-20241106115153990.webp|260]]
+- Motion artifact on SPECT can be seen as vertical lines on the **Panogram**
+	- ![[Nuclear Scan Reading Tips-20250320133343694.webp|538]]
 
 # CT scans
 

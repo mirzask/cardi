@@ -38,7 +38,7 @@ Caption: ECG patterns of Q-wave/Q-wave equivalent myocardial infarction on the 1
 	- Represent a 2D compilation of all the 3D **short-axis** perfusion data. 
 		- transformation of the 3D tomographic image of left ventricular perfusion into a overlayed 2D image
 	- Division of Polar map using the Cedars-Sinai software
-		- ![[Nuclear Medicine-20240422092336832.webp|462]]
+		- ![[17-Segment Model-20250319143318219.webp]]
 - Use of the 17 segment model (similar to Echo)
 	- ![[Nuclear Medicine-20240422091516860.webp|526]]
 - **Location**

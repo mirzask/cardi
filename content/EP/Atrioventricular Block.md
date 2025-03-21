@@ -20,6 +20,11 @@ aliases:
 | [[AV Block#Second degree (2˚) AV Block\|Second-degree]] | No<br>(unless Sx [[Bradycardia\|brady]]) | Yes                                   |
 | [[AV Block#Third degree (3˚) AV Block\|Third-degree]]   | No<br>(unless Sx [[Bradycardia\|brady]]) | Yes                                   |
 
+![[Atrioventricular Block-20250313123835384.webp]]
+HBE - you see the A without an H after, so this is AV nodal block, i.e. above the His. The example here is Mobitz Type 1.
+
+![[Atrioventricular Block-20250313124051183.webp]]
+Here, you have A and H. This is an example of infranodal block as there is nothing after the H on a couple of these.
 
 - ==If heart block is less than complete (i.e. first- or second-degree), it is still important to pinpoint the site of block to either the AV node (nodal) or the His–Purkinje system (infranodal).== If in the AV node, it tends to be benign and non-progressive.  If distal to the AV node (infranodal), it tends to progress to a higher degree of block; prophylactic pacing is often indicated.[^fogoros]
 	- Infranodal block is potentially life-threatening. This is largely d/t the unreliable, unstable, and slow escape pacemakers that tend to accompany this condition. Often discharge irregularly at a rate of 20-40 bpm and are prone to fail altogether.
@@ -30,13 +35,14 @@ aliases:
 
 <center>Non-invasive differentiation of AV nodal and infranodal block</center>
 
-|                        | AV nodal | Infranodal                  |
-| ---------------------- | -------- | --------------------------- |
-| Exercise/isoproterenol | Improves | Conduction ratio may worsen |
-| Atropine               | Improves | Conduction ratio may worsen |
-| Vagal maneuvers        | Worsens  | No change                   |
-| [[Beta Blockers]]      | Worsens  | No change                   |
+|                        | AV nodal | Infranodal                                   |
+| ---------------------- | -------- | -------------------------------------------- |
+| Exercise/isoproterenol | Improves | Conduction ratio may worsen                  |
+| Atropine               | Improves | Conduction ratio may worsen                  |
+| Vagal maneuvers        | Worsens  | No change (maybe improve if can conduct 1:1) |
+| [[Beta Blockers]]      | Worsens  | No change                                    |
 
+Vagal → slow them down if infranodal disease → conduct 1:1
 
 - Causes
 	- Ischemia or infarction

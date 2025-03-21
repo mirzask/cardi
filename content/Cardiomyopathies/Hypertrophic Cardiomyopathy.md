@@ -19,6 +19,8 @@ Hypertrophic cardiomyopathy (HCM), the most common inherited cardiomyopathy, is 
 
 HCM's hallmark is the **dynamic [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction**, which can occur at rest (1/3 of patients) or with provocation in 75% of HCM patients.[^jase] Unlike [[Aortic Stenosis|aortic stenosis]], where the obstruction is fixed, the degree of blockage in HCM changes based on factors like heart rate, blood volume, and even body position. This obstruction occurs due to the thickening of the ventricular septum, which protrudes into the LVOT, particularly during systole. Of note, while [[Left Ventricular Hypertrophy|LVH]] is most frequently asymmetric, involving the ventricular septum, but can occur in any pattern.[^jase] This encroachment, coupled with **systolic anterior motion (SAM)** of the mitral valve leaflet, restricts blood flow out of the ventricle. 
 
+![[Hypertrophic Cardiomyopathy-20250321123433337.webp|644]]
+
 
 > [!warning] Not all HCM is 'obstructive'
 > ~1/3 of patients with HCM are **non-obstructive** [^jase]
@@ -77,6 +79,11 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 - Causes of **secondary LVH**, which can also overlap phenotypically with HCM, including remodeling secondary to athletic training (ie, '**athlete's heart**') as well as morphologic changes related to long-standing systemic hypertension (ie, **hypertensive cardiomyopathy**). Similarly, hemodynamic obstruction caused by left-sided obstructive lesions ([[Aortic Stenosis|valvular or subvalvular stenosis]]) or obstruction after antero-apical infarction and [[Takotsubo Cardiomyopathy|stress cardiomyopathy]] can cause diagnostic dilemmas.
 	- Although HCM cannot be definitely excluded in such situations, a number of clinical markers and testing strategies can be used to help differentiate between HCM and conditions of physiologic LVH.
 
+## ECG
+
+- Yamaguchi - should raise suspicion for <u>apical</u> HCM
+
+![[Hypertrophic Cardiomyopathy-20250321124007695.webp]]
 ## Echo in HCM
 
 
@@ -91,6 +98,7 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 ### Systolic anterior motion (SAM)
 
 - Although common in HCM, SAM of the [[Mitral Valve|mitral valve]] and hyperdynamic LV function are not pathognomonic and are not required for a clinical diagnosis.
+
 ### [[Left Ventricular Outflow Tract (LVOT)|LVOT]] Obstruction
 
 > [!NOTE] [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction $\propto$ [[Mitral Regurgitation|MR]] severity
@@ -99,6 +107,10 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 
 - Primarily caused by SAM of the [[Mitral Valve|mitral valve]]
 - **[[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction** is assessed using [[Continuous Wave Doppler]]-derived peak instantaneous gradient
+- ⚠️ Make sure you are not getting the [[Mitral Regurgitation|MR]] jet. Easy to happen b/c the MR jet is right next door to the LVOTO.
+	- MR jet is more rounded
+		- ![[Hypertrophic Cardiomyopathy-20250321124309340.webp|449]]
+	- ![[Hypertrophic Cardiomyopathy-20250321121819209.webp|500]]
 - 📝 Can occur even in the absence of [[Left Ventricular Hypertrophy|LVH]] 2/2 anatomical issues of the [[Mitral Valve|MV]] leaflet and papillary muscles‼️
 - Obstruction is considered present if peak LVOT gradient is ≥ 30 mm Hg. Resting or provoked gradients ≥ 50 mm Hg are generally considered capable of causing symptoms and, therefore, are the threshold for contemplating advanced pharmacological or invasive therapies if symptoms are refractory to standard management.[^ommen]
 	- LVOT gradient ≥ 50 mm Hg (at rest or with provocation) identifies <u>severe</u> obstruction and often serves as a threshold for pursuing septal reduction therapy or initiation of myosin inhibitor therapy.
@@ -118,6 +130,31 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 - Aortic pressure tracing will also feature the "spike-and-dome" pattern
 	- ![[Hypertrophic Cardiomyopathy-20240928142039046.webp|414]]
 
+### LVOT Gradient
+
+- Calculate LVOT gradient using the peak velocity using the simplified Bernoulli equation
+- Calculate LVOT gradient using the MR velocity
+
+$$
+\text{LVOT gradient} = \text{LV pressure - aorta systolic pressure}
+$$
+
+For example, MR peak velocity 8 m/s, estimated LAP 15 mmHg, SBP 98 mmHg
+$$
+\begin{align}
+\text{LV Pressure} &= 4V^2 + \text{estimated LA pressure (similar to RVSP)} \\
+&= 4 \cdot (8 \text{m/s})^2 + 15 \text{ mmHg} = 271 \text{ mmHg}
+\end{align}
+$$
+We can then use this value to quantify the LVOT gradient
+$$
+\begin{align}
+\text{LVOT gradient} &= \text{LV pressure - aorta systolic pressure} \\
+&= 271 \text{ mmHg} - 98 \text{ mmHg} \\
+&= 173 \text{ mmHg}
+\end{align}
+$$
+
 
 ### [[Mitral Regurgitation]]
 
@@ -126,6 +163,7 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 	- MR jet characteristics can be useful to tease out if 1˚ or 2˚ MR
 		- MR caused by SAM is typically mid-to-late systolic in timing and posterior or lateral in orientation, owing to the anterior distortion of the mitral valve and compromised leaflet coaptation.[^ommen]
 			- 📝 central and anterior jets may also result from SAM of the mitral valve.
+	- If anterior/centrally directed jet, then maybe it isn't just the SAM that's the problem
 - **Posteriorly-directed MR jet** (classically): Usually, the anterior and posterior MV leaflets fail to coapt in mid-late systole, due to the upward and anterior motion of the anterior leaflet toward the LVOT, creating a funnel that directs the MR posteriorly through the interleaflet gap.[^jase]
 - Contours compared to SAM:
 	- Compared with the CWD contour of [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction, the contour of SAM-mediated [[Mitral Regurgitation|MR]] is more rounded with higher velocity, the latter of which reflects a much higher LV-to-LA gradient. [^jase]
@@ -139,9 +177,37 @@ HCM symptoms arise from the interplay of LVOT obstruction, MR, myocardial ischem
 - M-mode in the parasternal long-axis view may assess for midsystolic notching of the aortic valve, reflecting very rapid ejection of LV stroke volume in early systole followed by attenuation of stroke volume in the obstructive phase.
 	- ![[Hypertrophic Cardiomyopathy-20240928141207894.webp|493]]
 
+
+![[Hypertrophic Cardiomyopathy-20250321121307063.webp]]
+Notice the turbulence, which suggests LVOTO
+
+### Strain Imaging
+
+![[Hypertrophic Cardiomyopathy-20250321121958888.webp|450]]
+- The bottom shows strain in the septum
+- The top figure shows strain with apical HCM
+
+### Apical HCM
+
+- "spade-shaped" hypertrophy at the apex
+- Recall, this is a risk factor for [[Sudden Cardiac Death (SCD)|SCD]]
+
+![[Hypertrophic Cardiomyopathy-20250321124147930.webp]]
+Acceleration of flow → Absence of flow → Flow again, aka "lobster claw"
 ## [[Cardiac MRI]] in HCM
 
 Offers superior image quality compared to echocardiography and can be crucial in confirming the diagnosis, especially in cases of challenging echocardiographic windows. CMR can also detect myocardial fibrosis, a prognostic indicator in HCM.
+
+![[Hypertrophic Cardiomyopathy-20250321122401659.webp|580]]
+In this example, patchy had patchy delayed enhancement suggestive of myocardial fibrosis. Fibrosis is expanding the ECV. Collagen is avidly attracted to gadolinium and holds onto it.
+
+### Late Gadolinium Enhancement
+
+- Extensive delayed enhancement is a minor risk factor increasing in importance
+	- Helpful for resolving difficult AICD decisions when major risk factors are inconclusive
+- If LGE ≥ 15%, then may be an AICD candidate
+
+![[Hypertrophic Cardiomyopathy-20250321122518129.webp|504]]
 
 ## Invasive Hemodynamics
 
@@ -187,7 +253,9 @@ Managing HCM involves addressing four key areas:
 
 ## [[Implantable Cardioverter-Defibrillator (ICD)|ICD]] for [[Sudden Cardiac Death (SCD)|SCD]] Prevention
 
-- One of the major treatment initiatives responsible for lowering the mortality rate has been the evolution of sudden cardiac death (SCD) risk stratification strategies based on several major noninvasive risk markers that can identify adult patients with HCM at greatest risk for sudden death who are then candidates for implantable cardioverterdefibrillator (ICD) placement. [^ommen]
+- One of the major treatment initiatives responsible for lowering the mortality rate has been the evolution of sudden cardiac death (SCD) risk stratification strategies based on several major noninvasive risk markers that can identify adult patients with HCM at greatest risk for sudden death who are then candidates for implantable cardioverter defibrillator (ICD) placement. [^ommen]
+
+![[Hypertrophic Cardiomyopathy-20250321122737810.webp|413]]
 ## Interventions
 
 ### Surgical Myectomy
