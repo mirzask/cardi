@@ -17,6 +17,15 @@ tags:
 	- Half-life of caffeine in a healthy, young person is 4.5 hours. One of the reasons Bateman suspects there are issues of non-response with Regadenoson in patients with liver disease is that the caffeine lingers around much longer.
 - <u>Wall</u> volume on Cedars: anything ≥ 125 mL should make you think of LVH
 
+# Identifying the level - apex, mid, base
+
+- Select the **apex**: Sperry identifies will scroll to identify the bottom at the apex is lined up in both the stress and rest images. He then places the box (🔲) two slices above this by clicking `Ctrl` and selecting these frames.
+- Select the **base**: identify the frame where you first lose the septal wall → shift a couple frames apically and place the box (🔲) over these frames
+	- ⚠️ important to recognize that the way we orient the heart in these images that top of the basal portion of the septal wall doesn't exactly line up with that of the lateral wall. Don't neglect perfusion defects in the basal lateral walls!
+- Select the **mid**: find the frame in between your apical and base boxes (🔲) → place the box (🔲) over these frames
+
+![[Nuclear Scan Reading Tips-20250404175827200.webp|621]]
+
 # Dealing with "hotspots"
 
 - Bateman shared with me a trick from a nuc reader at TJU to handle instances with "hotspotting."
