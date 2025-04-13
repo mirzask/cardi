@@ -4,6 +4,17 @@ tags:
 aliases:
   - CAD
 ---
+
+```mermaid
+flowchart TD
+    A[CAD] --> B[CCD/SIHD<br>'stable angina']
+    A --> C[ACS]
+    C --> D[USA]
+    C --> E[MI]
+    E --> F[NSTEMI]
+    E --> G[STEMI]
+```
+
 - Risk Calculation for patients *without* known CAD
 	- [[ASCVD Risk Calculator]]
 	- [[PREVENT Risk Calculator]]
