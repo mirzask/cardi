@@ -42,7 +42,7 @@ aliases:
 	- In all cases, the manufacturer starts with a state-of-the-art PET scanner. The manufacturer then adds a CT system, with 64 or more slices.[^asnc]
 	- Originally, the [[Positron Emission Tomography (PET)#Hybrid PET/CT|hybrid PET/CT]] camera was developed for [[Attenuation Correction (AC)|attenuation correction]] and anatomical co-localization purposes, more modern machines have CT scanners that are of diagnostic quality, which allows the assessment of both [[Coronary Artery Calcium (CAC)|CAC]] scoring and CT angiography.[^asnc]
 
-> [!warning] [[Left Bundle Branch Block (BBB)|Left BBB]]
+> [!warning] [[Left Bundle Branch Block (LBBB)|Left BBB]]
 > In the presence of left bundle branch block (LBBB), where the septal 18F-FDG uptake is spuriously decreased, the septum should not be used as the site for normalization. Accordingly, the ECG should be reviewed in conjunction with perfusion/viability imaging. [^asnc]
 
 # Hybrid PET/CT

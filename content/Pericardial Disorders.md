@@ -9,7 +9,7 @@ tags:
 	- [[Constrictive Pericarditis]]
 	- Pericardial masses
 - Etiology can be broken down into **Infectious** versus **Non-infectious** [^esc]
-	- ![[Pericardial Disorders-20240924205656658.webp|944]]
+	- ![[Pericardial Disorders-1745080249096.webp]]
 
 # Pericardium
 
@@ -39,7 +39,9 @@ tags:
     fibrotic fusion of pericardial layers.
 
 See Table 12 of [^esc] for nice comparison.
-![[Pericardial Disorders-20240924213201267.webp|925]]
+![[Pericardial Disorders-1745080567292.webp]]
+
+
 
 [^geske]: Geske JB, Anavekar NS, Nishimura RA, Oh JK, Gersh BJ. Differentiation of Constriction and Restriction. Journal of the American College of Cardiology. 2016;68(21):2329-2347. doi:10.1016/j.jacc.2016.08.050
 [^esc]: Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. European Heart Journal. 2015;36(42):2921-2964. doi:10.1093/eurheartj/ehv318
