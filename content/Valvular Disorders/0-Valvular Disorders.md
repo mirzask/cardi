@@ -18,6 +18,9 @@ tags:
 - [[Mitral Regurgitation|MR]] is most common of the valvular heart disorders. Seen in ~2% of the general population.
 	- Women > Men
 
+![[0-Valvular Disorders-1745356913001.webp]]
+[Figure source](https://www.jacc.org/doi/10.1016/j.jacadv.2024.101402)
+
 # Echocardiogram Frequency in Asymptomatic Patients with Valvular Heart Disease
 
 

@@ -14,7 +14,7 @@ tags:
 - We measure gradients *at rest*, but often patients will complain of Sx with activity
 - Absence of LVH (~25%) in significant AS. So while LVH is often present, absence does not exclude severe AS.
 
-AS is a pressure overload lesion → ↑ stress in the LV wall. To counter this increased wall stress, you will see increased LV wall thickness. Recall, $\text{stress} = \frac{\text{pressure} \times \text{radius}}{\text{thickness}}$ → ∴ ↑ wall thickness will help to reduce the increased wall stress d/t AS. The LV cavity size will remain normal, as will the LVEF. When you have [[Afterload|afterload]] mismatch (when the [[Afterload|afterload]] is way too high), then you may observe LV dilatation and ↓ EF; seen in more end-stage disease.
+AS is a pressure overload lesion → ↑ stress in the LV wall. To counter this increased wall stress, you will (often, though not always) see increased LV wall thickness. Recall, $\text{stress} = \frac{\text{pressure} \times \text{radius}}{\text{thickness}}$ → ∴ ↑ wall thickness will help to reduce the increased wall stress d/t AS. The LV cavity size will remain normal, as will the LVEF. When you have [[Afterload|afterload]] mismatch (when the [[Afterload|afterload]] is way too high), then you may observe LV dilatation and ↓ EF; seen in more end-stage disease.
 
 ```mermaid
 flowchart TD
@@ -107,6 +107,7 @@ In aortic stenosis, picture a soda bottle with a tiny pinhole through the cap. N
 **Pressures**
 
 When the valve is tight, the velocity of the blood going through the valve must increase to keep the flow through the [[Left Ventricular Outflow Tract (LVOT)|LVOT]] and the [[Aortic Valve|aortic valve]] constant. Recall, $\text{Flow rate} = \text{Area} \times \text{Velocity}$, so the velocity has to ↑ when the area is ↓ to maintain the flow rate. Analogy: Think of crimping the water hose while you're watering your plants.
+
 We use the **modified Bernoulli equation** ($\Delta P = 4 \cdot V^2$) to convert the Doppler velocity to pressure gradients across the [[Aortic Valve|AV]]. So as the blood shoots through that tight aortic valve and we clock a velocity of 4 m/s using Doppler on echo,  we can convert that to a peak gradient of 64 mmHg, which raises our concern that that poor ventricle is working way too hard.
 
 # Ventricular Remodeling with AS
@@ -136,6 +137,10 @@ Over time, these changes become maladaptive as fibrosis accumulates and the LV d
 > Peak velocity > 4 m/s
 > Mean gradient > 40 mmHg
 > Peak gradient > 64 mmHg
+
+
+![[Aortic Stenosis-1745355445173.webp]]
+
 
 In severe aortic stenosis, you have <u>two issues</u> going on:
 1. A **structural** problem *and* 
@@ -341,6 +346,33 @@ $$
 	- Recall, systemic hypertension imposes a second pressure load on the LV, in addition to valve obstruction → ↓ forward stroke volume and lower transaortic pressure gradient than when the patient is normotensive.
 - [[Transcatheter Aortic Valve Implantation (TAVI)]]
 
+## Decompensated/Shock with Severe AS
+
+- **Decongestion** [^jacc-adv]
+	- Patients with AS are <font color="#c00000">preload sensitive</font>, due to the fixed obstruction at the aortic valve, and over-diuresis may lead to hemodynamic collapse. 
+		- ∴, a careful volume assessment is essential as the septic patient with AS will require a substantially different strategy than the AS patient with decompensated heart failure. 
+	- ==For the congested patient, the initial diuretic regimen should not be significantly different than those without severe AS.== However, whenever there is uncertainty regarding the adequacy of preload or signs of shock, we favor placement of a central venous catheter or PAC for ongoing management generally targeting a ==CVP between 6-10 mm Hg==
+		- Cardiac output monitoring via a PAC also may allow for a more controlled titration of vasoactive medications to stabilize or bridge to definitive therapies.
+- **Afterload reduction**
+	- In patients who are not hypotensive, [[Nitroprusside|nitroprusside]] is an option. In a small study (*n* = 25) of patients with systolic heart failure, mean cardiac index of 1.6 L/min2, and severe AS, [[Nitroprusside|nitroprusside]] increased the cardiac index to 2.2 L/min/m2 and 2.5 L/min/m2 at 6 and 24 hours, respectively.
+		- Nipride for patients with severe AS is an SLH CICU fave 🫶
+		- The study excluded patients on a pressor or with a MAP ≤60 mmHg
+	- ⛔ Since AS is a preload-sensitive state, vasodilators which primarily reduce preload, such as [[Nitroglycerin|nitroglycerin]], should be used with caution 🚧 or avoided 🚫.
+- **Pressors**
+	- [[Norepinephrine]] and [[Phenylephrine|phenylephrine]] are the most prescribed vasopressors, but with limited evidence. Both medications increase MAP and ideally improve coronary perfusion pressure. However, the supporting evidence is comprised of 2 small, decades-old studies. [^jacc-adv]
+	- Patients with mixed shock and/or LV dysfunction may benefit from the beta-adrenergic effects of [[Norepinephrine|norepinephrine]] while those with preserved systolic function may respond well to [[Phenylephrine|phenylephrine]], which supports the MAP without the risk of precipitating arrhythmias. [^jacc-adv]
+- **Inotropes**
+	- Medications with predominantly inotropic properties (eg, dobutamine) may increase the gradient across the fixed stenosis, worsen myocardial ischemia if present, and/or provoke atrial or ventricular arrhythmias, all of which are poorly tolerated in an acutely decompensated patient with valvular disease. [^jacc-adv]
+- [[Mechanical Circulatory Support]]
+	- [[Intra-aortic Balloon Pump (IABP)|IABP]]
+		- Intra-aortic balloon pump (IABP) counter-pulsation offers marginal unloading and modest cardiac output augmentation even without fixed LV obstruction. Furthermore, it should be avoided in patients with significant aortic regurgitation (AR). In a small case series (n = 25), including patients with AS (mean valve area 0.64 cm2) and cardiogenic shock (mean cardiac index 1.77 L/min/m2), mean cardiac index increased to 2.18 L/min/m2 and 2.36 L/min/m2 at 6 and 24 hours, respectively (both, _P_ < 0.001). [^jacc-adv]
+	- ⛔ [[Impella]] - relative contraindication in Severe AS
+		- Although feasible, caution should be taken as the large bore device can worsen outflow obstruction
+
+## Valve Intervention
+
+- Surgical valve replacement in the acute setting is often not offered to patients in cardiogenic shock due to an extremely high peri-operative mortality rate. [^jacc-adv]
+
 ![[Aortic Stenosis-20240809184849220.webp]]
 
 ![[A2021_5_4_Otto10.gif]]
@@ -405,4 +437,5 @@ def calculate_aortic_stenosis(vmax, vti_lvot, vti_ao, lvot_diameter):
 [^treibel]: Treibel, T. A., Badiani, S., Lloyd, G., & Moon, J. C. (2019). Multimodality Imaging Markers of Adverse Myocardial Remodeling in Aortic Stenosis. JACC: Cardiovascular Imaging, 12(8), 1532–1548. https://doi.org/10.1016/j.jcmg.2019.02.034
 [^pawade]: Pawade, T., Sheth, T., Guzzetti, E., Dweck, M. R., & Clavel, M.-A. (2019). Why and How to Measure Aortic Valve Calcification in Patients With Aortic Stenosis. JACC: Cardiovascular Imaging, 12(9), 1835–1848. https://doi.org/10.1016/j.jcmg.2019.01.045
 [^cn001]: CardioNerds. “1. Aortic Stenosis: Case Discussion.” _Cardionerds_, 11 Dec. 2019, https://www.cardionerds.com/1-aortic-stenosis-part-1-case-discussion​/.
+[^jacc-adv]: Miller, P. Elliott, et al. “Acute Decompensated Valvular Disease in the Intensive Care Unit.” _JACC: Advances_, vol. 3, no. 12, Dec. 2024, p. 101402. _DOI.org (Crossref)_, https://doi.org/10.1016/j.jacadv.2024.101402.
 

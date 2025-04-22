@@ -14,4 +14,6 @@ tags:
 		- Iyer mentioned that cusp-to-cusp is more consistent and in-line with Echo measurements
 	- ![[Aortic Valve-20241223081710587.webp]]
 
+
+
 [^ase-aorta]: https://www.asecho.org/wp-content/uploads/2015/01/2015_Thoracic-Aorta.pdf
