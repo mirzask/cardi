@@ -13,6 +13,8 @@ tags:
 	- IVC flow pushes blood up into RA, impedes SVC flow coming into RA → pushes blood up into neck veins → Kussmaul’s sign
 	- Increase in JVP with inspiration
     - tl;dr: Inspiration → Increased IVC flow + Increased SVC flow → flowing into high pressure RA → increased JVP w/ inspiration
+- Respiratory variation and Interventricular dependence
+	- Inspiration reduces intrathoracic pressure which usually is fully transmitted to intracardiac pressures, but in constriction, the intracardiac pressures falls much less than intrathoracic pressure because of pericardial constraint. This difference in pressure change with inspiration results in reduced filling to left side of the heart. The reduction in left heart filling during inspiration causes a reduction in mitral inflow velocity and a shift of the interventricular septum toward the left ventricle. With expiration, left heart filling increases which shifts the interventricular septum back toward the right ventricle, leading to reduced filling to right side of the heart and a late-diastolic reversal of flow in the hepatic veins. [^oh-acc]
 
 > "Normally, with inspiration, you're going to have a drop in your intrathoracic pressures. And typically, those pressure changes are transferred fairly well to the cardiac chambers as well. What happens with constriction is you have this really stiff, non-compliant pericardial sac that serves to somewhat insulate the heart from those normal changes. So essentially what happens is with inspiration, the pulmonary pressures are going to drop (and consequently the pulmonary vein pressures), but that stiff pericardium insulates the LV and the RV. So they don't really see those pressure changes and the pressure stays relatively constant. So what happens is the driving pressure between what we measure in the cath lab, the pulmonary capillary wedge pressure and the LVEDP is going to vary with respiration. So essentially, with inspiration, you see a decrease in your left ventricular filling and an increase in your right ventricular filling (**discordance**). And you mentioned the bowing of the septum that we see on the echo, and that's indicative of the increased RV filling. And then you have the exact opposite with expiration, where you have increased left ventricular filling and the septum bows back into the RV."
 >     - CardioNerds [Episode 58](https://www.cardionerds.com/58-case-report-constrictive-pericarditis-university-of-tennessee/)
@@ -88,6 +90,10 @@ tags:
 > "Echo diagnosis of constriction is all about pattern recognition" 
 >     - Sanjiv Shah
 
+- Three variables were independently associated with constrictive pericarditis: 1) the presence of ventricular septal shift, 2) medial mitral e' velocity; and 3) the hepatic vein expiratory diastolic reversal ratio. [^oh-acc]
+	- Each of these criteria was also significantly associated with constrictive pericarditis in the subset of patients with atrial fibrillation or flutter. 
+	- The presence of ventricular septal shift in combination with either medial e' ≥ 9 cm/s or hepatic vein expiratory diastolic reversal ratio ≥ 0.79 (Hepatic vein diastolic reversal velocity / diastolic forward flow velocity) was 87% sensitive and 91% specific for the diagnosis of constrictive pericarditis.
+	- ![[Constrictive Pericarditis-1745187730537.webp]]
 - Diastolic septal bounce
 - **Ventricular interdepence** and **Respirophasic Variation**
 	- Expiration: mitral inflows ↑, tricuspid inflows ↓
@@ -143,3 +149,4 @@ Caption: (Left) Left ventricular (LV) (blue) and right atrial pressure (RA) (ora
 	-   Supportive -- control Sx of congestion in advanced cases or when surgery contraindicated/high-risk
 
 [^geske]: Geske JB, Anavekar NS, Nishimura RA, Oh JK, Gersh BJ. Differentiation of Constriction and Restriction. Journal of the American College of Cardiology. 2016;68(21):2329-2347. doi:10.1016/j.jacc.2016.08.050
+[^oh-acc]: https://www.acc.org/Latest-in-Cardiology/Articles/2015/03/09/07/22/Mayo-Clinic-Echocardiography-Diagnostic-Criteria-for-Constriction

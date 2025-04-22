@@ -5,6 +5,19 @@ tags:
 
 ![[Color Doppler-20241222081213599.webp|654]]
 
+Table 2 Factors that increase or reduce the color Doppler jet area
+
+| Increases jet area                                                              | Reduces jet area                                                                   |
+|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Higher momentum                                                                 | Lower momentum                                                                     |
+| Larger regurgitant orifice area                                                 | Smaller regurgitant orifice area                                                   |
+| Higher velocity (greater pressure gradient)                                     | Lower velocity (lower pressure gradient)                                           |
+| Higher entrainment of flow                                                      | Chamber constraint/wall-impinging jet                                              |
+| Higher Doppler gain                                                             | Lower Doppler gain                                                                 |
+| Far-field beam widening                                                         | Far-field attenuation/attenuation by an interposed ultrasound-reflecting structure |
+| Slit-like regurgitant orifice, imaged along the thin, long shape of the orifice |                                                                                    |
+| Multiple orifices                                                               |                                                                                    |
+
 - Color Doppler components of regurgitant jet:
 	- flow convergence
 	- vena contracta

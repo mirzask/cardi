@@ -164,6 +164,9 @@ Early/late inflation as well as early/late deflation could lead to suboptimal di
 - Uncontrolled bleeding diathesis
 - Uncontrolled sepsis
 
+# Anticoagulation with IABP
+
+Per Getinge (IABP manufacturer), heparin drip is <u>optional</u> regardless of inflation setting (1:1 from 1:3) from perspective of Getinge, the IABP manufacturers. They say as long as IABP is <u>not</u> on standby for longer than 30 minutes, you do not need anticoagulation. Limited data but Suchith did find some evidence to support this ([here](https://thrombosisjournal.biomedcentral.com/articles/10.1186/s12959-021-00295-6) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC3380966/))
 # Trials
 
 ## IABP-SHOCK II trial

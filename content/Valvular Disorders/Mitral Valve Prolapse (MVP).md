@@ -3,6 +3,9 @@ tags:
   - valvulardisease
 ---
 
+- Using echocardiography, MVP is diagnosed ideally in the PLAX window as systolic displacement of the mitral leaflet into the LA of ≥2 mm from the mitral annular plane.
+	- If parasternal windows are of poor quality, the apical long-axis view can also be used, although the latter is less standardized and thus more variable. 
+	- ⛔ Diagnosis of MVP should be avoided in the A4C or A2C windows
 - Involves **myxomatous degeneration** of the mitral valve leaflets → eventually leads to structural incompetence and superior displacement of one or both mitral leaflets into the left atrium (LA) during systole [^morningstar]
 - Estimated to affect 2% to 3% of individuals[^morningstar]
 - Physical Exam

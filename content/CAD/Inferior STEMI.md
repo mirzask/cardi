@@ -3,8 +3,15 @@ tags:
   - CAD
 ---
 - 📝 The inferior territory can be supplied by either the right coronary artery (RCA; 70-90%) or the distal left circumflex artery (LCx, 8-15%).
+- ACC Guidelines recommend “evidence of RV ischemia/infarction be sought in all patients presenting with inferior ST elevated myocardial infarction” and that it “be assessed with a right precordial <u>V4R</u> lead.” ([Source](https://clinicalview.gehealthcare.com/poster/right-ventricular-involvement-ecg))
+	- ![[Inferior STEMI-1745186710006.webp|377x378]]
 - You will often see STE in the inferior leads (II, III, aVF) and reciprocal STD in the high lateral leads (I, aVL)
 	- If STD in aVL is absent, you should question the diagnosis of Inferior STEMI. However, STD in aVL can rarely be hidden by simultaneous lateral ischemia (in which case you would expect to see STE in V5/V6). [^emcrit]
+	- ![[Inferior STEMI-1745186742830.webp|352x364]]
+
+![[Inferior STEMI-1745186982472.webp]]
+[Figure source](https://clinicalview.gehealthcare.com/poster/right-ventricular-involvement-ecg)
+
 - [^zbaum] demonstrated a simple heuristic for localization of the culprit artery, i.e. if RCA or LCx involvement, you can compare the STE in leads II, III
 	- STE greater in III > II → suggests RCA culprit artery
 	- STE greater in II > III → suggests LCx culprit
