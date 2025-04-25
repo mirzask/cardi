@@ -28,7 +28,7 @@ aliases:
 - **Wide R-R interval**
 	- **Monomorphic VT**: width unchanged
 	- **Polymorphic VT**: width is more variable. If the intervals are not the same or irregular?
-- VT should *not* be irregular, if it is, then you should think of [[Atrial Fibrillation (AFib)]] or Pre-excited AFib/[[Wolff Parkinson White]]
+- VT should *not* be irregular, if it is, then you should think of [[Atrial Fibrillation (AFib)]] or Pre-excited AFib/[[Accessory Pathway Conduction|WPW]]
 - ECG Findings that support Dx of VT
 	- Capture beats (also known as Dressler beats)
 	- [[Ventricular Tachycardia (VT)#Fusion Complexes|Fusion complexes]]

@@ -98,7 +98,7 @@ P wave that is morphologically similar to sinus P waves → tachycardia is initi
 - [[Atrial Fibrillation (AFib)]], [[Atrial Flutter]]
 - In the majority of [[AV Nodal Reentrant Tachycardia (AVNRT)|AVNRT]], the retrograde P waves occur during the QRS complex and are ∴ invisible on the 12-lead ECG.
 - Other flavors of PAT - Bypass tract-mediated macro-re-entry (e.g., AVRT, WPW), Intra-atrial re-entry, and SA nodal re-entry - will have P waves *usually* identifiable on 12-lead ECG on careful inspection.
-- Bypass tract-mediated macro-re-entry (e.g., [[AV Reentrant Tachycardia (AVRT)|orthodromic AVRT]], [[Wolff Parkinson White|WPW]]): P waves are generated retrograde → tend to be negative in the *inferior* leads and have RP interval < PR interval ("short RP tachycardia").
+- Bypass tract-mediated macro-re-entry (e.g., [[AV Reentrant Tachycardia (AVRT)|orthodromic AVRT]], [[Accessory Pathway Conduction|WPW]]): P waves are generated retrograde → tend to be negative in the *inferior* leads and have RP interval < PR interval ("short RP tachycardia").
 	- 📝 because the RP interval is short, the retrograde P wave is often mistaken for a bump on the T wave by the unwary observer.
 	- ![[Supraventricular Tachycardia (SVT)-20241223150322185.webp]]
 
@@ -130,14 +130,14 @@ A core assumption here is that pathway A conducts slower, and has a shorter refr
 - 5 general categories:
 	- [[AV Nodal Reentrant Tachycardia (AVNRT)|AV nodal re-entry]] (60% of PAT)
 	- Bypass tract-mediated macro-re-entry (30% of PAT)
-		- Examples: [[AV Reentrant Tachycardia (AVRT)]], [[Wolff Parkinson White|WPW]]
+		- Examples: [[AV Reentrant Tachycardia (AVRT)]], [[Accessory Pathway Conduction|WPW]]
 	- Intra-atrial re-entry
 	- SA nodal re-entry
 	- [[Atrial Flutter]]/[[Atrial Fibrillation (AFib)]]
 	- 📝 the first four are sometimes lumped together into one large group as '[[Paroxysmal Tachycardia#Paroxysmal Atrial Tachycardia|Paroxysmal Atrial Tachycardia]]'
 - **Bypass tract-mediated macro-re-entrant tachycardia** is a "macro-re-entrant" circuit because it involves the AV node, His-Purkinje system, the ventricular and atrial myocardia, and the bypass tract, i.e. the circuit consists of several types of cardiac tissue.
 	- ![[Supraventricular Tachycardia (SVT)-20241223152409985.webp|209]]
-	- If they conduct in the antegrade direction, the patient is said to have [[Wolff Parkinson White|Wolff-Parkinson-White syndrome]] and the surface ECG will show pre-excitation of the QRS complex.
+	- If they conduct in the antegrade direction, the patient is said to have [[Accessory Pathway Conduction|WPW]] and the surface ECG will show pre-excitation of the QRS complex.
 	- Unlike [[AV Nodal Reentrant Tachycardia (AVNRT)|AVNRT]] where the atria and ventricles depolarize nearly simultaneously, in macro-re-entry the atria and ventricles depolarize sequentially → distinct P waves are virtually _always_ seen.
 		- **short-RP tachycardia**, i.e. RP interval shorter than the PR interval, because of retrograde conduction via the bypass tract tends to be _faster_ than antegrade conduction via the normal AV conducting system.
 		- P waves often negative in the inferior leads b/c atrial stimulation is in retrograde direction (P wave axis is superior/going upward)

@@ -5,9 +5,9 @@ tags:
 - Involves graded exercise until physical fatigue, limiting chest pain (or discomfort), marked ischemia, or a drop in blood pressure occurs.[^cp]
 - Candidates for exercise ECG are those:[^cp]
 	- without disabling comorbidity (e.g., frailty, marked obesity (BMI >40 kg/m2), [[Peripheral Arterial Disease|PAD]], COPD, or orthopedic limitations) and capable of performing ADLs or able to achieve ≥5 METs *and*
-	- without resting ST-T abnormalities (e.g., >0.5-mm ST depression, [[Left Ventricular Hypertrophy|LVH]], paced rhythm, [[Left Bundle Branch Block (LBBB)|LBBB]], [[Wolff-Parkinson-White (WPW)]] pattern, or [[Digoxin|digoxin]] use).
+	- without resting ST-T abnormalities (e.g., >0.5-mm ST depression, [[Left Ventricular Hypertrophy|LVH]], paced rhythm, [[Left Bundle Branch Block (LBBB)|LBBB]], [[Accessory Pathway Conduction|WPW]] pattern, or [[Digoxin|digoxin]] use).
 - **Contraindications**
-	- Abnormal ST changes on resting ECG, [[Digoxin|digoxin]], [[Left Bundle Branch Block (LBBB)|LBBB]], Wolff-Parkinson- White pattern, ventricular paced rhythm (unless test is performed to establish exercise capacity and not for diagnosis of ischemia)
+	- Abnormal ST changes on resting ECG, [[Digoxin|digoxin]], [[Left Bundle Branch Block (LBBB)|LBBB]], [[Accessory Pathway Conduction|WPW]] pattern, ventricular paced rhythm (unless test is performed to establish exercise capacity and not for diagnosis of ischemia)
 	- Unable to achieve ≥5 METs or unsafe to exercise
 	- High-risk unstable angina or AMI (<2 d) i.e., active [[Chest Pain|ACS]]
 	- Uncontrolled [[Heart Failure with Reduced Ejection Fraction (HFrEF)|HF]]

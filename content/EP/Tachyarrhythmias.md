@@ -38,7 +38,7 @@ aliases:
 		- [[Ventricular Fibrillation (VFib)]]
 - Determine origin
 	- A tachyarrhythmia is easily recognized by rate alone, but the specific diagnosis requires that we identify the origin, i.e. we must determine the location of the irritable automaticity focus (atrial, junctional, or ventricular).
-- For select arrhythmias known to have a high cure rate with ablation therapy (e.g., atrial flutter, paroxysmal supraventricular tachycardia, Wolff-Parkinson-White [WPW] syndrome, idiopathic premature ventricular complexes/ventricular tachycardia), catheter ablation may be indicated as a **first-line treatment**.
+- For select arrhythmias known to have a high cure rate with ablation therapy (e.g., atrial flutter, paroxysmal supraventricular tachycardia, [[Accessory Pathway Conduction|WPW]] syndrome, idiopathic premature ventricular complexes/ventricular tachycardia), catheter ablation may be indicated as a **first-line treatment**.
 - Can classify by **origin** or by **chamber**. But Dr. Gupta recommends thinking about it mechanistically
 - 3 mechanisms
 	- Enhanced normal automaticity
@@ -138,7 +138,7 @@ A core assumption here is that pathway A conducts slower, and has a shorter refr
 	- Initiating trigger
 		- something to start off the rhythm
 - Treating reentrant arrhythmia sometimes involves trying to narrow or abolish the tachycardia zone (by increasing the refractory period of pathway A or decreasing the refractory period of pathway B in the example shown).[^fogoros]
-- [[Wolff Parkinson White]]
+- [[Accessory Pathway Conduction|WPW]]
 	- ![](https://thoracickey.com/wp-content/uploads/2016/06/C10FF13-2.gif)
 - Re-entry in [[Ventricular Tachycardia (VT)]]
 	- Myocardial ischemia creates scar tissue, creating a region of unexcitable tissue as well as surrounding tissue with unidirectional conduction
