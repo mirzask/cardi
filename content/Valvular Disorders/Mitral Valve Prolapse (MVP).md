@@ -1,6 +1,8 @@
 ---
 tags:
   - valvulardisease
+aliases:
+  - MVP
 ---
 
 - Using echocardiography, MVP is diagnosed ideally in the PLAX window as systolic displacement of the mitral leaflet into the LA of ≥2 mm from the mitral annular plane.
@@ -28,6 +30,25 @@ tags:
 - Caused by abnormalities in connective tissue → leaflet redundancy, chordal thinning and elongation → MVP
 	- The thinned and elongated tendinous chords in MVP are prone to **rupture**
 - Chordal rupture may lead to flail leaflet and a sudden ↑ in [[Mitral Regurgitation|MR]] volume ([[Mitral Regurgitation#Acute MR|acute MR]])
+
+# Malignant MVP
+
+![[Mitral Valve Prolapse _MVP_-1745637451858.webp]]
+[Figure source](https://www.jacc.org/doi/10.1016/j.jcmg.2016.09.016)
+Transthoracic echocardiography demonstrating myxomatous bileaflet mitral valve prolapse **(arrows)** in cases 1 **(A)**, 2 **(B)**, and 3 **(C)**. High-velocity mid-systolic spike (lateral annulus, 32 cm/s) in cases 1 **(D)**, 2 (mid-systole, 19 cm/s) **(E)**, and 3 (late systole, 25 cm/s) **(F)**. **(G)** Normal medial annulus systolic velocity, case 1. **(H)** Tugging of the posteromedial papillary muscle by prolapsing leaflets **(arrow)**, case 4. **(I)** Late-peaking systolic tissue velocity spike of 24 cm/s, case 4. **(J)** Pickelhaube, spiked German military helmet (reprinted with permission from the collection of Peter Suciu).
+
+# Echo
+
+
+> [!warning] MR quantification in MVP
+> ⛔ Avoid using single frame measurements - **PISA EROA** and **VCW** - when the MR is <u>not</u> **holosystolic**, e.g. [[Mitral Valve Prolapse (MVP)|MVP]] with *late* systolic MR, [[Mitral Regurgitation#Secondary Mitral Regurgitation|functional MR]] with *biphasic* MR, LV dyssynchrony with *early* systolic MR, as they can overestimate MR severity. 
+> 
+> When non-holosystolic, you should use **regurgitant volume (RVol)** method.
+
+## [[Echo Doppler|Doppler]]
+
+- Late systolic peak
+	- ![[Mitral Valve Prolapse _MVP_-1745638089042.webp]]
 
 
 [^morningstar]: Morningstar, J. E., Nieman, A., Wang, C., Beck, T., Harvey, A., & Norris, R. A. (2021). Mitral Valve Prolapse and Its Motley Crew‐Syndromic Prevalence, Pathophysiology, and Progression of a Common Heart Condition. Journal of the American Heart Association, 10(13). https://doi.org/10.1161/jaha.121.020919

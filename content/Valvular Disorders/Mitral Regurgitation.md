@@ -6,7 +6,7 @@ tags:
 
 - It is useful to consider whether leaflet motion is intrinsically normal or abnormal according to the Carpentier classification:
 	- Type I leaflet motion is normal but can be associated with MR if there is annular dilation (secondary MR) or a leaflet perforation. 
-	- Type II leaflet motion is excessive and is most commonly due to MVP or flail leaflet. 
+	- Type II leaflet motion is excessive and is most commonly due to [[Mitral Valve Prolapse (MVP)|MVP]] or flail leaflet. 
 	- Type III leaflet motion is restrictive, commonly seen in the presence of LV dilation (secondary MR) or rheumatic MV disease or other post-inflammatory conditions such as collagen vascular disease, radiation injury, carcinoid syndrome, or drug-induced inflammatory changes.
 	- ![[Mitral Regurgitation-1745289249821.webp]]
 
@@ -151,7 +151,35 @@ Source: Figure 18 of [2017 ASE Valvular Guidelines](https://www.asecho.org/wp-co
 
 # Echo
 
+Regardless of etiology, if there is a small central jet, normal leaflet morphology, a VCW < 0.3 cm, no proximal flow convergence, and an A-wave dominant mitral inflow pattern, then MR is <font color="#548dd4">mild</font> and further quantitation is not necessary. Conversely, if there is a large jet, with a prominent flow convergence, large VCW > 0.7 cm, flow reversal in the pulmonary veins, then MR is <font color="#c00000">severe</font>; quantitation would substantiate the severity of the regurgitation.
+
 ![[Mitral Regurgitation-1745289410476.webp]]
+
+- Findings that are a slam dunk, i.e. unquestionably <font color="#c00000">severe</font> MR (bolded in Table above):
+	- Severe valve lesions on 2D or 3D imaging, e.g. flail leaflet, ruptured papillary muscle, severe leaflet retraction, or a large perforation
+	- A properly measured VCW ≥0.7 cm is specific for severe MR
+	- Systolic flow reversal in more than one pulmonary vein
+- Findings are specific for *nonsevere* MR:
+	- failure to identify a proximal flow convergence region
+	- presence of an A-wave dominant mitral filling pattern
+	- *late* systolic MR (e.g. [[Mitral Valve Prolapse (MVP)#Echo Doppler Doppler|MVP]]) is rarely severe
+	- *early* systolic MR (e.g. ventricular dyssynchrony) is rarely severe
+	- <u>biphasic</u> MR is rarely severe (See [[Mitral Regurgitation#Non-holosystolic MR|non-holosystolic MR]])
+		- Avoid overtracing the jet or turning up doppler gains to make the signal look holosystolic as this may overestimate the PISA
+		- ![[Mitral Regurgitation-1745639744612.webp|391x271]]
+	- Chronic severe MR almost always leads to dilated LV and LA, and thus normal chamber volumes are unusual with chronic severe MR.
+	- MR limited to late systole ([[Mitral Valve Prolapse (MVP)|MVP]]) or early systole (ventricular dyssynchrony) is usually not severe but may be misinterpreted as severe when based only on single-color frame measurements such as VC or PISA
+
+
+> [!NOTE] EROA cutoffs for **severe** Primary vs Secondary MR
+> For primary MR, the cutoff for **severe** MR is ≥ 0.4 cm2. However, in cases of *secondary* MR, a lower cutoff of ≥0.3 cm2 may still be likely severe MR by 2D PISA because the regurgitant orifice is frequently semilunar or elliptical in 2˚ MR, affecting measurements of VCW and possibly leading to underestimating EROA by the 2D PISA method
+
+
+> [!warning] MR quantification in MVP
+> ⛔ Avoid using single frame measurements - **PISA EROA** and **VCW** - when the MR is <u>not</u> **holosystolic**, e.g. [[Mitral Valve Prolapse (MVP)|MVP]] with *late* systolic MR, [[Mitral Regurgitation#Secondary Mitral Regurgitation|functional MR]] with *biphasic* MR, LV dyssynchrony with *early* systolic MR, as they can overestimate MR severity. 
+> 
+> When non-holosystolic, you should use **regurgitant volume (RVol)** method.
+
 
 ## [[Color Doppler]]
 
@@ -206,6 +234,9 @@ $$
 	- This may partly explain the finding that lower values of EROA by 2D PISA are associated with worsened prognosis in secondary MR. 
 - Also, it should be remembered that PISA EROA, like VCW or VCA, is calculated from a single-frame image. These parameters therefore will overestimate MR severity when MR is not holosystolic.
 
+## Color [[M-mode]]
+
+![[Mitral Regurgitation-1745640234658.webp|411x271]]
 ## [[Continuous Wave Doppler]]
 
 - In most patients, maximum MR velocity is 4-6 m/sec due to the high systolic pressure gradient between the LV and LA. The velocity itself does not provide useful information about the volumetric severity of MR, but it does provide clues to the hemodynamic consequences of MR. 
@@ -253,3 +284,39 @@ The RF can be calculated by dividing the RVol by the LV SV for the first two met
 
 3. LV and LA Volumes and Function. CMR provides the most accurate and reproducible assessment of LV volume and ejection fraction and LA volume. All measurements should be indexed to BSA, and remodeling can be assessed based on existing reference values. 158,159
 4. **When Is CMR Indicated?** The primary indication of CMR is the evaluation of MR severity when assessment by echocardiography is felt to be unsatisfactory or when there is a discrepancy between MR severity and clinical findings. CMR may provide additional information about the mechanism of MR and myocardial viability, both of which may have implications for surgical intervention, and CMR importantly provides quantitative evaluation of chamber size, RVol, and fraction.
+
+# Examples
+
+## Flail Leaflet
+
+
+<video width="600" height="350" src="https://www.jacc.org/cms/asset/e848d7b4-a5d6-4241-ab88-7d822c5e32a6/mmc1.mp4" controls></video>
+
+## Non-holosystolic MR
+
+> [!warning] MR quantification in MVP
+> ⛔ Avoid using single frame measurements - **PISA EROA** and **VCW** - when the MR is <u>not</u> **holosystolic** as they can overestimate MR severity.
+> 
+> When not holosystolic, you should use **regurgitant volume (RVol)** method.
+
+- Examples of non-holosystolic MR include:
+	- [[Mitral Valve Prolapse (MVP)|MVP]] with *late* systolic MR
+	- [[Mitral Regurgitation#Secondary Mitral Regurgitation|functional MR]] with *biphasic* MR
+	- LV dyssynchrony with *early* systolic MR
+
+
+<video width="600" height="350" src="https://www.jacc.org/cms/asset/613f92cd-0f9c-49bf-a025-2da67f242174/mmc3.mp4" controls></video>
+
+## Classic [[Mitral Regurgitation#Secondary Mitral Regurgitation|Functional MR]]
+
+<video width="600" height="350" src="https://www.jacc.org/cms/asset/23b24524-d298-4bba-8761-afb19f31766a/mmc5.mp4" controls></video>
+
+
+
+## Dynamic [[Mitral Regurgitation#Secondary Mitral Regurgitation|Functional MR]]
+
+<video width="600" height="350" src="https://www.jacc.org/cms/asset/ac6e0c48-ab03-4896-a2c6-c4672b8440c1/mmc6.mp4" controls></video>
+
+## Carpentier IIIA Leaflet Motion
+
+<video width="600" height="350" src="https://www.jacc.org/cms/asset/16e1b98b-2471-4bd4-9377-43fbb4555bea/mmc4.mp4" controls></video>
