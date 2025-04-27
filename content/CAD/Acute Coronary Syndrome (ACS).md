@@ -94,6 +94,46 @@ Figure source: [^2014-g]
 - Use in patients with ACS with PCI who have ==large thrombus burden, no-reflow, or slow flow==
 - Can be given IV or intracoronary to "improve procedural success and reduce infarct size" (Class 2a)
 
+## Oxygen
+
+- Only give oxygen if confirmed hypoxia, i.e. O2 sat < 90%, with goal to increase sat to ≥ 90%
+- 🚫 Routine O2 supplementation has a Class 3 recommendation
+
+## [[Anti-Anginal Therapy]]
+
+- SLN 0.3 or 0.4 mg every 5 min as needed up to a total of 3 doses (if hemodynamically stable and SBP ≥90 mmHg)
+- IV nitroglycerin (start at 10 μg/min and titrate to pain relief and hemodynamic tolerability) if persistent angina refractory to oral nitrates or if ACS accompanied by HTN or pulmonary edema
+	- ⚠️ Avoid use in suspected RV infarction, SBP <90 mm Hg or a change in SBP >30 mm Hg below baseline.
+
+## Pain control
+
+- Morphine IV 2-4 mg; may repeat if needed every 5-15 min. Doses up to 10 mg may be considered.
+- Fentanyl IV 25-50 μg; may repeat if needed. Doses up to 100 μg may be considered.
+
+## [[Beta-blockers]]
+
+- If no contraindication, guidelines recommend "**early (<24 hours) initiation of oral beta-blocker therapy is recommended to reduce risk of reinfarction and ventricular arrhythmias**" (Class 1)
+
+## [[Renin-angiotensin-aldosterone system inhibitors (RAASi)|ACE/ARB]]
+
+- Indications (Class 1)
+	- LVEF ≤40%
+	- [[Hypertension|hypertension]]
+	- diabetes mellitus
+	- anterior STEMI
+
+## [[Mineralcorticoid Receptor Antagonists (MRA)|MRA]]
+
+- Indications (Class 1)
+	- LVEF ≤40%
+	- [[Heart Failure|HF]] Sx
+	- DM
+
+## [[Hyperlipidemia]]
+
+See [[Hyperlipidemia#Secondary Prevention|Secondary Prevention]]
+
+
 # Non-STE ACS
 
 ```

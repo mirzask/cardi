@@ -33,4 +33,4 @@ aliases:
 	- c-wave follows the [[QRS interval|R wave]]
 	- v-wave follows the [[T wave]]
 
-![[Pulmonary Artery Catheter _PAC_-1745712616318.webp]]
+![[Pulmonary Artery Catheter _PAC_-1745712616318.webp|534x534]]
