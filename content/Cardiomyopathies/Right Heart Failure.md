@@ -5,6 +5,7 @@ tags:
 - Related:
 	- [[Right Ventricle|Right Heart]]
 
+
 - Right heart failure can be broken down into “buckets”:
 	- Volume overload
 		- causes include valvular disease ([[Tricuspid Regurgitation|TR]], pulmonic insufficiency) and left-to-right shunts ([[Atrial Septal Defect (ASD)|ASD]], [[Ventricular Septal Defect (VSD)|VSD]], [[Sinus Venosus Defect|sinus venosus defect]], coronary sinus defect, [[Partial Anomalous Pulmonary Venous Return (PAPVR)|PAPVR]])
@@ -27,3 +28,12 @@ o	Qp/Qs
 	Large shunts are defined by Qp/Qs >2 and often require closure.
 	Interpretation: for a  Qp/Qs is 3.1, it means that for every 1 L of cardiac output through the systemic circulation, 3.1 L are going through the pulmonary circulation
 o	Because intra-cardiac shunts will affect the mixed venous (pulmonary artery oxygen saturation), a systemic mixed venous saturation needs to be calculated to estimate “pre-shunt” mixed venous O2. This is defined by Flamm’s formula: (3*SVC +IVC)/4
+
+# Echo
+
+- RV systolic function can be assessed by:
+	- tricuspid annular plane systolic excursion (TAPSE)
+	- RV fractional area change
+	- free-wall strain
+	- tricuspid annular systolic mitral annular tissue velocity (s′)
+	- RV index of myocardial performance

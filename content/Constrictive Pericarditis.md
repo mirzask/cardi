@@ -90,6 +90,11 @@ tags:
 > "Echo diagnosis of constriction is all about pattern recognition" 
 >     - Sanjiv Shah
 
+
+> [!tip] Ventricular Interdependence? Think constriction
+> Constrictive physiology should be considered when evidence of enhanced interdependence is observed by echocardiography.
+
+
 - Three variables were independently associated with constrictive pericarditis: 1) the presence of ventricular septal shift, 2) medial mitral e' velocity; and 3) the hepatic vein expiratory diastolic reversal ratio. [^oh-acc]
 	- Each of these criteria was also significantly associated with constrictive pericarditis in the subset of patients with atrial fibrillation or flutter. 
 	- The presence of ventricular septal shift in combination with either medial e' ≥ 9 cm/s or hepatic vein expiratory diastolic reversal ratio ≥ 0.79 (Hepatic vein diastolic reversal velocity / diastolic forward flow velocity) was 87% sensitive and 91% specific for the diagnosis of constrictive pericarditis.
