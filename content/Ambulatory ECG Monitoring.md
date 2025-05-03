@@ -5,7 +5,13 @@ aliases:
   - Holter
   - MCOT
 ---
+
+- Recommended for the the evaluation of patients with documented or suspected bradycardia or conduction disorders to establish correlation between heart rate or conduction abnormalities with symptoms. [^2018-brady]
+	- The specific type of cardiac monitor chosen based on the frequency and nature of symptoms, as well as patient preferences.
 - The type of information (heart rate trends, PAC/PVC burden, SVT/VT episodes, AF burden with rate information) is the same for MCOTs and for Holters.  _The distinguishing feature of these two monitors is whether the device records (Holter) or transmits (MCOT), not the quality of the information provided by the study._  With the availability of extended Holter monitors and MCOT monitoring, looping event recorders have essentially become obsolete.
+
+![[Ambulatory ECG Monitoring-1745874421530.webp]]
+Table source [^2018-brady]
 # Holter Monitor
 
 - A Holter monitor is a self-contained recording device which does *not* transmit, but continuously records for the duration of the study. 
@@ -21,3 +27,5 @@ aliases:
 - Alerts that meet specified criteria are communicated to the referring practice day or night (although day and night time criteria differ). 
 - Daily reports are generated and are reviewed by our nurses and, when needed, by our physicians.
 - MCOT studies are more resource intensive for the monitoring service and are more expensive 💰than Holter type monitors.
+
+[^2018-brady]: Kusumoto FM, Schoenfeld MH, Barrett C, Edgerton JR, Ellenbogen KA, Gold MR, Goldschlager NF, Hamilton RM, Joglar JA, Kim RJ, Lee R, Marine JE, McLeod CJ, Oken KR, Patton KK, Pellegrini CN, Selzman KA, Thompson A, Varosy PD. 2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines, and the Heart Rhythm Society. J Am Coll Cardiol. 2019 Aug 20;74(7):932-987. doi: 10.1016/j.jacc.2018.10.043. Epub 2018 Nov 6. Erratum in: J Am Coll Cardiol. 2019 Aug 20;74(7):1014-1016. doi: 10.1016/j.jacc.2019.06.046. PMID: 30412710.

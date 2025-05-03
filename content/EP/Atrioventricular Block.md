@@ -20,6 +20,8 @@ aliases:
 | [[AV Block#Second degree (2˚) AV Block\|Second-degree]] | No<br>(unless Sx [[Bradycardia\|brady]]) | Yes                                   |
 | [[AV Block#Third degree (3˚) AV Block\|Third-degree]]   | No<br>(unless Sx [[Bradycardia\|brady]]) | Yes                                   |
 
+
+
 ![[Atrioventricular Block-20250313123835384.webp]]
 HBE - you see the A without an H after, so this is AV nodal block, i.e. above the His. The example here is Mobitz Type 1.
 
@@ -67,9 +69,12 @@ Vagal → slow them down if infranodal disease → conduct 1:1
 # Initial Evaluation
 
 Figure source: [^aha-brady] Figure 3
-![|450](https://www.ahajournals.org/cms/asset/26e57fc7-e700-42df-b16e-9ca5a11ad93b/e382fig03.jpg)
+![|450|670x855](https://www.ahajournals.org/cms/asset/26e57fc7-e700-42df-b16e-9ca5a11ad93b/e382fig03.jpg)
 
 
+# Etiologies
+
+![[Atrioventricular Block-1745876957485.webp|567x968]]
 # First degree (1˚) AV Block
 
 See [[First degree (1˚) AV Block]]
