@@ -8,7 +8,7 @@ tags:
 	- symmetric, tortoise hump shaped is seen with [[Long QT Syndrome#LQTS Type 1|Type 1]]
 	- late-peaking/double hump appearance is seen with [[Long QT Syndrome#LQTS Type 2|Type 2]]
 	- ![[Long QT Syndrome-20250209201921375.webp]]
-	- ![[Long QT Syndrome-20250209203110421.webp]]
+	- ![[Long QT Syndrome-1746309493139.webp|486x358]]
 
 ![[Long QT Syndrome-20250209200824294.webp]]
 
@@ -23,13 +23,17 @@ TODO
 
 ## Schwartz score
 
+- Schwartz score ≥3.5 carries a specificity of 99% for the diagnosis of LQTS. 
+- Genetic testing is recommended in those with Schwartz score ≥3.
+
+![[Long QT Syndrome-1746309009650.webp|509x521]]
 
 # LQTS Type 1
 
 
 # LQTS Type 2
 
-- Caused by blockage of IKr channel
+- Caused by a loss of function mutation → blockage of **IKr** channel
 - Most common cause of drug-induced prolonged QT syndrome as many drugs are IKr blockers
 - Second most common of LQT subtypes (25-30%)
 - Exacerbated by auditory stimuli 🔊
@@ -42,7 +46,7 @@ TODO
 - 📝 Treating a patient with [[Anti-Arrhythmic Drugs|K-channel blockers]] like **sotalol** or **dofetilide** is *like* giving someone LQTS type 2, i.e. like block IKr channels.
 # LQTS Type 3
 
-- Caused by gain of function of INa (SCN5a)
+- Caused by **gain of function** of INa (SCN5a)
 - Third most common of LQT subtypes (5-10%), considered most lethal
 - Exacerbated by bradycardia, sleep
 - Events only occur during sleep, so no warning signs, often present with SCA

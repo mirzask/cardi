@@ -1,8 +1,14 @@
 ---
 tags:
   - ACHD
+aliases:
+  - Coarctation of the Aorta
+  - CoA
 ---
-
+- The presence of significant CoA is based on evidence of upper extremity hypertension (at rest, on ambulatory BP monitoring, or with pathologic blood pressure response to exercise) or left ventricular hypertrophy and evidence for 1 of these gradient measurements:
+	- A noninvasive BP difference of >20 mm Hg between the upper and lower extremities
+	- A peak-to-peak gradient of >20 mm Hg across the coarct by catheterization; or a peak-to-peak gradient of >10 mm Hg across the coarct by catheterization in the setting of decreased left ventricular systolic function or significant collateral flow
+	- A mean gradient of >20 mm Hg across the coarct by Doppler echocardiography; or a mean gradient of >10 mm Hg across the coarct by Doppler echocardiography in the setting of decreased left ventricular systolic function or significant collateral flow
 # Echo
 
 - Suprasternal Doppler for Coarctation of the Aorta

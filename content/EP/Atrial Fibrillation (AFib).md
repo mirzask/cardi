@@ -40,6 +40,17 @@ aliases:
 ![[Atrial Fibrillation (AFib)-20250129205519681.webp]]
 
 ## Lifestyle modifications
+
+- Weight loss
+	- if BMI >27, should target 10% weight loss. 10% weight loss is supported by [^pathak]
+	- Weight loss surgery for BMI > 40 is associated with ↓ AF recurrence
+- Physical activity
+	- moderate to vigorous exercise for >210 minutes/week (3.5 hrs)
+- Minimize alcohol intake
+	- abstinence or ≤ 3 drinks/week
+- Smoking cessation 🚭
+- Optimize CV risk factors, including [[Hypertension|HTN]] and [[Diabetes|DM]]
+- [[Sleep apnea]] screening (Class 2b)
 - ![[Atrial Fibrillation (AFib)-20250129210335990.webp]]
 ## Stroke and cognitive disease prevention
 
@@ -63,24 +74,87 @@ aliases:
 - Post-ablation
 	- After ablation, OACs should be continued for *at least* **3 months**; subsequent decisions should be guided by patients stroke risk
 
+**Decision Aids**
+
+|Agency|Website|Focus Area|
+|---|---|---|
+|American College of Cardiology Colorado Program for Patient Centered Decisions|[https://patientdecisionaid.org/icd/atrial-fibrillation/](https://patientdecisionaid.org/icd/atrial-fibrillation/)|Stroke risk reduction therapies|
+|Anticoagulation Choice Decision Aid|[https://anticoagulationdecisionaid.mayoclinic.org/](https://anticoagulationdecisionaid.mayoclinic.org/)|Stroke risk reduction therapies|
+|Ottawa Hospital Research Institute  <br>Developer Healthwise|[https://decisionaid.ohri.ca/AZlist.html](https://decisionaid.ohri.ca/AZlist.html)|AF ablation  <br>Stroke risk reduction|
+|Stanford|[https://afibguide.com/](https://afibguide.com/)|Stroke risk reduction therapies|
+
+## Rate versus Rhythm
+
+- 2023 Guidelines recommend [[Shared Decision Making (SDM)|SDM]] with the patient to discuss rate vs rhythm control [^2023]
+- Factors favoring **[[Atrial Fibrillation (AFib)#Rhythm Control|rhythm control]]**
+	- more symptomatic
+	- [[Heart Failure with Reduced Ejection Fraction (HFrEF)|LV dysfunction]]
+	- new onset (within 1 year)
+	- [[Aortic Regurgitation]] - patients may have improvement in AI with restoration of sinus rhythm
+- Factors favoring **[[Atrial Fibrillation (AFib)#Rate Control|rate control]]**
+	- older age
+	- higher comorbidity burden
+	- long-standing AF
+	- larger [[Left Atrium]]
+- AFFIRM trial compared Rate vs. Rhythm control
+	- Results:
+		- No difference in mortality
+		- No difference in stroke
+		- ↓ hospitalization in rate-control
+	- Caveats of AFFIRM
+		- a lot of patients had a long duration of AFib (intervention too late?), were in persistent AF
+		- no catheter ablation
+		- stroke occurred during AC interruption
+- EAST-AFNET4 trial
+	- Patients were enrolled within 1 year of AFib Dx
+	- Compared early rhythm versus usual care (predominantly rate control)
+	- EAST-AFNET 4 reported clinical benefit of rhythm control with daily AAD or catheter ablation over rate control therapy when rhythm control was initiated <u>early</u> (ie, within 12 months of AF diagnosis)
+	- Most patients (87%) were initially treated with AADs, including flecainide (35.9%), amiodarone (19.6%), and dronedarone (16.7%), whereas 19.4% underwent ablation by 2 years.
+	- Result
+		- ↓ composite of CV mortality, stroke, HF or ACS hospitalization
+		- Stopped early due to a 21% reduction in the primary composite outcome of cardiovascular mortality, stroke, and hospitalizations for HF or acute coronary syndrome with rhythm control vs rate control (3.9 per 100 person-years vs 5.0 per 100 person-years)
 ## Rate Control
 
 - [[Beta-blockers]], such as metoprolol, esmolol, or atenolol, and nondihydropyridine [[Calcium Channel Blockers (CCBs)|CCBs]], such as verapamil or diltiazem, to slow electrical conduction through the atrioventricular node.
 - [[Digoxin]] can be used as adjunctive therapy when ventricular rate remains poorly controlled or hypotension limits further titration of [[Beta-blockers|BBs]] and/or [[Calcium Channel Blockers (CCBs)|CCBs]] 
 - Titrate 💊 to control symptoms and achieve resting heart rates less than 100 to 110 beats per minute
+
+### Acute Rate Control
+
+```mermaid
+flowchart TD
+    A[RVR] -->|Yes| B[HD unstable?]
+    A --> |No| C[PO rate control]
+    B --> |No| D[Pre-excitation?]
+    B --> |Yes| E[DCCV]
+    D --> |No| F[Decompensated HF/Shocky]
+    D --> |Yes| G[IV procainamide<br>IV ibutilide<br>DCCV]
+    F --> |Yes| H["IV Amio (2b)"]
+    F --> |No| I[IV CCB/BB-I<br>Digoxin-2a<br>IV Mag-2a<br>IV Amio-2b]
+
+```
+
 ## Rhythm Control
 
 - "Pill-in-the-pocket" strategy
 	- flecainide or propafenone in conjunction with concomitant AVNB agents (e.g., [[Beta-blockers|BBs]] or [[Calcium Channel Blockers (CCBs)|CCBs]]) 
 	- may be useful for intermittent treatment of infrequent AF episodes, but efficacy for acute conversion and safety (pro-arrhythmic effect) must first be tested in a monitored hospital setting.
 		- Patients should be observed for at least 8 hours after dose.
-- EAST-AFNET 4 reported clinical benefit of rhythm control with daily AAD or catheter ablation over rate control therapy when rhythm control was initiated <u>early</u> (ie, within 12 months of AF diagnosis)
-	- Most patients (87%) were initially treated with AADs, including flecainide (35.9%), amiodarone (19.6%), and dronedarone (16.7%), whereas 19.4% underwent ablation by 2 years.
-	- stopped early due to a 21% reduction in the primary composite outcome of cardiovascular mortality, stroke, and hospitalizations for HF or acute coronary syndrome with rhythm control vs rate control (3.9 per 100 person-years vs 5.0 per 100 person-years)
+
+
+![[Atrial Fibrillation _AFib_-1746456432802.webp|554x701]]
 
 ## Ablation
 
-TODO
+- CASTLE-AF Trial looked at AF ablation in patients with [[Heart Failure with Reduced Ejection Fraction (HFrEF)|HFrEF]]
+	- Patient population
+		- HF with EF < 35%, NYHA 2-4
+		- Paroxysmal or Persistent AF
+		- Catheter AF ablation vs. medical therapy
+		- 2/3rd of patients had persistent AF
+		- 60% had failure / intolerance to [[Amiodarone]]
+	- Results
+		- ![[Atrial Fibrillation _AFib_-1746455044398.webp|425x937]]
 
 # Screening
 
@@ -91,3 +165,6 @@ TODO
 	- AF was diagnosed in 31.8% of the ILR group vs 12.2% of the control group. 
 - No difference in outcomes
 	- Although more OACs were initiated in patients diagnosed with incident AF, there was no significant difference (HR, 0.80 [95% CI, 0.61-1.05]) in risk of the primary outcome of stroke or systemic arterial embolism in patients randomized to ILR (0.88 events per 100 person-years [95% CI, 0.68-1.12] vs the control group, 1.09 events [95% CI, 0.96-1.24]).
+
+[^pathak]: Pathak RK, Middeldorp ME, Meredith M, Mehta AB, Mahajan R, Wong CX, Twomey D, Elliott AD, Kalman JM, Abhayaratna WP, Lau DH, Sanders P. Long-Term Effect of Goal-Directed Weight Management in an Atrial Fibrillation Cohort: A Long-Term Follow-Up Study (LEGACY). J Am Coll Cardiol. 2015 May 26;65(20):2159-69. doi: 10.1016/j.jacc.2015.03.002. Epub 2015 Mar 16. PMID: 25792361.
+[^2023]: Joglar JA, Chung MK, Armbruster AL, Benjamin EJ, Chyou JY, Cronin EM, Deswal A, Eckhardt LL, Goldberger ZD, Gopinathannair R, Gorenek B, Hess PL, Hlatky M, Hogan G, Ibeh C, Indik JH, Kido K, Kusumoto F, Link MS, Linta KT, Marcus GM, McCarthy PM, Patel N, Patton KK, Perez MV, Piccini JP, Russo AM, Sanders P, Streur MM, Thomas KL, Times S, Tisdale JE, Valente AM, Van Wagoner DR; Peer Review Committee Members. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2024 Jan 2;149(1):e1-e156. doi: 10.1161/CIR.0000000000001193. Epub 2023 Nov 30. Erratum in: Circulation. 2024 Jan 2;149(1):e167. doi: 10.1161/CIR.0000000000001207. Erratum in: Circulation. 2024 Feb 27;149(9):e936. doi: 10.1161/CIR.0000000000001218. Erratum in: Circulation. 2024 Jun 11;149(24):e1413. doi: 10.1161/CIR.0000000000001263. PMID: 38033089; PMCID: PMC11095842.

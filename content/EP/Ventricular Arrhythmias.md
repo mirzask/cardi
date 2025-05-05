@@ -7,6 +7,8 @@ tags:
 
 # Localization of [[Ventricular Tachycardia|VT]] on [[Electrocardiogram (ECG)|ECG]]
 
+![[Ventricular Arrhythmias-1746311935044.webp]]
+
 - **Lead V1**
 	- Recall, **V1** is located on the **anterior** part of the chest
 		- ![[Electrocardiogram _ECG_-1746232364818.webp|329x260]]

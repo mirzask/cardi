@@ -26,7 +26,7 @@ tags:
 			- ![[Cardiac MRI Basics-20250108103655546.webp]]
 				- [Figure source](https://radiologykey.com/principles-of-magnetic-resonance-imaging-physics/)
 	- **T2 Decay** (aka spin-spin relaxation)
-		- When the RF excitation pulse is applied, the protons are all spinning in-phase. Immediately after this pulse is applied, they begin to **dephase** at a rate proportional to the amount of the magnetic field. → eventually, protons will return to their out-of-phase initial pre-RF excitation state, as measured by the **T2 relaxation time**. ([Source](https://radiologykey.com/principles-of-magnetic-resonance-imaging-physics/))
+		- When the RF excitation pulse is applied, the protons are all spinning in-phase. Immediately after this pulse is applied, they begin to **dephase** at a rate proportional to the amount of the magnetic field → eventually, protons will return to their out-of-phase initial pre-RF excitation state, as measured by the **T2 relaxation time**. ([Source](https://radiologykey.com/principles-of-magnetic-resonance-imaging-physics/))
 		- The rate of **dephasing** is different for each tissue, resulting in further tissue contrast.
 		- ![[Cardiac MRI Basics-20250108104223135.webp]]
 			- 📝 this "dephasing" is occurring in the $xy$-plane
@@ -101,6 +101,7 @@ tags:
 | [[MRI Mapping Techniques\|Parametric mapping]] | A process where a secondary image is generated in which each pixel represents a specific magnetic tissue property (T1, T2, or T2*) or a derivative such as ECV) derived from the spatially corresponding voxel of a set of co-registered magnetic resonance source images                                                                                                        |
 
 # FAQs
+
 - Is my patient _too big_ for a Cardiac MRI?
 	- Table weight limit is 400 lbs, but distribution of weight is the more important feature.
 	- Wide bore MRI scanners can help
