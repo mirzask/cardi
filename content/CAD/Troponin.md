@@ -1,7 +1,28 @@
 ---
 tags:
   - CAD
+aliases:
+  - Elevated Troponin
 ---
+
+- High-sensitivity cardiac troponin
+	- overcomes early "troponin blind" period
+	- allows rapid rule-in, rule-out protocols → impacts ED workflow
+	- most will be + within 6 hrs
+- ‎single sample r/o only if patient's last had CP > 6 hrs ago
+- ‎Risk scores
+- ⚠️ *late presentation* MI with low hs-cTn may have a <font color="#c00000">small delta</font> for troponin change
+
+# Troponin Elevation
+
+```mermaid
+flowchart TD
+    A[Elevated Troponin] --> B{Rise and/or fall}
+    A --> C[Flat/No change]
+    C --> D(Chronic<br>Structural ♥ dz, CKD, etc.)
+    B --> |Acute Ischemia| E[Acute MI]
+    B --> |≠ acute Ischemia| F[Myocardial injury]
+```
 
 - **Elevated troponin**
 	- no CC/MCC

@@ -118,6 +118,13 @@ aliases:
 - [[Beta-blockers]], such as metoprolol, esmolol, or atenolol, and nondihydropyridine [[Calcium Channel Blockers (CCBs)|CCBs]], such as verapamil or diltiazem, to slow electrical conduction through the atrioventricular node.
 - [[Digoxin]] can be used as adjunctive therapy when ventricular rate remains poorly controlled or hypotension limits further titration of [[Beta-blockers|BBs]] and/or [[Calcium Channel Blockers (CCBs)|CCBs]] 
 - Titrate 💊 to control symptoms and achieve resting heart rates less than 100 to 110 beats per minute
+	- RACE II trial
+- ⚠️ Use more strict HR control (resting HR <80, moderate exercise HR <110) for:
+	- [[Heart Failure]]
+	- Tachycardia-mediated cardiomyopathy
+	- Sx with lenient HR control strategy
+	- risk of inappropriate ICD shock
+	- [[Cardiac Resynchronization Therapy (CRT)|CRT]] to ↑ Bi-V pacing
 
 ### Acute Rate Control
 
@@ -134,12 +141,50 @@ flowchart TD
 
 ```
 
+### Long-term Rate Control
+
+```mermaid
+flowchart LR
+    A("CCB and/or BB") --> |HF Sx| B(Digoxin)
+    B --> |Unsuccessful R/R control| C(AVN ablation)
+```
+
+
 ## Rhythm Control
+
+- Rhythm control approaches can be broken down into 3 categories:
+	- Medications 💊
+	- [[Atrial Fibrillation (AFib)#Ablation|Ablation]]
+	- Cardioversion ⚡ or 
+- Strategies can also be thought of as methods to **<font color="#c00000">restore</font> sinus rhythm** and **<font color="#c00000">maintain</font> sinus rhythm**
+	- Restore sinus rhythm
+		- Cardioversion: electrical ⚡ or pharmacologic 💊
+	- Maintain sinus rhythm
+		- [[Anti-Arrhythmic Drugs]]
+		- [[Atrial Fibrillation (AFib)#Ablation|Ablation]]
+
+### Pharmacologic Cardioversion
 
 - "Pill-in-the-pocket" strategy
 	- flecainide or propafenone in conjunction with concomitant AVNB agents (e.g., [[Beta-blockers|BBs]] or [[Calcium Channel Blockers (CCBs)|CCBs]]) 
-	- may be useful for intermittent treatment of infrequent AF episodes, but efficacy for acute conversion and safety (pro-arrhythmic effect) must first be tested in a monitored hospital setting.
+	- used on an PRN basis to terminate AF, with instructions on the **maximum dose per 24 hours**
+	- Assess eligibility:
+		- Baseline ECG
+			- determine baseline QRS duration and any evidence of conduction system disease. 
+		- Baseline echocardiography
+			- evaluate for structural heart disease.
+	- Monitoring
+		- May be useful for intermittent treatment of infrequent AF episodes, but efficacy for acute conversion and safety (pro-arrhythmic effect) must first be tested in a monitored hospital setting (ED or hospital).
 		- Patients should be observed for at least 8 hours after dose.
+	- ![[Atrial Fibrillation _AFib_-1746716478118.webp]]
+
+
+| AAD Class               | Class 1c                                                                                                                                          | Class III                                                                                           | Class III                                |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **Drug**                | "Pill in pocket"<br>Flecainide (200/300 mg)<br>Propafenone (450-600 mg)                                                                           | IV Ibutilide<br>(if LVEF >40%)                                                                      | IV [[Amiodarone]] bolus + gtt            |
+| Potential Complications | Hypotension<br>[[Bradycardia]]<br>1:1 [[Atrial Flutter]]<br>[[Ventricular Tachycardia (VT)\|VT]]                                                  | [[Torsades de Pointes]]                                                                             | [[Bradycardia]]<br>Hypotension           |
+| Precautions             | 🚫 if structural ❤️ dz<br>First attempt monitored<br>Take [[Calcium Channel Blockers (CCBs)\|CCB]] or [[Beta-blockers\|BB]] ≥30 mins before admin | 🚫 if [[QT Prolongation\|prolonged QT]], hypoK, hypoMg<br>Monitor for ≥4 h<br>IV Mag prior to admin | 📝 Longer time to cardioversion (8-12 h) |
+
 
 
 ![[Atrial Fibrillation _AFib_-1746456432802.webp|554x701]]

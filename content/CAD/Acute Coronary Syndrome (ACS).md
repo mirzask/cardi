@@ -9,9 +9,13 @@ tags:
 	- Tools:
 		- History, Exam, ECG, Biomarkers (serial)
 		- Scores: AHCPR, AHA/ACC Risk, HEART Score, etc
+	- What is the risk of a bad outcome?
+		- An ECG will be normal in 1/3 of patients, so it is important to repeat 15-30 minutes. 
+		- Consider additional leads (posterior, RV). 
+		- Telemetry.
 - **Posterior leads (V7-V9)** should be obtained in patients with suspected left circumflex occlusion particularly in the setting of ==isolated ST-segment depression ≥0.5 mm in leads V1–V3==.
 
-![[Acute Coronary Syndrome (ACS)-20250112125046844.webp]]
+![[Acute Coronary Syndrome (ACS)-20250112125046844.webp|461x649]]
 Figure source: [^2014-g]
 
 # Management
@@ -136,6 +140,7 @@ See [[Hyperlipidemia#Secondary Prevention|Secondary Prevention]]
 
 # Non-STE ACS
 
+
 ```
 - TIMI ***, GRACE ***
 - DAPT: ASA, ***
@@ -147,6 +152,10 @@ See [[Hyperlipidemia#Secondary Prevention|Secondary Prevention]]
 - Telemetry
 - NPO at midnight for possible cath
 ```
+
+- ED risk assessment scores have only *modest* predictive value
+	- TIMI score
+	- 🌟 GRACE risk score (>140 are considered high-risk, <90 have a <3% risk)
 
 
 | Strategy                          | Factors associated with strategy selection                                                          |
@@ -160,10 +169,10 @@ See [[Hyperlipidemia#Secondary Prevention|Secondary Prevention]]
 |                                   | Low-risk Tn-negative female patients                                                                |
 |                                   | Patient or clinician preference in the absence of high-risk features                                |
 | Early invasive (within 24 h)      | None of the above, but GRACE risk score >140                                                        |
-|                                   | Temporal change in Tn (Section 3.4)                                                                 |
+|                                   | Temporal change in Tn                                                                               |
 |                                   | New or presumably new ST depression                                                                 |
 | Delayed invasive (within 25—72 h) | None of the above but diabetes mellitus Renal insufficiency (GFR <60 mL/min/1.73 m2                 |
-|                                   | Reduced LV systolic function (EF <0.40)                                                             |
+|                                   | Reduced LV systolic function (EF <40%)                                                              |
 |                                   | Early postinfarction angina                                                                         |
 |                                   | PCI within 6 mo                                                                                     |
 |                                   | Prior CABG                                                                                          |
