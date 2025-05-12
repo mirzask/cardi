@@ -96,6 +96,27 @@ aliases:
 	- higher comorbidity burden
 	- long-standing AF
 	- larger [[Left Atrium]]
+- Patients with [[Heart Failure|HF]] are more likely to benefit from [[Atrial Fibrillation (AFib)#Rhythm Control|rhythm control]].
+	- [[Atrial Fibrillation (AFib)#Ablation|Catheter ablation]] has a <font color="#9bbb59">Class 1</font> indication for patients with [[Heart Failure with Reduced Ejection Fraction (HFrEF)|HFrEF]] and 2a recommendation for patients with [[Heart Failure with Preserved Ejection Fraction (HFpEF)|HFpEF]]
+	- Factors in patients with [[Heart Failure|HF]] that favor benefit from [[Atrial Fibrillation (AFib)#Ablation|ablation]] (over [[Anti-Arrhythmic Drugs|AADs]])
+		- AF-medicated cardiomyopathy
+		- Early stage of HF
+		- Paroxysmal or early-persistent AF
+		- no significant ventricular scar (noted on [[Cardiac MRI|CMR]])
+		- minimal atrial fibrosis
+		- younger patient
+		- fewer comorbidities
+	- Factors in patients with [[Heart Failure|HF]] that are *less likely* to benefit from [[Atrial Fibrillation (AFib)#Ablation|ablation]] 
+		- advanced HF
+		- older age
+		- more comorbidities
+		- extensive ventricular scar noted on [[Cardiac MRI|CMR]]
+		- severe atrial myopathy/enlargement
+		- longstanding persistent AF
+		- 📝 In these patients, you may prefer pharmacological 💊 approach (e.g., [[Atrial Fibrillation (AFib)#Rhythm Control|rhythm control]] or [[Atrial Fibrillation (AFib)#Rate Control|rate control]]). If refractory to 💊, then consider **AV node ablation**
+			- CRT implant + AVNA (Class 2a)
+			- Physiologic pacing + AVNA (Class 2a)
+			- Pre-existing CRT + poor rate control (Class 2a)
 - AFFIRM trial compared Rate vs. Rhythm control
 	- Results:
 		- No difference in mortality
@@ -185,12 +206,33 @@ flowchart LR
 | Potential Complications | Hypotension<br>[[Bradycardia]]<br>1:1 [[Atrial Flutter]]<br>[[Ventricular Tachycardia (VT)\|VT]]                                                  | [[Torsades de Pointes]]                                                                             | [[Bradycardia]]<br>Hypotension           |
 | Precautions             | 🚫 if structural ❤️ dz<br>First attempt monitored<br>Take [[Calcium Channel Blockers (CCBs)\|CCB]] or [[Beta-blockers\|BB]] ≥30 mins before admin | 🚫 if [[QT Prolongation\|prolonged QT]], hypoK, hypoMg<br>Monitor for ≥4 h<br>IV Mag prior to admin | 📝 Longer time to cardioversion (8-12 h) |
 
+### Long-term Rhythm Control
+
+No cardiomyopathy
+```mermaid
+flowchart TD
+    A(Normal LVEF<br>No SHD<br>No MI) --> |Class 2a| B(Dofetilide<br>Dronedarone<br>Flecainide<br>Propafenone)
+    B --> |If above ineffective/<br>contraindicated| C(Amiodarone)
+    C --> |Class 2b| D(Sotalol)
+```
+
+If LVEF≤ 40%, Structural heart disease, or MI
+- ⚠️ Dronedarone is contraindicated if NYHA Class 3 or 4 HF Sx *or* decompensated HF within 4 weeks (Class 3)
+- ⚠️ Class Ic agents, Flecainide and Propafenone, have a Class 3 recommendation
+```mermaid
+flowchart TD
+    A(LVEF ≤40%, SHD, or MI) --> |Class 2a| B(Dofetilide<br>Amiodarone<br>Dronedarone)
+    B --> |Class 2b| D(Sotalol)
+```
+
 
 
 ![[Atrial Fibrillation _AFib_-1746456432802.webp|554x701]]
 
 ## Ablation
 
+- CABANA Trial looked at AF ablation vs Drug therapy
+	- Patients treated with ablation had fewer recurrences of AF, better QoL
 - CASTLE-AF Trial looked at AF ablation in patients with [[Heart Failure with Reduced Ejection Fraction (HFrEF)|HFrEF]]
 	- Patient population
 		- HF with EF < 35%, NYHA 2-4
