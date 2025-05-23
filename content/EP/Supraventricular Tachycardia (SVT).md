@@ -17,7 +17,14 @@ aliases:
 		- [[AV Reentrant Tachycardia (AVRT)]]
 	- [[Atrial Fibrillation (AFib)]]
 	- [[Atrial Flutter]]
+- The most commonly encountered **Paroxysmal SVTs** are:
+	- [[AV Nodal Reentrant Tachycardia (AVNRT)|AVNRT]] (60%)
+	- [[AV Reentrant Tachycardia (AVRT)|AVRT]] (30%)
+		- most common PSVT seen in the pediatric population
+	- [[Atrial Tachycardia]] (<10%)
 
+
+![[Supraventricular Tachycardia _SVT_-1747496128145.webp|518x746]]
 
 ```mermaid
 graph TD

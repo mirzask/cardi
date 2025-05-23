@@ -45,6 +45,7 @@ Here, you have A and H. This is an example of infranodal block as there is nothi
 | [[Beta Blockers]]      | Worsens  | No change                                    |
 
 Vagal → slow them down if infranodal disease → conduct 1:1
+An exercise test may help differentiate whether 2:1 atrioventricular block is due to Mobitz type I or II AV block. Exercise causes withdrawal of vagal tone and increased sympathetic tone leading to improved atrioventricular nodal conduction. If the baseline atrioventricular block is infranodal (Mobitz type II), the atrioventricular block will not resolve and will likely worsen as the sinus rate increases.  If the latter ensues, a pacemaker would be indicated. If the atrioventricular block is Mobitz type I, then increased sympathetic tone would facilitate conduction through the AV node and may lead to resolution of the AV block.
 
 - Causes
 	- Ischemia or infarction

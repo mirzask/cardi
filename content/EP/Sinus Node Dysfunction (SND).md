@@ -1,6 +1,8 @@
 ---
 tags:
   - EP
+aliases:
+  - Sick Sinus Syndrome
 ---
 - SND includes all of the following with heart rates <50 bpm while awake
 	- Sinus pauses
@@ -30,7 +32,6 @@ tags:
 ## Reversible or Treatable Causes of SND
 
 ![[Sinus Node Dysfunction _SND_-1745875392717.webp]]
-
 
 # Management
 

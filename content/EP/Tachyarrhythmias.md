@@ -100,7 +100,7 @@ See [[Supraventricular Tachycardia (SVT)]]
 		- e.g. Verapamil sensitive PVCs
 	- Na channel blockers raise the action potential threshold for AP firing
 		- e.g. use of these meds for inappropriate tachy/junctional tachy
-	- ![|400](https://www.researchgate.net/publication/262791829/figure/fig2/AS:631611846582272@1527599407082/The-membrane-action-potential-of-pacemaker-cells-and-the-mechanism-of-action-of-several.png)
+	- ![|400|552x587](https://www.researchgate.net/publication/262791829/figure/fig2/AS:631611846582272@1527599407082/The-membrane-action-potential-of-pacemaker-cells-and-the-mechanism-of-action-of-several.png)
 	- ![](https://ecgwaves.com/wp-content/uploads/2017/05/cardiac-automaticity-membrane-potential-action-potential-sa-av-node-ecg.jpg)
 
 # Re-entry

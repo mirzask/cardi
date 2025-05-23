@@ -4,6 +4,8 @@ tags:
   - heartfailure
 ---
 
+- Related:
+	- [[Diastolic Dysfunction]]
 - Elevated [[LV End Diastolic Pressure (LVEDP)|LVEDP]] or LV filling pressures at rest or with exercise in the context of a preserved ejection fraction (≥ 50%)
 - HFpEF should be thought of as a diagnosis of exclusion. After excluding the presence of depressed EF, assessing for [[Heart Failure with Preserved Ejection Fraction (HFpEF)#HFpEF Mimickers|HFpEF “masqueraders”]] is a critical step in evaluation, as each of the mimics have their own unique treatments that differ from the “garden variety” HFpEF.
 - LV diastolic dysfunction is defined by an impairment in relaxation, an ↑ in viscoelastic chamber stiffness, or some combination of the two → symptomatic HF d/t ↑ filling pressures (at rest or with exertion). 

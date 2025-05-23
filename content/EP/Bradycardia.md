@@ -1,7 +1,15 @@
 ---
 tags:
   - EP
+aliases:
+  - Bradyarrhythmias
 ---
+
+- Cellular mechanisms of bradyarrhythmias can be thought of as falling under one of two buckets: either impulses aren't being formed or conducted
+	- ↓ impulse formation
+		- Hyperpolarization of cell membrane (e.g. SA Node as a consequence of hyperkalemia)
+	- ↓ impulse conduction (sometimes called 'exit block')
+		- Impaired intercellular communication (ion channels, gap junctions etc. that prevent or impair electrical conduction through myocardial tissue
 
 Sinus node dysfunction is most often related to age-dependent progressive fibrosis of the sinus nodal tissue and surrounding atrial myocardium leading to abnormalities of sinus node and atrial impulse formation and propagation and will therefore result in various bradycardic or pause-related syndromes.
 

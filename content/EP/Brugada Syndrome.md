@@ -8,6 +8,8 @@ aliases:
 - ECG
 	- "coved" ST-segment elevation with T-wave inversion in the *right* precordial leads
 
+![[Brugada Syndrome-1747429095607.webp]]
+
 ![[Brugada Syndrome-20250209211012014.webp]]
 
 ![[Brugada Syndrome-20250209211029614.webp]]
