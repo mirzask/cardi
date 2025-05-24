@@ -15,7 +15,7 @@ Hypertrophic cardiomyopathy (HCM), the most common inherited cardiomyopathy, is 
 # Pathophysiology
 
 - Arises from enhanced actin-myosin interaction results in excessive myocardial contraction and simultaneous impairment in diastolic relaxation.[^jase]
-- The pathophysiology of HCM consists of dynamic [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction, [[Mitral Regurgitation|mitral regurgitation (MR)]], [[Diastology|diastolic dysfunction]], myocardial ischemia, arrhythmias, metabolic and energetic abnormalities, and potentially [[Dysautonomia|autonomic dysfunction]].[^ommen]
+- The pathophysiology of HCM consists of dynamic [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction, [[Mitral Regurgitation|mitral regurgitation (MR)]], [[Diastolic Dysfunction|diastolic dysfunction]], myocardial ischemia, arrhythmias, metabolic and energetic abnormalities, and potentially [[Dysautonomia|autonomic dysfunction]].[^ommen]
 
 HCM's hallmark is the **dynamic [[Left Ventricular Outflow Tract (LVOT)|LVOT]] obstruction**, which can occur at rest (1/3 of patients) or with provocation in 75% of HCM patients.[^jase] Unlike [[Aortic Stenosis|aortic stenosis]], where the obstruction is fixed, the degree of blockage in HCM changes based on factors like heart rate, blood volume, and even body position. This obstruction occurs due to the thickening of the ventricular septum, which protrudes into the LVOT, particularly during systole. Of note, while [[Left Ventricular Hypertrophy|LVH]] is most frequently asymmetric, involving the ventricular septum, but can occur in any pattern.[^jase] This encroachment, coupled with **systolic anterior motion (SAM)** of the mitral valve leaflet, restricts blood flow out of the ventricle. 
 

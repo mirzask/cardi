@@ -6,6 +6,8 @@ tags:
 - E/e' is sometimes used as a proxy for [[LV End Diastolic Pressure (LVEDP)]] [^ommen]
 	- ![M-LVDP versus groups defined by values of septal E/E′. ○ Indicates patients with EF <50%; •, patients with EF >50%.](https://www.ahajournals.org/cms/10.1161/01.CIR.102.15.1788/asset/4ea75c24-bf0f-4034-95e9-5c932256a63d/assets/graphic/hc4004570006.jpeg)
 
+- Several studies have shown that the pulmonary capillary wedge pressure usually is >20 mm Hg when E/e′ is >15 (e′ from the medial annulus) or >12 (e′ from lateral annulus).[^1]
+	- If E/e′ is <8, LV filling pressure or pulmonary capillary wedge pressure usually is not elevated.
 - Variation in the E velocity on **mitral inflow** ([[Echo Doppler|Doppler]]) is a clue that the [[Left Atrial Pressure|LAP]] is not elevated. By contrast, E velocity that is > 100 cm/s (> 1 m/s) and *fixed* may indicate an elevated [[Left Atrial Pressure|LAP]].
 	- Dr. Oh made note of this in case of patient with [[Atrial Fibrillation|AFib]] where E velocity varied from 80 to 100 cm/s
 
@@ -62,7 +64,7 @@ tags:
 
 - e' velocities might not be as low as expected (compared to sinus rhythm)
 	- **<u>septal</u> E/e' ≥ 11** as the cutoff in [[Atrial Fibrillation|AFib]]
-		- recall that in sinus rhyth, the normal septal E/e' cutoff is 15, whereas the average E/e' cutoff is 14
+		- recall that in sinus rhythm, the normal septal E/e' cutoff is 15, whereas the average E/e' cutoff is 14
 		- 🌟All of the studies for E/e' assessment in [[Atrial Fibrillation|AFib]] were done using <u>septal</u> E/e'
 	- In [[Atrial Fibrillation|AFib]] you lack the atrial contraction, so most of the flow of blood into the ventricle is during early diastole (E velocity).
 - Take advantage of ancillary data when patient is in [[Atrial Fibrillation|AFib]]
@@ -73,3 +75,5 @@ tags:
 
 [^ommen]: Ommen, S. R., Nishimura, R. A., Appleton, C. P., Miller, F. A., Oh, J. K., Redfield, M. M., & Tajik, A. J. (2000). Clinical Utility of Doppler Echocardiography and Tissue Doppler Imaging in the Estimation of Left Ventricular Filling Pressures. Circulation, 102(15), 1788–1794. https://doi.org/10.1161/01.cir.102.15.1788
 [^ase-monitor]: https://www.asecho.org/wp-content/uploads/2015/01/EchoMonitor2015.pdf
+
+[^1]: Oh JK, Park SJ, Nagueh SF. Established and novel clinical applications of diastolic function assessment by echocardiography. Circ Cardiovasc Imaging. 2011 Jul;4(4):444-55. doi: 10.1161/CIRCIMAGING.110.961623. PMID: 21772012.

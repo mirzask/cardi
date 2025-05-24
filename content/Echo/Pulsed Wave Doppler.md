@@ -27,6 +27,6 @@ The PRF varies inversely with the depth of the sample volume: ==the shallower th
 - Common uses of PWD
 	- LVOT → LVOT VTI
 	- Mitral infows → E and A waves
-	- Pulmonary veins → assess [[Mitral Regurgitation|MR]], [[Diastology|diastolic function]], pulmonary stenosis
+	- Pulmonary veins → assess [[Mitral Regurgitation|MR]], [[Diastolic Dysfunction|diastolic function]], pulmonary stenosis
 	- RVOT → assess for [[Pulmonary Hypertension]]
 	- Hepatic veins → assess for flow reversal with severe [[Tricuspid Regurgitation|TR]], [[Constrictive Pericarditis|pericardial constriction]], [[Pericardial Tamponade|tamponade]]

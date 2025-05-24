@@ -95,6 +95,8 @@ tags:
 > Constrictive physiology should be considered when evidence of enhanced interdependence is observed by echocardiography.
 
 
+- Combined parameters from [[Mitral Inflow Velocity|mitral inflow]], [[Mitral Annular Velocity|mitral annular velocities]], and hepatic vein velocities have made the diagnosis of constriction and its differentiation from myocardial disease much easier than ever before.[^1]
+	- ![[Constrictive Pericarditis-1748125682538.webp]]
 - Three variables were independently associated with constrictive pericarditis: 1) the presence of ventricular septal shift, 2) medial mitral e' velocity; and 3) the hepatic vein expiratory diastolic reversal ratio. [^oh-acc]
 	- Each of these criteria was also significantly associated with constrictive pericarditis in the subset of patients with atrial fibrillation or flutter. 
 	- The presence of ventricular septal shift in combination with either medial e' ≥ 9 cm/s or hepatic vein expiratory diastolic reversal ratio ≥ 0.79 (Hepatic vein diastolic reversal velocity / diastolic forward flow velocity) was 87% sensitive and 91% specific for the diagnosis of constrictive pericarditis.
@@ -155,3 +157,5 @@ Caption: (Left) Left ventricular (LV) (blue) and right atrial pressure (RA) (ora
 
 [^geske]: Geske JB, Anavekar NS, Nishimura RA, Oh JK, Gersh BJ. Differentiation of Constriction and Restriction. Journal of the American College of Cardiology. 2016;68(21):2329-2347. doi:10.1016/j.jacc.2016.08.050
 [^oh-acc]: https://www.acc.org/Latest-in-Cardiology/Articles/2015/03/09/07/22/Mayo-Clinic-Echocardiography-Diagnostic-Criteria-for-Constriction
+
+[^1]: Oh JK, Park SJ, Nagueh SF. Established and novel clinical applications of diastolic function assessment by echocardiography. Circ Cardiovasc Imaging. 2011 Jul;4(4):444-55. doi: 10.1161/CIRCIMAGING.110.961623. PMID: 21772012.

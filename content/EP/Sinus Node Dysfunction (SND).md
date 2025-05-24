@@ -25,17 +25,17 @@ aliases:
 
 # Evaluation
 
-![[Sinus Node Dysfunction _SND_-1745875414765.webp|465x804]]
+![[Sinus Node Dysfunction SND-1745875414765.webp|492x851]]
 
 # Causes
 
 ## Reversible or Treatable Causes of SND
 
-![[Sinus Node Dysfunction _SND_-1745875392717.webp]]
+![[Sinus Node Dysfunction SND-1745875392717.webp]]
 
 # Management
 
-![[Sinus Node Dysfunction _SND_-1745876868622.webp|540x611]]
+![[Sinus Node Dysfunction SND-1745876868622.webp|540x611]]
 
 ## Pacing strategies
 
@@ -47,5 +47,5 @@ aliases:
 - "In symptomatic patients with SND and intact atrioventricular conduction without evidence of conduction abnormalities, **dual chamber or single chamber atrial pacing** is recommended." (Class 1)
 	- If you go with a dual chamber device in a patient with *intact* AV conduction, "it is reasonable to program the dual chamber pacemaker to minimize ventricular pacing" (Class 2a)
 
-![[Sinus Node Dysfunction _SND_-1745876714620.webp]]
+![[Sinus Node Dysfunction SND-1745876714620.webp]]
 [Figure source](https://thoracickey.com/pacing-for-sinus-node-disease/)

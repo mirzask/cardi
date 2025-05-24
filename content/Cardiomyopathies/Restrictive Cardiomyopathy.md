@@ -28,6 +28,7 @@ Classification
 		- ↓ isovolumic relaxation time
 		- Pulmonary vein doppler: almost no systolic forward flow and mostly all forward flow is seen in early diastole
 		- [[Tissue Doppler]] velocity shows a very low e' velocity
+		- Restrictive filling can be easily recognized by an increased E/A ratio (>2) along with a very short deceleration time of the E wave (<160 ms). In this situation, the LA is enlarged, and e′ is reduced (< 5 cm/s).[^1]
 	- Cath Hemodynamics
 		- ↑ Filling Pressures
 		- Dip and plateau morphology (aka "square-root sign")
@@ -37,6 +38,7 @@ Classification
 		- RVSP >50 mmHg
 		- Ventricular concordance
 
+
 # Management
 
 - Idiopathic RCM
@@ -45,3 +47,5 @@ Classification
 	- [[Beta-blockers]], but not as aggressive as [[Dilated Cardiomyopathy|DCM]]
 		- Filling in RCM is restricted to *early* diastole, ∴ if you ↓ HR down *too much* → restrict overall cardiac output
 	- Cardiac Transplantation (esp if advanced)
+
+[^1]: Oh JK, Park SJ, Nagueh SF. Established and novel clinical applications of diastolic function assessment by echocardiography. Circ Cardiovasc Imaging. 2011 Jul;4(4):444-55. doi: 10.1161/CIRCIMAGING.110.961623. PMID: 21772012.
