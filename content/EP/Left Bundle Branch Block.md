@@ -9,7 +9,7 @@ aliases:
 >[!warning]
 >The Mean QRS Vector, “Axis”, and [[Ventricular Hypertrophy]] cannot be determined accurately in the presence of Bundle Branch Block.
 
-- [[Right Bundle Branch Block (RBBB)|RBBB]] and LBBB are specific varieties of **interventricular conduction delay (IVCD)**
+- [[Right Bundle Branch Block|RBBB]] and LBBB are specific varieties of **[[Interventricular Conduction Delay|interventricular conduction delay (IVCD)]]**
 	- Caused by a block (of conduction) in the Right or in the Left Bundle Branch. The blocked Bundle Branch delays depolarization to the ventricle that it supplies.
 - QRS > 0.12 secs, i.e. > 3 small squares
 

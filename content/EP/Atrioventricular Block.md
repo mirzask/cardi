@@ -42,7 +42,7 @@ Here, you have A and H. This is an example of infranodal block as there is nothi
 | Exercise/isoproterenol | Improves | Conduction ratio may worsen                  |
 | Atropine               | Improves | Conduction ratio may worsen                  |
 | Vagal maneuvers        | Worsens  | No change (maybe improve if can conduct 1:1) |
-| [[Beta Blockers]]      | Worsens  | No change                                    |
+| [[Beta-blockers]]      | Worsens  | No change                                    |
 
 Vagal → slow them down if infranodal disease → conduct 1:1
 An exercise test may help differentiate whether 2:1 atrioventricular block is due to Mobitz type I or II AV block. Exercise causes withdrawal of vagal tone and increased sympathetic tone leading to improved atrioventricular nodal conduction. If the baseline atrioventricular block is infranodal (Mobitz type II), the atrioventricular block will not resolve and will likely worsen as the sinus rate increases.  If the latter ensues, a pacemaker would be indicated. If the atrioventricular block is Mobitz type I, then increased sympathetic tone would facilitate conduction through the AV node and may lead to resolution of the AV block.
@@ -54,13 +54,13 @@ An exercise test may help differentiate whether 2:1 atrioventricular block is du
 		- LAD or anterior infarct tends to be associated with distal/infranodal AV block
 			- tends to be chronic and progressive
 	- Acute [[Rheumatic heart disease|rheumatic fever]] and other cardiac inflammatory conditions
-	- Drugs, e.g. [[Digoxin|digoxin]], [[Beta Blockers|BBs]], [[Calcium Channel Blockers (CCBs)|CCBs]]
+	- Drugs, e.g. [[Digoxin|digoxin]], [[Beta-blockers|BBs]], [[Calcium Channel Blockers (CCBs)|CCBs]]
 		- typically the drug will cause 1˚ AVB and higher degree block suggests underlying intrinsic AV nodal dysfunction
 - 2:1 block
 	- 2 P waves for every QRS complex
 	- 📝 when you have 2:1 block, often can't tell if Type I or Type II
 		- Clues to help differentiate Type I and II:
-			- QRS > 120 ms, e.g. RBBB morphology → you know conduction disease, which pushes you to Type II
+			- QRS > 120 ms, e.g. [[Right Bundle Branch Block|RBBB]] morphology → you know conduction disease, which pushes you to Type II
 		- Exercise them, Wake them up and walk around → if conduction better then Type I. If worse (e.g. 2:1 → 3:1), then Type II.
 		- Carotid sinus massage and it goes from 2:1 → 1:1 conduction, it is Type II.
 			- carotid massage → ↑ vagal tone → conduction better b/c enough time to conduct every one of those beats

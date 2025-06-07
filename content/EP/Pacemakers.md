@@ -35,10 +35,10 @@ tags:
 - The QRS morphology is specific for a given pacing site
 	- RV apical pacing
 		- Lead I: tall R wave
-		- V1: [[Left Bundle Branch Block (LBBB)|LBBB]]-like pattern
+		- V1: [[Left Bundle Branch Block|LBBB]]-like pattern
 	- LV pacing
 		- Lead I: QS complex
-		- V1: [[Right Bundle Branch Block (RBBB)|RBBB]]-like pattern
+		- V1: [[Right Bundle Branch Block|RBBB]]-like pattern
 		- Negative or isoelectric complexes in II, III, aVF
 	- BiV pacing
 		- Fused vector that resembles a hybrid b/w lone-RV and lone-LV pacing

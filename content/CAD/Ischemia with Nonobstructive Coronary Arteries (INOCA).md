@@ -11,6 +11,9 @@ aliases:
 	- [[Microvascular Dysfunction]]
 	- TODO
 
+![[Ischemia with Nonobstructive Coronary Arteries _INOCA_-1748817002120.webp]]
+Figure source: [^1]
+
 <center>Endotypes of INOCA</center>
 
 | Endotype                             | Features                                                                                                                                                                                                                                                                                  | Diagnosis                                                                                                                                                                                                        |
@@ -100,3 +103,5 @@ See [[Vasospastic Angina#Management|Management of Vasospastic Angina]]
 [^cp]: Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Journal of the American College of Cardiology. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053
 [^eapci]: Kunadian, V., Chieffo, A., Camici, P. G., Berry, C., Escaned, J., Maas, A. H. E. M., Prescott, E., Karam, N., Appelman, Y., Fraccaro, C., Louise Buchanan, G., Manzo-Silberman, S., Al-Lamee, R., Regar, E., Lansky, A., Abbott, J. D., Badimon, L., Duncker, D. J., Mehran, R., … Baumbach, A. (2020). An EAPCI Expert Consensus Document on Ischaemia with Non-Obstructive Coronary Arteries in Collaboration with European Society of Cardiology Working Group on Coronary Pathophysiology &amp; Microcirculation Endorsed by Coronary Vasomotor Disorders International Study Group. European Heart Journal, 41(37), 3504–3520. https://doi.org/10.1093/eurheartj/ehaa503
 [^cmd-natrev]: Camici, P. G., d’Amati, G., & Rimoldi, O. (2014). Coronary microvascular dysfunction: mechanisms and functional assessment. Nature Reviews Cardiology, 12(1), 48–62. https://doi.org/10.1038/nrcardio.2014.160
+
+[^1]: Hokimoto S, Kaikita K, Yasuda S, Tsujita K, Ishihara M, Matoba T, Matsuzawa Y, Mitsutake Y, Mitani Y, Murohara T, Noda T, Node K, Noguchi T, Suzuki H, Takahashi J, Tanabe Y, Tanaka A, Tanaka N, Teragawa H, Yasu T, Yoshimura M, Asaumi Y, Godo S, Ikenaga H, Imanaka T, Ishibashi K, Ishii M, Ishihara T, Matsuura Y, Miura H, Nakano Y, Ogawa T, Shiroto T, Soejima H, Takagi R, Tanaka A, Tanaka A, Taruya A, Tsuda E, Wakabayashi K, Yokoi K, Minamino T, Nakagawa Y, Sueda S, Shimokawa H, Ogawa H; Japanese Circulation Society and Japanese Association of Cardiovascular Intervention and Therapeutics and Japanese College of Cardiology Joint Working Group. JCS/CVIT/JCC 2023 Guideline Focused Update on Diagnosis and Treatment of Vasospastic Angina (Coronary Spastic Angina) and Coronary Microvascular Dysfunction. Circ J. 2023 May 25;87(6):879-936. doi: 10.1253/circj.CJ-22-0779. Epub 2023 Apr 6. PMID: 36908169.

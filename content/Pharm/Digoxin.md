@@ -8,7 +8,7 @@ tags:
 - Digoxin has a relatively narrow therapeutic window [^1]
 	- For [[Heart Failure|heart failure]] alone, the target serum levels should be between 0.5 and 1.0 ng/L. 
 	- For [[Atrial Fibrillation (AFib)|AF]], the target range is higher (0.5-2.0 ng/L). 
-# Digoxin Effect on [[Electrocardiogram (ECG)|ECG]]
+# Digoxin Effect on [[Electrocardiogram|ECG]]
 
 ![[Digoxin-1746717236761.webp]]
 Figure source: [^1]

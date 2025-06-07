@@ -88,9 +88,9 @@ Original paper 📄 [^brugada]
 
 # Mimickers
 
-## [[Supraventricular Tachycardia (SVT)|SVT]] with [[Right Bundle Branch Block (RBBB)|RBBB]] Aberrancy
+## [[Supraventricular Tachycardia (SVT)|SVT]] with [[Right Bundle Branch Block|RBBB]] Aberrancy
 
-> This example: Only wide in V1, V2 because hx of RBBB. Other leads, QRS is narrow.
+> This example: Only wide in V1, V2 because hx of [[Right Bundle Branch Block|RBBB]]. Other leads, QRS is narrow.
 
 ![[Ventricular Tachycardia (VT)-20241223145204164.webp]]
 
@@ -99,7 +99,7 @@ Original paper 📄 [^brugada]
 
 ![[Ventricular Tachycardia (VT)-20241223145247513.webp]]
 
-## [[Sinus Tachycardia]] with [[Right Bundle Branch Block (RBBB)|RBBB]] Aberrancy
+## [[Sinus Tachycardia]] with [[Right Bundle Branch Block|RBBB]] Aberrancy
 
 ![[Ventricular Tachycardia (VT)-20241223145413479.webp]]
 

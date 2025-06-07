@@ -80,7 +80,7 @@ In patients with acquired second-degree Mobitz type II atrioventricular block, h
 ## Echo
 
 - Class 1 indications:
-	- Newly identified [[Left Bundle Branch Block (LBBB)|LBBB]], [[Second degree (2˚) AV Block#Mobitz Type 2|second-degree Mobitz type II atrioventricular block]], high-grade atrioventricular block, or [[Third degree (3˚) AV Block|third-degree atrioventricular block]] with or without apparent structural heart disease or coronary artery disease
+	- Newly identified [[Left Bundle Branch Block|LBBB]], [[Second degree (2˚) AV Block#Mobitz Type 2|second-degree Mobitz type II atrioventricular block]], high-grade atrioventricular block, or [[Third degree (3˚) AV Block|third-degree atrioventricular block]] with or without apparent structural heart disease or coronary artery disease
 - Class 2a indications
 	- Reasonable to get TTE if bradycardia or conduction disorders secondary to causes other than those with a Class 1 indication
 - Class 3

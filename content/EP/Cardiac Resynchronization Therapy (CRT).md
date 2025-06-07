@@ -7,7 +7,7 @@ aliases:
 ---
 - Related:
 	- [[Pacemakers]]
-	- [[Left Bundle Branch Block (LBBB)]]
+	- [[Left Bundle Branch Block]]
 	- [[Conduction System Pacing]]
 
 - Cardiac resynchronization therapy (CRT) response is dependent on >90% biventricular pacing.
@@ -17,8 +17,8 @@ aliases:
 
 # CRT Non-response
 
-- Preimplantation causes of CRT nonresponse include non–[[Left Bundle Branch Block (LBBB)|LBBB]] native conduction or a relatively narrow native QRS.
-	- recall this was part of the impetus for development of the [[Left Bundle Branch Block (LBBB)#Strauss Criteria for Complete LBBB|Strauss criteria for complete LBBB]]
+- Preimplantation causes of CRT nonresponse include non–[[Left Bundle Branch Block|LBBB]] native conduction or a relatively narrow native QRS.
+	- recall this was part of the impetus for development of the [[Left Bundle Branch Block#Strauss Criteria for Complete LBBB|Strauss criteria for complete LBBB]]
 - Loss of LV lead capture
 	- When the LV threshold has changed from implantation, LV noncapture may be correctible by ↑ the LV stimulation output or selecting an alternate stimulation vector.
 - Poor LV lead position

@@ -24,7 +24,7 @@ Figure source: [^scct]
 # [[Transcatheter Aortic Valve Implantation (TAVI)|TAVI]] "Landing Zone"
 
 - The TAVI “landing zone” comprises the valve cusps, aortic annulus and LVOT.[^scct]
-- The device landing zone is in close spatial relationship with the conduction system ⚡ which may be compressed and damaged, causing **[[Atrioventricular Block|AV block]]** and need for pacemaker implantation especially in the context of severe calcification of the subannular device landing zone, with this effect amplified in the presence of pre-existent **[[Right Bundle Branch Block (RBBB)]]**.[^scct]
+- The device landing zone is in close spatial relationship with the conduction system ⚡ which may be compressed and damaged, causing **[[Atrioventricular Block|AV block]]** and need for pacemaker implantation especially in the context of severe calcification of the subannular device landing zone, with this effect amplified in the presence of pre-existent **[[Right Bundle Branch Block]]**.[^scct]
 
 ## Calcium in the "Landing Zone"
 

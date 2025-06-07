@@ -10,6 +10,11 @@ tags:
 - ECG
 	- Long RP tachycardia
 	- Since AT is not dependent on the AV node, it does *not* usually terminate with AV block, and there may be periods of variable conduction with AV dissociation with more Ps than QRSs.
+	- Arising from left atrium
+		- + P wave in V1
+		- - P waves in I, aVL
+	- Arising cranial portion of either atria
+		- + P waves in II, III, aVF
 
 ![[Atrial Tachycardia-1747928776784.webp]]
 # Management

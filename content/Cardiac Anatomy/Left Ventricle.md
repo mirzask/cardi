@@ -109,5 +109,5 @@ $$
 - See the [[17-Segment Model]]
 - Not all wma are [[Coronary Artery Disease (CAD)|CAD]]
 	- Examples include [[Myocarditis|myocarditis]], [[Sarcoidosis|sarcoidosis]], and [[Takotsubo Cardiomyopathy|stress-induced (Takotsubo) cardiomyopathy]]. 
-	- Abnormal motion patterns of the interventricular septum may be found **post-operatively** or in the presence of a [[Left Bundle Branch Block (LBBB)|left bundle branch block]] or **RV epicardial pacing**, as well as RV dysfunction caused by RV pressure or volume overload. 
+	- Abnormal motion patterns of the interventricular septum may be found **post-operatively** or in the presence of a [[Left Bundle Branch Block|left bundle branch block]] or **RV epicardial pacing**, as well as RV dysfunction caused by RV pressure or volume overload. 
 	- Characteristic motion patterns, which result from abnormal activation sequences, such as **septal bounce** ("beaking," "flash") or lateral apical motion during systole ("apical rocking") should be reported.

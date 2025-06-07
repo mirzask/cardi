@@ -24,7 +24,7 @@ aliases:
 	- [[Atrial Tachycardia]] (<10%)
 
 
-![[Supraventricular Tachycardia _SVT_-1747496128145.webp|518x746]]
+![[Supraventricular Tachycardia SVT-1747496128145.webp|518x746]]
 
 ```mermaid
 graph TD
@@ -149,8 +149,8 @@ A core assumption here is that pathway A conducts slower, and has a shorter refr
 		- **short-RP tachycardia**, i.e. RP interval shorter than the PR interval, because of retrograde conduction via the bypass tract tends to be _faster_ than antegrade conduction via the normal AV conducting system.
 		- P waves often negative in the inferior leads b/c atrial stimulation is in retrograde direction (P wave axis is superior/going upward)
 	- **Treatment**:
-		- [[Beta Blockers|BBs]], [[Calcium Channel Blockers (CCBs)|CCBs]], [[Digoxin|digoxin]] +/- [[Anti-Arrhythmic Drugs#Class Ia|Class Ia drugs]]
-		- ↑ refractory period of the AV node: [[Beta Blockers|BBs]], [[Calcium Channel Blockers (CCBs)|CCBs]], [[Digoxin|digoxin]]
+		- [[Beta-blockers|BBs]], [[Calcium Channel Blockers (CCBs)|CCBs]], [[Digoxin|digoxin]] +/- [[Anti-Arrhythmic Drugs#Class Ia|Class Ia drugs]]
+		- ↑ refractory period of the AV node: [[Beta-blockers|BBs]], [[Calcium Channel Blockers (CCBs)|CCBs]], [[Digoxin|digoxin]]
 			- decreases the width of the tachycardia zone
 		- ↑ AV nodal block (→ induces [[AV Block#Mobitz Type 1 (aka Wenckebach)|Wenckebach]] when tachycardia begins)
 			- a single blocked beat will immediately terminate the tachycardia

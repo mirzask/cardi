@@ -5,6 +5,8 @@ tags:
 
 # Diagnosis
 
+![[Myocarditis-1748811824742.webp]]
+
 ## [[Cardiac MRI]]
 
 ![[Myocarditis-20250110121234595.webp]]

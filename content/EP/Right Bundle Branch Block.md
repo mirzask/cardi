@@ -15,9 +15,9 @@ aliases:
 
 # Masquerading Bundle Branch Block (MBBB)
 
-- Suggested by presence of QRS morphology resembling [[Right Bundle Branch Block (RBBB)|RBBB]] conduction in the precordial leads but resembling [[Left Bundle Branch Block (LBBB)|LBBB]] conduction in the limb leads [^smithECG-2025-04-18]
+- Suggested by presence of QRS morphology resembling [[Right Bundle Branch Block|RBBB]] conduction in the precordial leads but resembling [[Left Bundle Branch Block|LBBB]] conduction in the limb leads [^smithECG-2025-04-18]
 	- ![[Right Bundle Branch Block RBBB-1745079013490.webp]]
-- Special type of IVCD that although uncommon, is important to recognize because it identifies a group of patients with:
+- Special type of [[Interventricular Conduction Delay|IVCD]] that although uncommon, is important to recognize because it identifies a group of patients with:
 	- Very severe underlying heart disease
 	- A much higher predisposition for developing complete AV block (and needing a pacemaker)
 	- An extremely poor long-term prognosis
@@ -30,7 +30,6 @@ aliases:
 - Wide, slurred S wave in lateral leads (I, aVL, V5-6)
 - In RBBB, the ST segment should be <u>depressed</u> up to 1 mm in V1-V3, i.e. discordant to the R'-wave (or >1 mm in the case of a high voltage R'-wave, such as in RVH) [^smithECG-2025-04-18]
 	- ∴ ANY STE in V1-V3 in a patient with RBBB is [[ST-elevation Myocardial Infarction (STEMI)|OMI]] until proven otherwise
-- 
 
 
 [^fogoros]: Fogoros, R. N., & Mandrola, J. M. (2017). _Fogoros' electrophysiologic testing_. John Wiley & Sons.

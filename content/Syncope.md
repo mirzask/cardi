@@ -70,7 +70,7 @@ tags:
 	- Can consider fludrocortisone if unable to take in enough salt and fluid
 - If recurrence
 	- Midodrine (if no HTN or CHF)
-	- Beta blockers (if ≥ 42 years old)
+	- [[Beta-blockers|BBs]] (if ≥ 42 years old)
 
 # Cardiac Syncope
 

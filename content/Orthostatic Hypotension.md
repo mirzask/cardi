@@ -75,6 +75,7 @@ tags:
 - Counterpressure maneuvers, e.g. leg crossing, limb and/or abdominal contraction, squatting
 	- ![[Syncope-1747668159404.webp|498x263]]
 - Stop offending medication(s)
+	- Commonly used medications (hidden sympatholytics) can worsen orthostatic hypotension (e.g. tizanidine, trazodone, tamsulosin).
 - Consider fludrocortisone (0.1 mg daily)
 - Consider midodrine (5 mg TID)
 - Consider droxidopa (100 mg TID)
