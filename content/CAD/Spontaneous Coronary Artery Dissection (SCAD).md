@@ -115,6 +115,13 @@ TODO
 - Patients with cardiovascular disease are typically advised to use a transdermal systemic agent to minimize activation of thrombotic factors and effects on lipids
 - Indications, benefits, and risks of continuing or discontinuing use of HT should be reviewed periodically
 
+# Angiographic Classifications
+
+- Type 1 SCAD depicts contrast dye staining of arterial wall with multiple radiolucent lumen, with or without dye hang-up or slow contrast clearing from the lumen.
+- Type 2 SCAD depicts diffuse and smooth narrowing that varies in severity
+	- Type 2A describes the presence of normal arterial segments proximal and distal to dissection
+	- Type 2B describes dissection that extends to distal tip of the artery.
+- Type 3 SCAD depicts focal or tubular stenosis that appears similar to atherosclerosis.
 # Resources
 - 📄 Lewey J, El Hajj SC, Hayes SN. Spontaneous coronary artery dissection: new insights into this not-so-rare condition. _Annu Rev Med_. 2022;73(1):339-354. doi:10.1146/annurev-med-052819-023826
 - 📄 Tweet MS, Gulati R, Hayes SN. What clinicians should know αbout spontaneous coronary artery dissection. _Mayo Clinic Proceedings_. 2015;90(8):1125-1130. doi:10.1016/j.mayocp.2015.05.010
