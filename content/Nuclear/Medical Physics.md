@@ -37,7 +37,9 @@ tags:
 				- Does NOT change the number of nucleons, but it does change the amount of charge in the center of the nucleus.
 			- **Electron Capture**
 				- The innermost electron cloud ☁️ passes close by a large nucleus ("gets too close") → the nucleus grabs an electron from the electron cloud ☁️ + a proton is changed to a neutron
+				- Vacancy in innermost shell → shell of atom collapses → emits X-rays that can be detected
 				- $p^+ + e^- \rightarrow n + \nu_e$
+			- **Positron emission** - which is the process used in [[Positron Emission Tomography (PET)]]
 	- Isomeric transitions: No change in the number of protons, i.e. no change in $Z$
 		- **Gamma Decay** or **Gamma Ray Emission**
 			- We have an atom that maybe starts to raise its energy state → goes to a low energy state with no change in the number of nucleons or the number of protons at the center of it, but gives off energy and conserves energy → produces a <u>gamma ray</u> that then detected by the system

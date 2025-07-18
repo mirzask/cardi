@@ -97,7 +97,7 @@ tags:
 	- Extraction of ${}^{\text{99m}}\text{Tc}$ by simple column chromatography to make sure that the Technetium is pure
 - Fission produced Uranium-235 can have many other contaminants and these are taken care of by the manufacturer
 	- Molybdenum (and all of our other products) have *multiple* decay schemes, i.e. it isn't that 100% go to our compound that we want
-		- ![p-49-1.jpg|387](https://nap.nationalacademies.org/openbook/23563/xhtml/images/p-49-1.jpg)
+		- ![p-49-1.jpg|387|517x333](https://nap.nationalacademies.org/openbook/23563/xhtml/images/p-49-1.jpg)
 
 ## Technetium-99
 

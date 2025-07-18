@@ -51,6 +51,20 @@ tags:
 | Stress testing | Normal stress test (given adequate stress)                                                                          | 1 y             |
 # Contraindications by Stress Modality
 
+- STEMI or NSTEMI acute coronary syndrome or unstable angina
+- Recent [[Acute Coronary Syndrome (ACS)|ACS]] (STEMI or NSTEMI), less than 2 days after, with ongoing/active symptoms of ischemia or heart tailure
+- ↑ [[Troponin]] of possible ischemic etiology, ↑ in value or with ongoing/active symptoms of ischemia or ischemic ECG ∆
+- Decompensated [[Heart Failure|heart failure]]
+- Significant [[Hypertension]]: resting SBP ≥200 mmHg or resting DBP ≥ 110 mmHg
+- Significant Hypotension: symptomatic hypotension or asymptomatic hypotension with SBP at rest ≤85 mmHg
+- Uncontrolled cardiac arrhythmias (causing Sx or hemodynamic compromise)
+- Symptomatic [[Aortic Stenosis#Severe AS|severe aortic stenosis]]
+- Acute [[Pulmonary Embolism|pulmonary embolism]]
+- Acute aortic syndromes, including acute Type A [[Aortic Dissection|aortic dissection]] or acute Type B [[Aortic Dissection|aortic dissection]] with symptoms
+- [[Atrioventricular Block#Third degree (3˚) AV Block|Third-degree AV block]] <u>without</u> a functioning [[Pacemakers|pacemaker]]
+- Acute symptomatic significant medical illness
+- Inability to participate or cooperate with testing, or inability remain still and flat for imaging
+
 Source: Table 5 of [^cp]
 
 | [[Exercise ECG]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Nuclear ([[Positron Emission Tomography (PET)\|PET]], [[Single-photon emission computed tomography (SPECT)\|SPECT]])                                                                                | [[Stress Echocardiography]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | [[Stress Cardiac MRI]]                                                                                                                                                                                                             | [[Coronary Computed Tomography Angiography (CCTA)\|CCTA]]                                                                                                                                                                                                                                          |

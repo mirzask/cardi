@@ -3,6 +3,8 @@ tags:
   - stresstesting
 ---
 - Involves graded exercise until physical fatigue, limiting chest pain (or discomfort), marked ischemia, or a drop in blood pressure occurs.[^cp]
+- Goal is at least 4-6 minutes of exercise to allow for maximal metabolic demand
+- Ideally, tests should be symptom limited (i.e. not "done" when patient reaches 85% of max-predicted HR)
 - Candidates for exercise ECG are those:[^cp]
 	- without disabling comorbidity (e.g., frailty, marked obesity (BMI >40 kg/m2), [[Peripheral Arterial Disease|PAD]], COPD, or orthopedic limitations) and capable of performing ADLs or able to achieve ≥5 METs *and*
 	- without resting ST-T abnormalities (e.g., >0.5-mm ST depression, [[Left Ventricular Hypertrophy|LVH]], paced rhythm, [[Left Bundle Branch Block|LBBB]], [[Accessory Pathway Conduction|WPW]] pattern, or [[Digoxin|digoxin]] use).
@@ -35,7 +37,28 @@ tags:
 
 # Stress ECG Interpretation
 
+- Review of ST segment - "positive" response is indicated by:
+	- ST segment depression (horizontal or downsloping) of > 1mm
+		- 80 msec from the J-point
+	- ST segment elevation in leads lacking Q-waves
+	- ![[Exercise ECG-1752853877778.webp]]
+- Presence of arrhythmias
 
+# Indications for Early Termination of Exercise
+
+- Moderate to severe angina pectoris
+- Excessive STD (horizontal or downsloping) >2 mm from baseline in a patient with suspected ischemia
+- STE (>1.0 mm) in leads without diagnostic Q-waves (except for leads V1 or aVR).
+- Sustained [[Supraventricular Tachycardia (SVT)|SVT]] or [[Ventricular Tachycardia (VT)|VT]]
+- Development of symptomatic second- or third-degree [[Atrioventricular Block|AV block]] <u>without</u> functioning pacemaker
+- Development of [[Left Bundle Branch Block|LBBB]] or IVCD that cannot be distinguished from [[Ventricular Tachycardia (VT)|VT]]
+- Signs of poor perfusion (cyanosis and pallor)
+- Hypertensive response (SBP >230 mmHg and/or DBP >115 mmHg)
+- Severe hypotension (SBP <80 mmHg)
+- Drop in SBP of >10 mmHg from baseline, despite an increase in workload, when accompanied by other evidence of ischemia
+- Inability to monitor the ECG or BP
+- In patients with [[Implantable Cardioverter-Defibrillator (ICD)|ICDs]], when the heart rate attained is within 20 bpm of the lowest heart rate at which therapy (antitachycardia pacing or shock) is programmed to be delivered
+- Patient's request to stop
 
 [^cp]: Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Journal of the American College of Cardiology. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053
 [^asnc-rep]: Tilkemeier PL, Bourque J, Doukky R, Sanghani R, Weinberg RL. ASNC imaging guidelines for nuclear cardiology procedures. Journal of Nuclear Cardiology. 2017;24(6):2064-2128. doi:10.1007/s12350-017-1057-y

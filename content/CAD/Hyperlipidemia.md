@@ -1,6 +1,7 @@
 ---
 aliases:
   - Lipid Management
+  - Cholesterol Management
 ---
 # Approach to [[Hyperlipidemia]]
 
@@ -91,6 +92,10 @@ flowchart TD
 | Diseases                | Biliary obstruction, Nephrotic syndrome                                                    | Nephrotic syndrome, chronic renal failure, lipodystrophies                                                                                                                                  |
 | Disorders of metabolism | Low T4, obesity, pregnancy                                                                 | DM (poorly controlled), Low T4, obesity, pregnancy                                                                                                                                          |
 
+# LDL Goals
+
+![[Hyperlipidemia-1752688089204.webp]]
+Figure source: [^1]
 # Lifestyle Modifications
 
 - Daily physical activity
@@ -158,4 +163,4 @@ Variability in individual response to statins
 
 [^2022-acc]: Lloyd-Jones, D. M., Morris, P. B., Ballantyne, C. M., Birtcher, K. K., Covington, A. M., DePalma, S. M., Minissian, M. B., Orringer, C. E., Smith, S. C., Waring, A. A., & Wilkins, J. T. (2022). 2022 ACC Expert Consensus Decision Pathway on the Role of Nonstatin Therapies for LDL-Cholesterol Lowering in the Management of Atherosclerotic Cardiovascular Disease Risk. Journal of the American College of Cardiology, 80(14), 1366–1418. https://doi.org/10.1016/j.jacc.2022.07.006
 [^sihd]: Fihn SD, Gardin JM, Abrams J, et al. 2012 ACCF/AHA/ACP/AATS/PCNA/SCAI/STS Guideline for the Diagnosis and Management of Patients With Stable Ischemic Heart Disease. Journal of the American College of Cardiology. 2012;60(24):e44-e164. doi:10.1016/j.jacc.2012.07.013
-
+[^1]: LDL Cholesterol Management Simplified in (Adults) - Lower for Longer is Better: Guidance from the National Lipid Association. Jackson, Elizabeth J. et al.
