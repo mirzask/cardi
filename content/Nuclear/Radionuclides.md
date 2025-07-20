@@ -2,6 +2,8 @@
 tags:
   - nuclear
   - stresstesting
+aliases:
+  - Radiotracers
 ---
 
 - Definition of a Radiopharmaceutical
@@ -22,6 +24,7 @@ tags:
 	- Inexpensive
 
 ![[Radionuclides-20241021121956887.webp|442]]
+In the above slide we see that as myocardial blood flow increases (moving rightward along the $x$-axis), the myocardial tracer uptake with **rolloff**. This is one of the major limitations of [[Single-photon emission computed tomography (SPECT)|SPECT]] and [[Positron Emission Tomography (PET)|PET]]. At high MBF, you may not get commensurate ↑ in myocardial uptake → defects may be smaller than they should be.
 # Production of Isotropes
 
 - Since none of these occur naturally in nature, we have to produce them in some kind of either through using an accelerator to crash atoms together *or* in a reactor to force neutrons into the nucleus to change the nuclear composition of these atoms.
@@ -146,6 +149,12 @@ The above figure depicts [[Radionuclide Generator|generator]] production of ${}^
 
 # CV PET Tracers
 
+![[Radionuclides-1753032623808.webp]]
+Figure source: [^1]
+
+![[Radionuclides-1753032724202.webp]]
+Figure source: [^1]
+
 - [[Positron Emission Tomography (PET)|PET]] allows non-invasive evaluation of [[Myocardial Blood Flow (MBF)|MBF]], function, and metabolism using physiological substrates prepared with positron-emitting [[Radionuclides|radionuclides]], such as carbon, oxygen, nitrogen, and fluorine.[^asnc]
 - [[Positron Emission Tomography (PET)|PET]] [[Radionuclides|radionuclides]] have half-lives that are often considerably shorter than those used in [[Single-photon emission computed tomography (SPECT)|SPECT]]. 
 - Positron-emitting radionuclides can be produced using:
@@ -186,6 +195,20 @@ The above figure depicts [[Radionuclide Generator|generator]] production of ${}^
 			- 82Sr content must be < 2 x 10-2 $\mu \text{Ci} / \text{mCi}$ of 82Rb at end of elution.
 			- 85Sr content must be < 0.2 $\mu \text{Ci} / \text{mCi}$ of 82Rb at end of elution.
 
+### Protocol
+
+- Pharmacological stress only
+- Same dose for rest/stress
+	- 40-60mCi (2D)
+	- 25-30mCi (3D)
+	- 10-20 (digital)
+- Weight-based dosing
+	- 0.15-0.27 mCi/kg [6-10 MBq/kg]
+	- 0.9 mCi/kgm-2 [33.3 MBq/kgm?]
+	- 2.7 µCi [0.1 MBq]/kg2 OR activity in MBq=patient weight (kg) × weight (kg)/10
+- Dosimetry
+	- 1.1-3.5 mSV
+
 #### N-13 Ammonia
 
 - N-13 decays by **positron emission**.[^asnc] 
@@ -217,3 +240,5 @@ The above figure depicts [[Radionuclide Generator|generator]] production of ${}^
 
 [^asnc]: Dilsizian V, Bacharach SL, Beanlands RS, et al. ASNC imaging guidelines/SNMMI procedure standard for positron emission tomography (PET) nuclear cardiology procedures. Journal of Nuclear Cardiology. 2016;23(5):1187-1226. doi:10.1007/s12350-016-0522-3
 [^imaging]: Garcia, M. J., Kwong, R. Y., Scherrer-Crosbie, M., Taub, C. C., Blankstein, R., Lima, J., Bonow, R. O., Eshtehardi, P., & Bois, J. P. (2020). State of the Art: Imaging for Myocardial Viability: A Scientific Statement From the American Heart Association. Circulation: Cardiovascular Imaging, 13(7). https://doi.org/10.1161/hci.0000000000000053
+
+[^1]: Maddahi J, Packard RR. Cardiac PET perfusion tracers: current status and future directions. Semin Nucl Med. 2014 Sep;44(5):333-43. doi: 10.1053/j.semnuclmed.2014.06.011. PMID: 25234078; PMCID: PMC4333146.

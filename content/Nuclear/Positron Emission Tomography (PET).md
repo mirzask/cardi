@@ -24,7 +24,7 @@ aliases:
 - For PET alone (compared to hybrid imaging, such as [[Positron Emission Tomography (PET)#Hybrid PET/CT|PET/CT]]), the image intensity reflects organ function and <u>physiology</u> as opposed to anatomy. [^asnc]
 - **Annihilation**
 	- A positron is a positively charged electron.
-		- Get ejected from nucleus → interacts with a negative electron → **annihilation**/destruction → 2 gamma photons travel exactly opposite from one another (180˚ apart) → each photon will strike 2 detectors 180˚apart from one another within a short time.
+		- Get ejected from nucleus → interacts with a negative electron → **annihilation**/destruction (releases energy of 1.22 million electron volts, which divided by 2 is 511 kEv) → 2 gamma photons travel exactly opposite from one another (180˚ apart) → each photon will strike 2 detectors 180˚apart from one another within a short time.
 	- When a positron spends time near an electron, the two <u>annihilate</u>—they both disappear and in their place two 511-keV gamma rays are emitted. 
 	- Because the gamma rays are nearly collinear (discharged at 180° to each other) and travel in opposite directions, the PET detectors can be programmed to register only events with temporal coincidence of photons that strike directly at opposing detectors.
 		- If both detectors don't record event within the ∆ time, it is discarded ("singles" or random).
