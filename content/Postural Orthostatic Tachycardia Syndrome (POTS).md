@@ -21,7 +21,7 @@ aliases:
 
 # Work-up
 
-![[Postural Orthostatic Tachycardia Syndrome _POTS_-1747924821963.webp]]
+![[Postural Orthostatic Tachycardia Syndrome (POTS)-1747924821963.webp]]
 
 - All patients
 	- H&P
@@ -38,18 +38,18 @@ aliases:
 
 # Management
 
-![[Postural Orthostatic Tachycardia Syndrome _POTS_-1747924875426.webp]]
+![[Postural Orthostatic Tachycardia Syndrome (POTS)-1747924875426.webp]]
 
 ## Non-pharmacologic management
 
-![[Postural Orthostatic Tachycardia Syndrome _POTS_-1747924958671.webp|576x604]]
+![[Postural Orthostatic Tachycardia Syndrome (POTS)-1747924958671.webp|576x604]]
 
 - Diet
 	- Small, frequent meals are recommended, and a high-fiber diet can help normalize GI symptoms.[^2]
 		- Large meals should be avoided, especially those high in fat and complex carbohydrates, because these can lead to postprandial aggravation of symptoms due to increased blood flow to the gut.
 	- ↑ salt intake
 		- [^1] showed that "high dietary sodium intake compared with low dietary sodium intake increases plasma volume, lowers standing plasma norepinephrine, and decreases change in HR."
-		- ![[Postural Orthostatic Tachycardia Syndrome _POTS_-1747923540124.webp|467x362]]
+		- ![[Postural Orthostatic Tachycardia Syndrome (POTS)-1747923540124.webp|467x362]]
 - <u>Non-upright</u> aerobic exercise - at least 30 mins 4x/wk
 	- e.g. rowing machine, recumbent bike, swimming
 	- physical reconditioning with a short-term (3 month) progressive exercise training program leads to improvement or remission of POTS in the majority of patients [^2]
@@ -90,7 +90,7 @@ aliases:
 	- alpha-methyldopa
 	- Ivabradine
 		- reduces intrinsic HR by specifically blocking the cardiac “funny” channel, the I~f~ current that controls the pacemaker activity of the sinus node
-		- ![[Postural Orthostatic Tachycardia Syndrome _POTS_-1747923856707.webp|464x322]]
+		- ![[Postural Orthostatic Tachycardia Syndrome (POTS)-1747923856707.webp|464x322]]
 
 
 [^1]: Garland EM, Gamboa A, Nwazue VC, Celedonio JE, Paranjape SY, Black BK, Okamoto LE, Shibao CA, Biaggioni I, Robertson D, Diedrich A, Dupont WD, Raj SR. Effect of High Dietary Sodium Intake in Patients With Postural Tachycardia Syndrome. J Am Coll Cardiol. 2021 May 4;77(17):2174-2184. doi: 10.1016/j.jacc.2021.03.005. PMID: 33926653; PMCID: PMC8103825.

@@ -40,6 +40,7 @@ aliases:
 # Collimators
 
 - Collimators are the "focusing" device of a SPECT camera
+- Collimators limit the number of detected photons by absorbing photons outside a range of incident angles.
 - Made up of holes (usually parallel)
 - Exclude photons not traveling parallel to the hole
 - Rated by sensitivity and resolution
@@ -84,5 +85,4 @@ Figure [source](https://www.asnc.org/wp-content/uploads/2024/06/ASNC-SPECT-Proto
 - See EXERRT trial [^1] that Dr. Randy Thompson was senior author on
 
 [^1]: Thomas GS, Cullom SJ, Kitt TM, Feaheny KM, Ananthasubramaniam K, Gropler RJ, Jain D, Thompson RC. The EXERRT trial: "EXErcise to Regadenoson in Recovery Trial": A phase 3b, open-label, parallel group, randomized, multicenter study to assess regadenoson administration following an inadequate exercise stress test as compared to regadenoson without exercise for myocardial perfusion imaging using a SPECT protocol. J Nucl Cardiol. 2017 Jun;24(3):788-802. doi: 10.1007/s12350-017-0813-3. Epub 2017 Feb 21. PMID: 28224449; PMCID: PMC5491644.
-
 [^2]: Chang SM, Nabi F, Xu J, Raza U, Mahmarian JJ. Normal stress-only versus standard stress/rest myocardial perfusion imaging: similar patient mortality with reduced radiation exposure. J Am Coll Cardiol. 2010 Jan 19;55(3):221-30. doi: 10.1016/j.jacc.2009.09.022. Epub 2009 Nov 13. PMID: 19913381.
