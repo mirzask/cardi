@@ -15,6 +15,7 @@ tags:
     - tl;dr: Inspiration → Increased IVC flow + Increased SVC flow → flowing into high pressure RA → increased JVP w/ inspiration
 - Respiratory variation and Interventricular dependence
 	- Inspiration reduces intrathoracic pressure which usually is fully transmitted to intracardiac pressures, but in constriction, the intracardiac pressures falls much less than intrathoracic pressure because of pericardial constraint. This difference in pressure change with inspiration results in reduced filling to left side of the heart. The reduction in left heart filling during inspiration causes a reduction in mitral inflow velocity and a shift of the interventricular septum toward the left ventricle. With expiration, left heart filling increases which shifts the interventricular septum back toward the right ventricle, leading to reduced filling to right side of the heart and a late-diastolic reversal of flow in the hepatic veins. [^oh-acc]
+	- Interdependence of ventricular filling on inspiration: intrathoracic pressure and pulmonary venous pressure ↓, but LA pressure does not. A reduced pulmonary vein to LA pressure gradient results in decreased flow into the LA and LV. Decreased LV filling during diastole allows for increased RV filling, which leads to an increase in flow across the tricuspid valve. Thus on inspiration, RVSP increases while LVSP decreases. On expiration, increased LV filling occurs at the expense of RV filling and the opposite effect occurs on mitral valve and tricuspid valve flow.
 
 > "Normally, with inspiration, you're going to have a drop in your intrathoracic pressures. And typically, those pressure changes are transferred fairly well to the cardiac chambers as well. What happens with constriction is you have this really stiff, non-compliant pericardial sac that serves to somewhat insulate the heart from those normal changes. So essentially what happens is with inspiration, the pulmonary pressures are going to drop (and consequently the pulmonary vein pressures), but that stiff pericardium insulates the LV and the RV. So they don't really see those pressure changes and the pressure stays relatively constant. So what happens is the driving pressure between what we measure in the cath lab, the pulmonary capillary wedge pressure and the LVEDP is going to vary with respiration. So essentially, with inspiration, you see a decrease in your left ventricular filling and an increase in your right ventricular filling (**discordance**). And you mentioned the bowing of the septum that we see on the echo, and that's indicative of the increased RV filling. And then you have the exact opposite with expiration, where you have increased left ventricular filling and the septum bows back into the RV."
 >     - CardioNerds [Episode 58](https://www.cardionerds.com/58-case-report-constrictive-pericarditis-university-of-tennessee/)
@@ -102,6 +103,7 @@ tags:
 	- The presence of ventricular septal shift in combination with either medial e' ≥ 9 cm/s or hepatic vein expiratory diastolic reversal ratio ≥ 0.79 (Hepatic vein diastolic reversal velocity / diastolic forward flow velocity) was 87% sensitive and 91% specific for the diagnosis of constrictive pericarditis.
 	- ![[Constrictive Pericarditis-1745187730537.webp]]
 - Diastolic septal bounce
+	- ![[septal-bounce.gif]]
 - **Ventricular interdepence** and **Respirophasic Variation**
 	- Expiration: mitral inflows ↑, tricuspid inflows ↓
 		- "When you expire, you increase the pressures in the thorax, but that doesn't transmit to the LV. And so you have an increased drive from the pulmonary veins to go into and fill the left side. And so in expiration, your mitral inflow goes up. But because of that ventricular interdependence, your tricuspid inflow goes down. And so you have this **respirophasic variation** in mitral inflow going up with expiration, tricuspid inflow going down with expiration, and then vice versa with inspiration. But for the same exact reason, you get respirophasic shifts in the septum. And so if you do an M-mode through the PLAX view, you'll see the septum globally shifting towards the right side because the LV is filling during expiration and then shift back towards the left side because the RV is preferentially filling better during inspiration."
@@ -127,9 +129,20 @@ tags:
 
 ## Hemodynamics
 
+- Elevation of and equalization of <u>diastolic pressures</u> are the hallmarks of constriction.
+	- RVEDP and LVEDP will be within 5 mmHg of each other. 
+	- In contrast to the normal heart, where pressures in the cardiac chambers are independent (i.e. unrelated) during diastole,  in constrictive pericarditis, the stiff pericardium limits expansion of the cardiac chambers. The chambers can fill beyond a certain limited point only by compressing other chambers, and thus the diastolic pressures equalize.
 - Simultaneous RHC + LHC to get RV and LV pressure tracings simultaneously
-- **Discordance**
-	- 
+- Hemodynamic findings in CP
+	- Almost all ventricular filling occurs in early to mid-diastole
+	- ↑ atrial pressures
+	- Equalization of early and mid-diastolic pressures (e.g., RV and LV or RA and LV)
+	- ↑ in RA pressure during inspiration (Kussmaul's sign)
+	- Exaggerated X and Y descents
+	- Intrathoracic pressure is not transmitted to the cardiac chambers
+		- Occurs due to the effects of respiration on ventricular filling.
+- **Ventricular discordance**
+	- ![[Constrictive Pericarditis-1753488092197.webp|496x600]]
 - Accentuated rapid ventricular filling
 	- d/t high atrial driving pressures and unimpeded ventricular relaxation
 - Followed by **rapid "y" descent**, which represents sudden rapid rise in pressure from pericardial restraint
@@ -138,6 +151,11 @@ tags:
 - Classic appearance:
 	- **Rapid "y" descent** on atrial pressure waveform
 	- **"Square root" sign** on ventricular pressure waveform
+
+
+![[Constrictive Pericarditis-1753486875143.webp]]
+Figure [source](https://thoracickey.com/18-constrictive-pericarditis/)
+
 
 ![[Constrictive Pericarditis-20240924222745396.webp]]
 Caption: (Left) Left ventricular (LV) (blue) and right atrial pressure (RA) (orange) hemodynamic pressure tracings in constrictive pericarditis (CP). Prominent "x" and "y" descents are present with a square root sign (\*). (Right) LV and RA pressure hemodynamic pressure tracings in restrictive cardiomyopathy (RCM). A prominent "y" descent is present, but the "x" descent is blunted. (Figure source: [^geske])
