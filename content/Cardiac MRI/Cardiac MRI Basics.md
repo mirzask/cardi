@@ -100,6 +100,7 @@ tags:
 | Synthetic ECV [%]                              | ECV where hematocrit is not measured by laboratory blood sampling but derived from blood T1                                                                                                                                                                                                                                                                                      |
 | [[MRI Mapping Techniques\|Parametric mapping]] | A process where a secondary image is generated in which each pixel represents a specific magnetic tissue property (T1, T2, or T2*) or a derivative such as ECV) derived from the spatially corresponding voxel of a set of co-registered magnetic resonance source images                                                                                                        |
 
+
 # FAQs
 
 - Is my patient _too big_ for a Cardiac MRI?

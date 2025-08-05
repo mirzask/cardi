@@ -11,6 +11,10 @@ tags:
 	- T1, ECV and T2 mapping are typically performed at 1.5 or 3 Tesla (T).
 	- T2* mapping for iron overload currently should be performed at 1.5 T.
 
+![[MRI Mapping Techniques-1754325879791.webp]]
+Figure source: page 42 of [EACVI pocket guide](https://www.escardio.org/static-file/Escardio/Subspecialty/EACVI/Publications%20and%20recommendations/Books%20and%20booklets/CMR%20pocket%20guides/CMR_guide_2nd_edition_148x105mm_03May2017_last%20version.pdf)
+
+
 ![[MRI Mapping Techniques-20241230095118250.webp|641]]
 
 Typical appearance of T1, T2, T2*, and ECV maps in healthy subjects and in patients with myocardial disease. Arrows denote relative change in respective parametric maps.[^scmr]
