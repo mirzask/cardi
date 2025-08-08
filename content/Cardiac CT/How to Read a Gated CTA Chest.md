@@ -9,4 +9,3 @@ tags:
 	- Can be used to assess valve function (e.g. opening and closing)
 	- ![[Pasted image 20241220130417.webp]]
 
-

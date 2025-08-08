@@ -17,6 +17,25 @@ aliases:
 > [!warning] If patient with [[Familial Hyperlipidemia]], don't even bother with CAC
 > 
 
+# CAC Scan Acquisition
+
+- Slice thickness: 3mm
+- Prospectively triggered scan
+- Target exposure depends on heart rate (40-75%)
+	- Diastasis is at ~75% of R-R interval (used when HR is nice and slow)
+	- Isovolumic relaxation is at ~40% of R-R interval (used when HR is high)
+		- The 🫀 can't move (at least on the Left) because the [[Aortic Valve|AV]] and [[Mitral Valve|MV]] are closed during IVR
+- Tube potential is fixed at 120 kV, tube current variable
+- Non-contrast study
+
+# Advantages of obtaining a CAC scan prior to [[Coronary Computed Tomography Angiography (CCTA)|CCTA]]
+
+- Minimizes Scan range
+- Provides estimate of plaque burden - useful for prognosis
+- ~~Establishes pre-test probability for obstructive CAD~~ (not actually true)
+- CAC >600 should make you pause as it can ↓ [[Sensitivity|sensitivity]] and [[Specificity|specificity]] in looking for obstructive CAD
+	- 🤔 Is this still the case in the era of photon-counting CT, I wonder
+- 📄 Arbab-Zadeh A, Miller JM, Rochitte CE, Dewey M, Niinuma H, Gottlieb I, Paul N, Clouse ME, Shapiro EP, Hoe J, Lardo AC, Bush DE, de Roos A, Cox C, Brinker J, Lima JA. Diagnostic accuracy of computed tomography coronary angiography according to pre-test probability of coronary artery disease and severity of coronary arterial calcification. The CORE-64 (Coronary Artery Evaluation Using 64-Row Multidetector Computed Tomography Angiography) International Multicenter Study. J Am Coll Cardiol. 2012 Jan 24;59(4):379-87. doi: 10.1016/j.jacc.2011.06.079. PMID: 22261160; PMCID: PMC3348589.
 # Percentile Scoring
 
 - [cac-tools.com](https://www.cac-tools.com/) can be used for patients 30-45 years old
