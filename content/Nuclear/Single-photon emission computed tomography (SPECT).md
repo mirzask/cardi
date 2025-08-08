@@ -5,6 +5,10 @@ aliases:
   - SPECT
 ---
 
+- Uses include
+	- [[Cardiac Stress Testing|Stress testing]]
+		- If patient cannot exercise, i.e. requires [[Pharmacologic Stressors|pharmacologic stress]], then [[Positron Emission Tomography (PET)|PET]] is likely a better option
+	- [[Pyrophosphate (PYP) Imaging|PYP]] imaging for [[Amyloidosis|ATTR cardiac amyloidosis]] screening
 - SPECT acquisition
 	- Elliptical orbit
 		- Heart distance changes for each rotation
@@ -27,6 +31,7 @@ aliases:
 	- Phantom Data Anger vs Digital [[Single-photon emission computed tomography (SPECT)]]
 		- Veriton has much better spatial resolution → you can discern many more of the black dots in the figure below with the Veriton
 		- ![[Single-photon emission computed tomography (SPECT)-20241021125237749.webp|529]]
+
 # Who is suitable for SPECT?
 
 - Lower likelihood patients

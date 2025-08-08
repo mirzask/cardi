@@ -20,15 +20,24 @@ aliases:
 	- Left anterior descending artery is the most commonly affected (32%-46% of cases)
 	- In the majority of cases, mid to distal segments of coronary arteries are affected; in only <10% of cases are the proximal left anterior descending or circumflex, right coronary, or left main arteries affected
 	- Multivessel SCAD occurs in 9% to 23% of cases
+
+# Management
+
 - Inpatient Treatment
 	- Preserved coronary blood flow (TIMI 2-3) and hemodynamically stable: conservative therapy with inpatient monitoring (3-5 days)
 	- Poor coronary blood flow (TIMI 0-1) and/or hemodynamically unstable: revascularization with percutaneous coronary intervention (POBA/STAR technique preferred) or coronary artery bypass grafting
 - Outpatient Treatment
-	- Cardiac rehabilitation referral
+	- 🌟 Cardiac rehabilitation referral
 	- Imaging for vascular abnormalities, including FMD
-	- Role of BBs, ASA/DAPT
+	- BBs
+	- ASA/DAPT(?)
+		- "I think the jury is still out regarding antiplatelet therapy," says Tweet. "If a patient has a stent, I'll prescribe dual antiplatelet therapy for that first year after the heart attack; otherwise, there's often no reason for them to be on two agents, and I typically keep them on aspirin alone. We need more evidence to know what is best for SCAD patients in the short- and long-term, however." ([Source](https://www.acc.org/Latest-in-Cardiology/Articles/2025/08/01/01/Cover-Story-Hidden-in-Plain-Sight))
+	- BP control
+	- Avoid anticoagulation
+		- "theoretical risk; if there's an intramural hematoma, it could bleed more and cause further obstruction or extend the dissection. Moreover, these lesions are not typically associated with significant thrombus." ([Source](https://www.acc.org/Latest-in-Cardiology/Articles/2025/08/01/01/Cover-Story-Hidden-in-Plain-Sight))
 	- Medical genetics evaluation, if applicable (eg if FMD, aortopathy, Marfan diagnosed at time of SCAD presentation)
 	- Mental health assessment and care
+		- Nearly one in three survivors of SCAD may experience clinically significant PTSD symptoms years after their event, along with high rates of comorbid anxiety and depression.[^1]
 	- Avoidance of pregnancy
 	- Limitation of exogenous hormones
 - Pregnancy after SCAD? (See [[Spontaneous Coronary Artery Dissection (SCAD)#Pregnancy after SCAD?|Pregnancy after SCAD?]])
@@ -122,6 +131,9 @@ TODO
 	- Type 2A describes the presence of normal arterial segments proximal and distal to dissection
 	- Type 2B describes dissection that extends to distal tip of the artery.
 - Type 3 SCAD depicts focal or tubular stenosis that appears similar to atherosclerosis.
+
 # Resources
 - 📄 Lewey J, El Hajj SC, Hayes SN. Spontaneous coronary artery dissection: new insights into this not-so-rare condition. _Annu Rev Med_. 2022;73(1):339-354. doi:10.1146/annurev-med-052819-023826
 - 📄 Tweet MS, Gulati R, Hayes SN. What clinicians should know αbout spontaneous coronary artery dissection. _Mayo Clinic Proceedings_. 2015;90(8):1125-1130. doi:10.1016/j.mayocp.2015.05.010
+
+[^1]: Sumner JA, Kim ESH, Wood MJ, et al. Posttraumatic stress disorder after spontaneous coronary artery dissection: a report of the International Spontaneous Coronary Artery Dissection Registry. _J Am Heart Assoc_ 2024;13:e032819.

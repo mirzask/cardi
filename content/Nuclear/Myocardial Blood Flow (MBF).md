@@ -8,9 +8,10 @@ aliases:
 ---
 - [[Positron Emission Tomography (PET)|PET]] measurement of MBF assesses the entire coronary circulation, including focal obstruction and diffuse disease of the epicardial coronary arteries, the functioning of the microvasculature(‼️), and the ability of the cell membrane to transport the radionuclide into the cell.
 	- Yes, MBF can be useful for detection of [[Microvascular Dysfunction|coronary microvascular disease]]
-- Interpretation of myocardial perfusion imaging (MPI) studies has been primarily qualitative or semi-quantitative in nature, assessing regional perfusion defects in relative terms. Quantitative positron emission tomography (PET) measurements of myocardial blood flow (MBF) in absolute terms (milliliters per gram per minute) offer a paradigm shift in the evaluation and management of patients with CAD.[^asnc]
+- Interpretation of myocardial perfusion imaging (MPI) studies has been primarily qualitative or semi-quantitative in nature, assessing regional perfusion defects in relative terms. Quantitative positron emission tomography (PET) measurements of myocardial blood flow (MBF) in absolute terms (milliliters per gram per minute, mL/g/min) have led to a paradigm shift in the evaluation and management of patients with CAD.[^asnc]
 	- Coincides with shift from anatomical gold standard (i.e., coronary angiogram) to a functional one
 - Non-invasive quantification of MBF extends the scope of conventional MPI from detection of end-stage, advanced, and flow-limiting epicardial CAD to early stages of atherosclerosis or microvascular dysfunction and assessment of balanced reduction of MBF in all three major coronary arteries.[^asnc]
+	- By quantifying hyperemic MBF or MFR in absolute terms, PET can identify early functional abnormalities of the coronary circulation, which may be a precursor of the ensuing CAD process. Recall, the **ischemic cascade** highlighted in [[Positron Emission Tomography (PET)|PET]].
 - Useful to couple MPI with [[Cardiac PET Imaging#Quantification of Myocardial Blood Flow|quantification of myocardial blood flow (MBF)]] as MBF adds usefulness in 6 distinctive areas: [^bateman]
 	- Improved diagnosis of epicardial CAD
 	- Improved assessment of extent and severity of epicardial CAD
@@ -22,24 +23,43 @@ aliases:
 	- Provides assurance that vasodilator stress has been effective
 		- Confirmation of adequate pharmacologic stress in patients who may not respond to pharmacologic stressors and go totally unrecognized with traditional MPI, with the risk of an apparently normal scan in the presence of severe coronary disease. The only way to be certain that vasodilation and hence augmentation of blood flow has occurred is by measuring MBF.
 
+# Basics of MBF
 
-# Coronary Flow Reserve (CFR)
+- Given injection of a [[Radionuclides#CV PET Tracers|positron-emitting perfusion tracer]], such as [[Radionuclides#N-13 Ammonia|N13-ammonia]] or [[Radionuclides#Rb-82|Rb-82]], and <u>dynamic</u> acquisition of images of the radiotracer passing through the central circulatory system to its **extraction** and **retention** in the LV myocardium
+- Look at how much of the tracer is **extracted** from the blood pool (**myocardial uptake** or $K_1$) → how much is "washed out," or rather how much is <u>NOT</u> washed out (**retention**).[^1]
+	- ![[Myocardial Blood Flow (MBF)-1754583837613.webp]]
+- [[Radionuclides#O15-H2O|O15-water]] and [[Radionuclides#N-13 Ammonia|N13-ammonia]] have close to 100% initial (unidirectional) **extraction** over a wide range of MBF values, resulting in a tracer uptake rate ($K_1$) that is close to the true MBF.[^1]
+	- ![[Myocardial Blood Flow (MBF)-1754583355510.webp|465x442]]
+- Rapid early **washout** reduces the tracer **retention** of [[Radionuclides#N-13 Ammonia|N13-ammonia]] to approximately 50%-60% at peak stress MBF values. [[Radionuclides#O15-H2O|O15-water]] washes out so rapidly that there is effectively no tracer retention in cardiac tissue above the blood background level.[^1]
+	- ![[Myocardial Blood Flow (MBF)-1754583685555.webp|460x442]]
+
+
+# Quantification of MBF
+
+- Tracer kinetic models (1 to 3 compartments) are applied to correct for physical decay of the radioisotope, partial volume-related underestimation of the true myocardial tissue concentrations (by assuming a uniform myocardial wall thickness of 1 cm), and spillover of radioactivity between the left ventricular blood pool and myocardium, to yield regional MBFs in absolute terms, ml/g/min
+- The following shows radiotracer activity ($y$-axis) in the arterial blood pool (<font color="#00b050">green line</font>; counts/pixel/second) and in the myocardium (<font color="#ff0000">red line</font>; counts/pixel/second) as a function of time ($x$-axis).
+	- These time activity curves are fit with the operational equation formulated from tracer-kinetic models, and myocardial blood flows are obtained in absolute units (in ml/g/min). 
+	- ![[Myocardial Blood Flow (MBF)-1754584737109.webp|381x348]]
+		- The early phase (**peaks**) are called the **input function** or **blood pool phase**, i.e. when it is in the RV or LV. 
+		- The plateau phase is called the **tissue phase**, aka **uptake phase** or **myocardial phase**.
+
+# Myocardial Blood Flow Reserve (MBFR)
 
 Myocardial Blood Flow Reserve (MBFR) is the ratio of peak hyperemia to resting myocardial blood flow. MBFR adds diagnostic and prognostic information over MPI data.
 $$
-\text{CFR} = \frac{\text{stress MBF}}{\text{rest MBF}}
+\text{MBFR} = \frac{\text{stress MBF}}{\text{rest MBF}}
 $$
-- Coronary flow reserve (CFR), the ratio of maximal myocardial blood flow (MBF) during pharmacologically-induced coronary vasodilation to resting MBF, is an integrated measure of flow through both the large epicardial coronary arteries and the microcirculation.
-	- The calculation of CFR assumes that maximal vasodilatation is achieved, which is done by abolishing coronary vasomotor tone, often with vasodilators like Regadenoson. For invasive CFR determination in the cath lab, this is often obtained following intravenous [[Adenosine|adenosine]] administration.
+- Myocardial blood flow reserve (MBFR), the ratio of maximal myocardial blood flow (MBF) during pharmacologically-induced coronary vasodilation to resting MBF, is an integrated measure of flow through both the large epicardial coronary arteries and the microcirculation.
+	- The calculation of MBFR assumes that maximal vasodilatation is achieved, which is done by abolishing coronary vasomotor tone, often with vasodilators like Regadenoson. For invasive MBFR determination in the cath lab, this is often obtained following intravenous [[Adenosine|adenosine]] administration.
 - Indirect parameter to evaluate the function of the coronary circulation
 - Impairment is a strong predictor of CV mortality
-- ⚠️ High resting flows, e.g. d/t ↑ BP, may *falsely* lower your CFR measurement
-	- Resting MBF has a linear relationship with cardiac work, and CFR is influenced by metabolic demand, diastolic time, and driving blood pressure. ∴, when comparing different patients, resting MBF values must be corrected to take into account the main determinants of external cardiac workload, namely SBP and HR (rate-pressure product)
+- ⚠️ High resting flows, e.g. d/t ↑ BP, may *falsely* lower your MBFR measurement
+	- Resting MBF has a linear relationship with cardiac work, and MBFR is influenced by metabolic demand, diastolic time, and driving blood pressure. ∴, when comparing different patients, resting MBF values must be corrected to take into account the main determinants of external cardiac workload, namely SBP and HR (rate-pressure product)
 
 $$
 \begin{align}
 \text{Rate-pressure Product (RPP)} = \text{HR} \times \text{SBP} \\
-\text{Corrected CFR} = \frac{\text{stress MBF}}{\text{rest MBF} \times \frac{10,000}{\text{RPP}}}
+\text{Corrected MBFR} = \frac{\text{stress MBF}}{\text{rest MBF} \times \frac{10,000}{\text{RPP}}}
 \end{align}
 $$
 ```python
@@ -80,11 +100,15 @@ calculate_mbfr(MBF_stress, MBF_rest, HR, SBP)
 > The two main determinants of myocardial work are **heart rate** and **systolic blood pressure**.
 
 
-- In the absence of obstructive stenosis of the epicardial arteries, reduced CFR is a marker of [[Microvascular Dysfunction|Coronary Microvascular Dysfunction]], but because obstructive disease of the epicardial arteries and [[Microvascular Dysfunction|CMD]] often coexist, discrimination between the effects of these two conditions on myocardial perfusion is challenging. [^cmd-natrev]
+- In the absence of obstructive stenosis of the epicardial arteries, reduced MBFR is a marker of [[Microvascular Dysfunction|Coronary Microvascular Dysfunction]], but because obstructive disease of the epicardial arteries and [[Microvascular Dysfunction|CMD]] often coexist, discrimination between the effects of these two conditions on myocardial perfusion is challenging. [^cmd-natrev]
 
 
 # Quality Control of Myocardial Blood Flow
 
+- Limitations
+	- Poor curves
+	- ↑ BP, HR
+	- Non-response (check out that SSO!)
 - ⚠️ Interpreting physicians should never accept a MBF value without review of simple quality control metrics. The quality control evaluation is an essential first step in the decision whether to report the MBF measurement.[^bateman]
 - Quality Control [^bateman]
 	- review the co-registration of emission and transmission scans, 
@@ -195,3 +219,5 @@ Source: [^bateman]
 [^asnc]: Dilsizian V, Bacharach SL, Beanlands RS, et al. ASNC imaging guidelines/SNMMI procedure standard for positron emission tomography (PET) nuclear cardiology procedures. Journal of Nuclear Cardiology. 2016;23(5):1187-1226. doi:10.1007/s12350-016-0522-3
 [^bateman]: Bateman TM, Heller GV, Beanlands R, et al. Practical Guide for Interpreting and Reporting Cardiac PET Measurements of Myocardial Blood Flow: An Information Statement from the American Society of Nuclear Cardiology, and the Society of Nuclear Medicine and Molecular Imaging. Journal of Nuclear Medicine. 2021;62(11):1599-1615. doi:10.2967/jnumed.121.261989
 [^cmd-natrev]: Camici, P. G., d’Amati, G., & Rimoldi, O. (2014). Coronary microvascular dysfunction: mechanisms and functional assessment. Nature Reviews Cardiology, 12(1), 48–62. https://doi.org/10.1038/nrcardio.2014.160
+
+[^1]: Murthy VL, Bateman TM, Beanlands RS, Berman DS, Borges-Neto S, Chareonthaitawee P, Cerqueira MD, deKemp RA, DePuey EG, Dilsizian V, Dorbala S, Ficaro EP, Garcia EV, Gewirtz H, Heller GV, Lewin HC, Malhotra S, Mann A, Ruddy TD, Schindler TH, Schwartz RG, Slomka PJ, Soman P, Di Carli MF; SNMMI Cardiovascular Council Board of Directors; ASNC Board of Directors. Clinical Quantification of Myocardial Blood Flow Using PET: Joint Position Paper of the SNMMI Cardiovascular Council and the ASNC. J Nucl Med. 2018 Feb;59(2):273-293. doi: 10.2967/jnumed.117.201368. Epub 2017 Dec 14. PMID: 29242396.

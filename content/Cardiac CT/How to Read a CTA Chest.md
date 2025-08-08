@@ -84,6 +84,9 @@ tags:
 			- RCC and NCC commissure → sinus of LCC
 		- ![[Pasted image 20241219093726.webp|409]]
 
+Sinus-to-sinus versus sinus-to-commissure[^1]
+![[How to Read a CTA Chest-1754601409356.webp]]
+
 
 > [!Warning] What if it is a **bicuspid aortic valve*?*
 > Measure from **Sinus-to-Sinus**
@@ -125,3 +128,5 @@ tags:
 - Hit `D` to make measurements at different levels of the aorta. Provides a sanity check to make sure you didn’t miss a larger/wider part of the aorta.
 	- ![[Pasted image 20241219094309.webp|528]]
 - Right-click and select ‘Capture’ to store this image with your measurements.
+
+[^1]: Isselbacher EM, Preventza O, Hamilton Black J 3rd, Augoustides JG, Beck AW, Bolen MA, Braverman AC, Bray BE, Brown-Zimmerman MM, Chen EP, Collins TJ, DeAnda A Jr, Fanola CL, Girardi LN, Hicks CW, Hui DS, Schuyler Jones W, Kalahasti V, Kim KM, Milewicz DM, Oderich GS, Ogbechie L, Promes SB, Gyang Ross E, Schermerhorn ML, Singleton Times S, Tseng EE, Wang GJ, Woo YJ; Peer Review Committee Members. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. 2022 Dec 13;146(24):e334-e482. doi: 10.1161/CIR.0000000000001106. Epub 2022 Nov 2. PMID: 36322642; PMCID: PMC9876736.

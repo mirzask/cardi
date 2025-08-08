@@ -15,6 +15,7 @@ aliases:
 	- Review the semi-quantitative score
 	- Calculate a quantitative ratio (H/CL)
 	- Review Transmission and Emission images
+		- On Cedars, Sperry recommends turning off "normalize" at the top right drop-down. Instead of the auto-normalize, you will adjust the normalization bar until you start to pick up the ribs.
 		- Look to see that the uptake (if present) is in the myocardium, rather than blood pool in the LV and/or RV
 		- Common to see sparing at the apex ("strain sparing pattern at the apex")
 		- Also look for extracardiac uptake, e.g. patients can have rib fractures post-CPR
@@ -47,6 +48,9 @@ aliases:
 		- Recommended echo/CMR is strongly suggestive of cardiac amyloidosis and 99m Tc PYP/ DPD/HMDP is not suggestive or equivocal and/or
 		- FLCs are abnormal or equivocal.
 
+![[Pyrophosphate (PYP) Imaging-1753741751394.webp]]
+Figure source: [^1]
+
 ![[Pyrophosphate (PYP) Imaging-20240926220652872.webp]]
 ## Heart-to-contralateral lung (HCL) ratios
 
@@ -62,3 +66,5 @@ $$
 
 [^asnc-2021]: https://www.asnc.org/wp-content/uploads/2024/05/19110-2021-ASNC-Amyloid-Practice-Points-PYP-MAY19-2022-1.pdf
 [^jaber]: Tc-PYP scan for A-TTR Cardiac Amyloid - YouTube. https://www.youtube.com/watch?v=xHFQMsvmk_k. Accessed 27 Sept. 2024.
+
+[^1]: Khor YM, Cuddy SAM, Singh V, Falk RH, Di Carli MF, Dorbala S. 99mTc Bone-Avid Tracer Cardiac Scintigraphy: Role in Noninvasive Diagnosis of Transthyretin Cardiac Amyloidosis. Radiology. 2023 Feb;306(2):e221082. doi: 10.1148/radiol.221082. Epub 2022 Dec 20. PMID: 36537896; PMCID: PMC9885342.

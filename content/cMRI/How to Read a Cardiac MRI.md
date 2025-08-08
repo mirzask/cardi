@@ -88,6 +88,7 @@ tags:
 
 ## Measure LV wall thickness
 
+- Dr. Saghir likes to do this in the [[How to Read a Cardiac MRI#`Function SAX` Measure ventricle size and EF|Function SAX]] module in Circle.
 - Measuring LV wall thickness using a SAX stack. It should be done at the thickest portion. According to Dr. Saghir, it is most commonly (“9 times out of 10”) thickest in the basal septum.
 
 # T1 weighted images

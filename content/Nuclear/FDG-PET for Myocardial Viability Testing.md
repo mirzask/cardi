@@ -36,4 +36,10 @@ tags:
 
 # Examples
 
+Figure source: [^1]
+![[FDG-PET for Myocardial Viability Testing-1753742377076.webp]]
+
+
 ![[viability-cool-1.webp]]
+
+[^1]: Bengel FM, Higuchi T, Javadi MS, Lautamäki R. Cardiac positron emission tomography. J Am Coll Cardiol. 2009 Jun 30;54(1):1-15. doi: 10.1016/j.jacc.2009.02.065. PMID: 19555834.

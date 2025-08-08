@@ -30,7 +30,7 @@ tags:
 	- Dyspnea of possible cardiac origin
 	- Pulmonary hypertension
 	- Mitral valve disease
-	- Aortic stenosis
+	- Aortic stenosis (low-flow)
 	- Hypertrophic cardiomyopathy
 		- e.g. don't have 30 mmHg threshold at rest echo
 - Interpretation

@@ -4,19 +4,24 @@ tags:
 aliases:
   - PET
 ---
+- tl;dr: Patient is injected with PET radiotracer → tracer uptake by myocardium → annihilation event → coincidence detection
+	- ![[Positron Emission Tomography (PET)-1753743165652.webp]]
+		- Figure source: [^1]
 - Goal of evaluating myocardial perfusion with PET imaging is to detect <u>physiologically significant</u> coronary artery narrowing to guide clinical management of patients with known or suspected CAD and those without overt CAD but with cardiovascular risk factors.[^asnc]
 	- Normal myocardial perfusion on stress images implies the absence of physiologically significant CAD. 
 	- Abnormal myocardial perfusion on stress images suggests the presence of significantly narrowed coronary arteries.
 	- **Rest vs. Stress**: If the stress-induced regional perfusion defect persists on the corresponding paired rest images, it suggests the presence of an irreversible myocardial injury. On the other hand, if the defect on the stress images resolves completely or partially on the rest images, it suggests the presence of stress-induced myocardial ischemia.[^asnc]
 	- ⚠️ Don't be fooled by "balanced ischemia," i.e. visual interpretation of relative radiotracer uptake may underestimate balanced reduction in blood flow in all three vascular territories.
 		- Hence why it is important to evaluate [[Myocardial Blood Flow (MBF)|MBFR]]
+- Recall the **ischemic cascade**, where the earliest changes are noted on myocardial perfusion
+	- ![[Positron Emission Tomography (PET)-1754583025172.webp|482x442]]
 - ==Rest imaging should be performed before stress imaging to reduce the impact of residual stress effects (e.g., stunning and steal).==[^asnc]
 	- **Rest-first**
 		- If no perfusion defects → no need to proceed with metabolic images.
 		- However, an evaluation for ischemia may be helpful if there is uncertainty about whether the severity or burden of coronary artery disease (CAD) results in ischemia. When such uncertainty exists, a [[Myocardial Blood Flow (MBF)|quantitative evaluation of myocardial blood flow]] at stress + rest may be helpful. 
 			- Retrospective data have shown that the presence of abnormal [[Myocardial Blood Flow (MBF)|myocardial blood flow reserve]] may identify patients who are more likely to derive benefit from coronary revascularization.
 - Anatomy of a PET camera
-	- Detector blocks are made up of many 3-4 mm rectangular crystals and 4 PMTs
+	- Detector blocks are made up of many 3-4 mm rectangular crystals and 4 PMTs (FYI, I think the new digital PET cameras don't rely on PMTs, akin to [[Single-photon emission computed tomography (SPECT)#Cadmium Zinc Telluride (CZT)|CZT]])
 	- Several detector blocks are combined to form "buckets"
 	- FOV is typically around 15 cm
 	- 3 vs 4 ring systems
@@ -70,7 +75,7 @@ aliases:
 # Patient Preparation
 
 - Fast for at least 6 hours (water intake allowed)
-- Avoid caffeinated drinks for at least 12 hours
+- Avoid caffeinated drinks for at least 12 hours, ideally 24 hrs
 - Avoid theophylline-containing medications for at least 48 hours
 
 ## Prep for FDG-PET
@@ -85,6 +90,40 @@ aliases:
 Dietary carbohydrate intake normally triggers insulin secretion, which activates the predominantly expressed glucose transporter GLUT4 in normal myocardium and allows glucose to enter cells. In the absence of carbohydrates and insulin, the myocardium uses free fatty acids for energy.9 However, in inflammatory cells, glucose enters the cell via GLUT1 and GLUT3 (which are constitutively expressed).10 After entering a cell via a glucose transporter, 18F-FDG is trapped by phosphorylation, allowing for metabolic imaging.11 As such, active inflammation or granulomatous disease may be identified by 18F-FDG in an atmosphere that optimally suppresses physiological myocardial uptake of 18F-FDG, as illustrated in Figure 1.12,13 In contrast, when using 18F-FDG imaging to assess myocardial viability, a high insulin state is preferred to promote glucose utilization by hibernating myocardium.14 In such cases, 18F-FDG imaging takes advantage of the upregulation of glucose transporters in ischemic and hibernating myocardium. ([Source](https://www.sciencedirect.com/science/article/abs/pii/S1071358123064425?via%3Dihub))
 
 ![[Positron Emission Tomography (PET)-20250110121735855.webp]]
+
+## Scan Setup
+
+- With pharmacologic stress ([[Radionuclides#Rb-82|Rb-82]] or [[Radionuclides#N-13 Ammonia|N13-ammonia]]) the agent is administered while the patient is on the scanner table
+- Ideally, patients should lay supine with arms out of the cameras FOV
+	- In pts unable to position their arms outside of the FOV, cardiac images should be obtained with the patient’s arms resting at sides
+	- Keep the patient positioned similarly for both studies
+
+# Image Acquisition
+
+tl;dr: We collect **transmission** and **perfusion** images and superimpose them on one another. The CT and perfusion contours of the heart should be properly aligned (co-registration).
+
+- Scout image to localize the heart
+- Transmission scans – most commonly done with [[Attenuation Correction (AC)|low-dose CT AC]]
+	- 📝 [[Attenuation Correction (AC)|AC]] is a must for PET, but optional for SPECT
+	- 3 approaches to do AC, but everyone does CT-AC these days as it is very fast (patient motion is less of an issue), lower energy, and low noise/higher resolution
+- Emission scans
+	- Patient is 
+
+![[Positron Emission Tomography (PET)-1753742157382.webp]]
+
+## CT Acquisition
+
+- Gated (ECG)
+	- Often you’ll see 8 or 16 bins between R-R intervals. We can go to the end-diastolic frame and calculate EDV and the end-systolic frame (e.g. frame 4 in example below) and calculate ESV → use ESV and EDV to calculate EF for these patients.
+	- ![[Positron Emission Tomography (PET)-1753742216064.webp]]
+- Static
+- Dynamic (time)
+- List mode (ECG and time) – most commonly used method these days. Get the ECG and time data simultaneously and then later on can go back and “unlist” the list mode data to gated static and dynamic frames.
+	- For list mode acquisition, we start at the same time as we inject the radiotracer → capture early LV phase (input function phase) and we acquire the data in the tissue phase. Important to calculate MBF.
+
+![[Positron Emission Tomography (PET)-1753742259929.webp]]
+
+Figure source: [^1]
 
 # Hybrid PET/MR
 
@@ -122,12 +161,14 @@ PET always has attenuation correction. SPECT on the other hand doesn't always ha
 
 - Compared with [[Single-photon emission computed tomography (SPECT)|SPECT]] MPI, the advantages of PET MPI include improved spatial resolution, better [[Attenuation Correction (AC)|attenuation correction]], and lower radiation dose. These advantages are highly relevant in viability images because they allow better identification of the presence, extent, and severity of scar.
 	- Moreover, the PET system is more sensitive than a [[Single-photon emission computed tomography (SPECT)|SPECT]] system due to the higher count rate and provides the possibility of [[Attenuation Correction (AC)|attenuation correction]].[^asnc]
-- Higher spatial and temporal resolution
+- Higher spatial and temporal resolution → ↑ diagnostic accuracy and consistent high-quality images
+	- ![[Positron Emission Tomography (PET)-1754582062049.webp]]
+		- Figure [source](https://www.researchgate.net/figure/Schematic-representation-of-SPECT-left-and-PET-right-imaging_fig2_368838863)
 - Peak stress rather than post-peak image acquisition
 - Superior diagnostic value for coronary artery disease (CAD) when compared with myocardial perfusion SPECT
 - Low radiation dose
 	- Short half-lives of radionuclide tracers allow lower effective radiation doses and faster imaging protocols (i.e., increased laboratory throughput).
-- Short acquisition time allowing multiple studies in 1 day, 
+- Short acquisition time allowing multiple studies in 1 day
 - Quantitation of absolute myocardial blood flow (MBF; mL/g/min), increasing sensitivity to identify diffuse atherosclerosis, microvascular dysfunction, coronary steal and/or hibernating myocardium
 
 ![[Positron Emission Tomography (PET)-20250311103928222.webp]]
@@ -199,6 +240,12 @@ Prior Study Comparison Prior nuclear cardiology exam was performed on
 
 # Quality Control
 
+## Misregistration
+
+- Misregistration, e.g. if misalignment b/w the emission and transmission scans  → misregistration can appear as a perfusion defect
+
+![[Positron Emission Tomography (PET)-1753743029592.webp]]
+Figure [source](https://www.researchgate.net/figure/PET-artifact-caused-by-transmission-emission-misalignment-a-Misalignment-of-CT_fig2_51630172)
 ## Histogram for HR
 
 ## Histogram to assess for Dyssnchrony
@@ -212,3 +259,4 @@ Prior Study Comparison Prior nuclear cardiology exam was performed on
 [^asnc]: Dilsizian V, Bacharach SL, Beanlands RS, et al. ASNC imaging guidelines/SNMMI procedure standard for positron emission tomography (PET) nuclear cardiology procedures. Journal of Nuclear Cardiology. 2016;23(5):1187-1226. doi:10.1007/s12350-016-0522-3
 [^bateman]: Bateman TM, Heller GV, Beanlands R, et al. Practical Guide for Interpreting and Reporting Cardiac PET Measurements of Myocardial Blood Flow: An Information Statement from the American Society of Nuclear Cardiology, and the Society of Nuclear Medicine and Molecular Imaging. Journal of Nuclear Medicine. 2021;62(11):1599-1615. doi:10.2967/jnumed.121.261989
 
+[^1]: Bengel FM, Higuchi T, Javadi MS, Lautamäki R. Cardiac positron emission tomography. J Am Coll Cardiol. 2009 Jun 30;54(1):1-15. doi: 10.1016/j.jacc.2009.02.065. PMID: 19555834.

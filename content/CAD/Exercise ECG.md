@@ -12,8 +12,18 @@ tags:
 	- without disabling comorbidity (e.g., frailty, marked obesity (BMI >40 kg/m2), [[Peripheral Arterial Disease|PAD]], COPD, or orthopedic limitations) and capable of performing ADLs or able to achieve ≥5 METs *and*
 	- without resting ST-T abnormalities (e.g., >0.5-mm ST depression, [[Left Ventricular Hypertrophy|LVH]], paced rhythm, [[Left Bundle Branch Block|LBBB]], [[Accessory Pathway Conduction|WPW]] pattern, or [[Digoxin|digoxin]] use).
 		- Confounders such as resting ST-segment depression, [[Digoxin|digoxin]] usage, and [[Left Ventricular Hypertrophy|LVH]] with repolarization changes decrease [[Specificity|specificity]]. Despite these confounders, ExECG is still considered diagnostic in most patients able to reach 85% of their maximum age-predicted heart rate.[^1]
+- Indications
+	- ischemic evaluation
+	- chronotropic incompetence
+	- exercise induced arrhythmias
+	- valve disease, e.g. [[Aortic Stenosis#Severe AS|severe aortic stenosis]]
+- Options:
+	- Treadmill
+	- Recumbent bicycle
+	- Protocols (Bruce, modified Bruce, Naughton)
 - **Contraindications**
 	- Abnormal ST changes on resting ECG, [[Digoxin|digoxin]], [[Left Bundle Branch Block|LBBB]], [[Accessory Pathway Conduction|WPW]] pattern, ventricular paced rhythm (unless test is performed to establish exercise capacity and not for diagnosis of ischemia)
+		- LVH, LBBB, digoxin effect, V-paced rhythm, pre-excitation/WPW pattern, resting ST abnormalities, ?RBBB (V1-V3, the rest of the leads are interpretable though) as these would be uninterpretable based on ECG assessment alone
 	- Unable to achieve ≥5 METs or unsafe to exercise
 	- High-risk unstable angina or AMI (<2 d) i.e., active [[Chest Pain|ACS]]
 	- Uncontrolled [[Heart Failure with Reduced Ejection Fraction (HFrEF)|HF]]
@@ -47,7 +57,15 @@ tags:
 	- require vasodilator MPI imaging due to a high false-positive rate
 - [[Accessory Pathway Conduction|WPW]] pattern
 - Ventricular paced rhythm (unless test is performed to establish exercise capacity and not for diagnosis of ischemia)
+
 # Stress ECG Interpretation
+
+- Abnormal responses to exercise on stress include:
+	- Heart rate fails to rise above 120 bpm or unable to attain 85% of MPHR
+	- Drop in systolic BP
+	- Physically unable to complete test
+	- Marked hypertension, >220/110
+	- Chest Pain and/or unusual shortness of breath
 
 ## ST segments
 
@@ -118,5 +136,4 @@ tags:
 
 [^cp]: Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Journal of the American College of Cardiology. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053
 [^asnc-rep]: Tilkemeier PL, Bourque J, Doukky R, Sanghani R, Weinberg RL. ASNC imaging guidelines for nuclear cardiology procedures. Journal of Nuclear Cardiology. 2017;24(6):2064-2128. doi:10.1007/s12350-017-1057-y
-
 [^1]: Bourque JM, Beller GA. Value of Exercise ECG for Risk Stratification in Suspected or Known CAD in the Era of Advanced Imaging Technologies. JACC Cardiovasc Imaging. 2015 Nov;8(11):1309-21. doi: 10.1016/j.jcmg.2015.09.006. PMID: 26563861; PMCID: PMC4646721.

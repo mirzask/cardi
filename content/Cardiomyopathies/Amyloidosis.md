@@ -35,6 +35,8 @@ aliases:
 
 ![[Amyloidosis-1745705490812.webp]]
 
+![[Amyloidosis-1753738793015.webp]]
+Figure source: [^1]
 
 ![[Amyloidosis-1745705402532.webp]]
 [Figure source](https://www.ccjm.org/content/84/12_suppl_3/12/tab-figures-data)
@@ -59,3 +61,4 @@ aliases:
 
 
 [^clinic]: Donnelly JP, Hanna M. Cardiac amyloidosis: An update on diagnosis and treatment. Cleve Clin J Med. 2017 Dec;84(12 Suppl 3):12-26. doi: 10.3949/ccjm.84.s3.02. PMID: 29257735.
+[^1]: Writing Committee; Kittleson MM, Ruberg FL, Ambardekar AV, Brannagan TH, Cheng RK, Clarke JO, Dember LM, Frantz JG, Hershberger RE, Maurer MS, Nativi-Nicolau J, Sanchorawala V, Sheikh FH. 2023 ACC Expert Consensus Decision Pathway on Comprehensive Multidisciplinary Care for the Patient With Cardiac Amyloidosis: A Report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2023 Mar 21;81(11):1076-1126. doi: 10.1016/j.jacc.2022.11.022. Epub 2023 Jan 23. Erratum in: J Am Coll Cardiol. 2023 Mar 21;81(11):1135. doi: 10.1016/j.jacc.2023.02.013. PMID: 36697326.

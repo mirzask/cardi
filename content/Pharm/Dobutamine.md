@@ -4,6 +4,8 @@ tags:
   - inotropes
 ---
 
+- If unable to reach target HR despite at rate of 40, will give [[Atropine|atropine]] (0.5 mg every 2 min)
+
 # Contraindications to use
 
 - Atrioventricular block

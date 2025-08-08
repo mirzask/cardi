@@ -100,7 +100,7 @@ In the above slide we see that as myocardial blood flow increases (moving rightw
 	- Extraction of ${}^{\text{99m}}\text{Tc}$ by simple column chromatography to make sure that the Technetium is pure
 - Fission produced Uranium-235 can have many other contaminants and these are taken care of by the manufacturer
 	- Molybdenum (and all of our other products) have *multiple* decay schemes, i.e. it isn't that 100% go to our compound that we want
-		- ![p-49-1.jpg|387|517x333](https://nap.nationalacademies.org/openbook/23563/xhtml/images/p-49-1.jpg)
+		- ![p-49-1.jpg|387|698x449](https://nap.nationalacademies.org/openbook/23563/xhtml/images/p-49-1.jpg)
 
 ## Technetium-99
 
@@ -134,7 +134,7 @@ The above figure depicts [[Radionuclide Generator|generator]] production of ${}^
 		- Assess sterility, pyrogens and other radionuclidic contaminants like Strontium and Iodine
 	- User level
 		- *For each elution*, we must test for
-			- **radionuclidic purity**, which is also referred to as breakthrough 
+			- **radionuclide purity**, which is also referred to as breakthrough 
 				- Use a dose calibrator to test for the molybdenum breakthrough: Put our eluate vial into a moly canister (a gas filled chamber) and detect between Molybdenum and Technetium by detecting the difference between the technetium photon of 140 keV, and the molybdenum, which has a photon abundance of 740 and 780 keV.
 				- ![[Radionuclides-20240816212554722.webp|259]]
 			- **chemical purity**, which is any bit of that aluminum column that can make it through into our final product vial, and
@@ -144,11 +144,18 @@ The above figure depicts [[Radionuclide Generator|generator]] production of ${}^
 
 ### Technetium-99-based Protocols
 
-- Imaging protocols using these radiotracers include rest-stress protocols and rest protocols with nitrate enhancement.
+- Imaging protocols using these radiotracers include rest-stress protocols and rest protocols with nitrate enhancement. See [[Single-photon emission computed tomography (SPECT)#Protocols|SPECT Protocols]].
 
 
 # CV PET Tracers
 
+![[Radionuclides-1754582669165.webp]]
+
+
+![[Radionuclides-1754584552886.webp]]
+Figure source: [^2]
+
+The positron range is best for [[Radionuclides#Flurpiridaz|Flurpiridaz]] and worst for [[Radionuclides#Rb-82|Rb-82]]
 ![[Radionuclides-1753032623808.webp]]
 Figure source: [^1]
 
@@ -169,16 +176,18 @@ Figure source: [^1]
 > [!tldr] Most common PET tracers
 > At present, 82rubidium chloride (82Rb) and 13N- ammonia (13NH3) are the most commonly used radiotracers for PET MPI and are both FDA-approved. 15O- water is more frequently used in Europe and is not FDA- approved. 13NH3 and 15O- water require an on-site [[Cyclotron|cyclotron]] due to their short half-lives. 82Rb also has a short half-life and is [[Radionuclide Generator|generator]] produced.
 
-#### Rb-82
+## Rb-82
 
 - a monovalent cationic analog of potassium
 - 75 second half-life
 	- decays by emission of several possible very high-energy positrons
 	- The daughter product is krypton-82, which is stable.
+- Rb82 has a relatively lower first-pass extraction and the more prominent nonlinear myocardial uptake with increasing blood flow, termed “**roll-off phenomenon**” may lead to relatively lower myocardial contrast resolution images when compared with [[Radionuclides#N-13 Ammonia|13N-ammonia]]
 - Sr-82 has a half-life of 25.5 days and decays to Rb-82 by **electron capture**.[^asnc]
 - Blood flow tracer
 - 82Rb is extracted from plasma with high efficiency by myocardial cells via the Na/K adenosine triphosphatase pump.
 	- ==extraction can be decreased by severe acidosis, hypoxia, and ischemia, i.e. while uptake of 82Rb predominantly depends on MBF, it may be modulated by metabolism and cell membrane integrity==
+	- Rb82 is a potassium analog, so uses an active extraction uptake mechanism
 - [[Radionuclide Generator|Generator]] produced: **Strontium-82 generator**
 	- Produced in a commercially available generator by decay from Sr-82 attached to an elution column.[^asnc]
 		- Rb-82 is eluted from the generator with 10 to 50 mL of normal saline by a computer-controlled elution pump, connected by intravenous (IV) tubing to the patient. 
@@ -209,7 +218,7 @@ Figure source: [^1]
 - Dosimetry
 	- 1.1-3.5 mSV
 
-#### N-13 Ammonia
+## N-13 Ammonia
 
 - N-13 decays by **positron emission**.[^asnc] 
 	- The daughter product is carbon-13, which is stable.
@@ -220,11 +229,27 @@ Figure source: [^1]
 	- relatively short half-life requires an on-site cyclotron and radiochemistry synthesis capability
 - Flow tracer
 
-#### FDG
+## O15-H2O
+
+- Although O15-H2O is not currently FDA approved it has been considered the gold standard for myocardial uptake b/c of its complete linearity of uptake
+	- It is freely diffusible (compared to most others that have an active extraction uptake mechanism) so it can be a bit difficult to generate an image with it
+
+
+## FDG
 
 - [[Cyclotron]] produced
 - 110-minute half-life
 - Tracks with glucose metabolism
+
+## Flurpiridaz
+
+- F18-flurpiridaz has a 110 minute half-life, which permits its distribution as a single-unit dose on a daily basis. 
+	- Moreover, the longer half-life of F-18 allows the application of the perfusion agent during treadmill exercise, rather than with vasodilator stress alone, as is currently the case with [[Radionuclides#Rb-82|Rb-82]] PET
+- F18 flurpiridaz has the best positron range of the available PET radiotracers at 1 mm❗
+- Linearity is between O15-H2O and N13-ammonia
+- Example showing superiority of F18 flurpiridaz PET in detecting reversible anterior wall defect that appears much more subtle with [[Single-photon emission computed tomography (SPECT)|SPECT]]
+	- ![[Radionuclides-1754582626666.webp]]
+
 
 # Positron Imaging & Time-of-Flight (TOF)
 
@@ -242,3 +267,5 @@ Figure source: [^1]
 [^imaging]: Garcia, M. J., Kwong, R. Y., Scherrer-Crosbie, M., Taub, C. C., Blankstein, R., Lima, J., Bonow, R. O., Eshtehardi, P., & Bois, J. P. (2020). State of the Art: Imaging for Myocardial Viability: A Scientific Statement From the American Heart Association. Circulation: Cardiovascular Imaging, 13(7). https://doi.org/10.1161/hci.0000000000000053
 
 [^1]: Maddahi J, Packard RR. Cardiac PET perfusion tracers: current status and future directions. Semin Nucl Med. 2014 Sep;44(5):333-43. doi: 10.1053/j.semnuclmed.2014.06.011. PMID: 25234078; PMCID: PMC4333146.
+
+[^2]: Schindler TH, Schelbert HR, Quercioli A, Dilsizian V. Cardiac PET imaging for the detection and monitoring of coronary artery disease and microvascular health. JACC Cardiovasc Imaging. 2010 Jun;3(6):623-40. doi: 10.1016/j.jcmg.2010.04.007. PMID: 20541718.

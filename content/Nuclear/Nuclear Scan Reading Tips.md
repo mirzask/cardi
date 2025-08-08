@@ -77,6 +77,8 @@ $$
 	- You should expect a sharp rise and fall for the blood pool curves before the plateau phase. If it is *wide*, then there may be a technical issue.
 - Compartment models are more sensitive if the QC is problematic.
 
+Below is an example of impaired quality due to a technical issue, such as poor IV affecting infusion, long IV tubing, etc.
+![[Nuclear Scan Reading Tips-1753740991198.webp]]
 # Quality Control
 ## `Slice`
 

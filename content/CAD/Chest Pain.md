@@ -156,5 +156,4 @@ Figure source: Figure 10 of [^cp]
 ![[Acute Coronary Syndromes (ACS)-20240923103654377.webp]]
 
 [^cp]: Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Journal of the American College of Cardiology. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053
-
 [^1]: Twerenbold R, Boeddinghaus J, Nestelberger T, Wildi K, Rubini Gimenez M, Badertscher P, Mueller C. Clinical Use of High-Sensitivity Cardiac Troponin in Patients With Suspected Myocardial Infarction. J Am Coll Cardiol. 2017 Aug 22;70(8):996-1012. doi: 10.1016/j.jacc.2017.07.718. PMID: 28818210.
