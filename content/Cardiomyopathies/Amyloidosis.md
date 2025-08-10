@@ -8,6 +8,7 @@ aliases:
 - Related
 	- [[Pyrophosphate (PYP) Imaging]]
 
+- Patients with variant ATTR amyloidosis may experience [[Orthostatic Hypotension|OH]] due to [[Dysautonomia|autonomic dysfunction]]
 - Exclude AL amyloidosis with work-up that includes serum FLCs, serum (SIFE), and urine immunofixation
 - Labs may reveal a chronic [[Troponin|troponin]] elevation that remains flat
 	- d/t amyloid invasion into the vasculature causing microvascular ischemia

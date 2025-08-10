@@ -34,6 +34,8 @@ flowchart TD
 	- ![[Coronary Artery Disease (CAD)-20240817145756329.webp]]
 
 
+![[Coronary Artery Disease (CAD)-1754697844847.webp]]
+Figure source: [^1] - In addition to the ‘classic mechanisms’ (i.e. atherosclerotic disease and vasospastic disease) that lead to myocardial ischaemia, coronary microvascular dysfunction (CMD) has recently emerged as a ‘third’ potential mechanism of myocardial ischaemia. As in the case of the other two mechanisms, coronary microvascular dysfunction (alone or in combination with the other two) can lead to transient myocardial ischaemia as in patients with coronary artery disease (CAD) or cardiomyopathy (CMP) or to severe acute ischaemia as observed in Takotsubo syndrome. CFR, coronary flow reserve.
 # Primary Prevention
 
 - Healthful lifestyle & diet
@@ -56,3 +58,5 @@ flowchart TD
 - Consider ApoB if TG ≥ 200
 
 [^asia]: Hwang, D., Park, S.-H., & Koo, B.-K. (2023). Ischemia With Nonobstructive Coronary Artery Disease. JACC: Asia, 3(2), 169–184. https://doi.org/10.1016/j.jacasi.2023.01.004
+
+[^1]: Crea F, Camici PG, Bairey Merz CN. Coronary microvascular dysfunction: an update. Eur Heart J. 2014 May;35(17):1101-11. doi: 10.1093/eurheartj/eht513. Epub 2013 Dec 23. PMID: 24366916; PMCID: PMC4006091.

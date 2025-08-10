@@ -43,7 +43,7 @@ Acute MR is far less common than chronic MR and usually results in hemodynamic c
 
 - "If you see MR, you need to ask **why**?"
 	- "A comprehensive evaluation of valvular regurgitation should include identifying the mechanism and the severity of valvular regurgitation, along with adaptation of the heart to the volume overload."
-- In **primary MR**, an intrinsic abnormality of the leaflets causes the MR, whereas **secondary MR** results from distortion of the MV apparatus due to LV and/or LA remodeling. 
+- In **primary MR**, an intrinsic abnormality of the [[Mitral Valve|MV]] apparatus (including the leaflets, chords, and/or papillary muscles) causes the MR, whereas **secondary MR** results from distortion of the MV apparatus due to LV and/or LA remodeling. 
 	- It is important to distinguish primary from secondary MR as therapeutic approaches and outcomes differ.
 - Most **secondary MR** is a disease of the LV.
 - Results in LV volume overload → ventricular (and atrial) remodeling w/ eccentric hypertrophy, i.e. LV dilation w/o increased wall thickness.

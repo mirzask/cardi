@@ -80,7 +80,12 @@ tags:
 - Consider midodrine (5 mg TID)
 - Consider droxidopa (100 mg TID)
 - refer to EP or Autonomic Neurology
+- To read:
+	- [^3]
+	- [^4]
 
 
 [^1]: Freeman, Roy, et al. “Orthostatic Hypotension.” _Journal of the American College of Cardiology_, vol. 72, no. 11, Sept. 2018, pp. 1294–309. _DOI.org (Crossref)_, https://doi.org/10.1016/j.jacc.2018.05.079.
 [^2]: Bryarly M, Phillips LT, Fu Q, Vernino S, Levine BD. Postural Orthostatic Tachycardia Syndrome: JACC Focus Seminar. J Am Coll Cardiol. 2019 Mar 19;73(10):1207-1228. doi: 10.1016/j.jacc.2018.11.059. PMID: 30871704.
+[^3]: Park JW, Okamoto LE, Shibao CA, Biaggioni I. Pharmacologic treatment of orthostatic hypotension. Auton Neurosci 2020;229:doi: 10.1016/j.autneu.2020.102721.
+[^4]: Gibbons CH, Schmidt P, Biaggioni I, et al. The recommendations of a consensus panel for the screening, diagnosis, and treatment of neurogenic orthostatic hypotension and associated supine hypertension. J Neurol 2017;264:1567-82.
