@@ -3,6 +3,9 @@ tags:
   - ACHD
   - CT
 ---
+- Have a high index of suspicion for PAPVR if unexplained RA and RV enlargement without evidence of an [[Atrial Septal Defect (ASD)|ASD]]
+- As with [[Atrial Septal Defect (ASD)|ASDs]], having [[Pulmonary Hypertension|pulmonary HTN]] is uncommon with PAPVR
+- Can easily be missed on TTE and cath
 - Normally, the four pulmonary vv. are return oxygenated blood into the LA. In the case of PAPVR, you have _one or more_ pulmonary veins dumping oxygenated blood into the systemic venous system (usually RA, SVC, or IVC).
 - Most commonly, PAPVRs involve the:
 	- LUPV (left upper pulmonary vein) → ascending vertical vein → innominate vein *or* 
