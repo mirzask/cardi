@@ -1,0 +1,24 @@
+---
+tags:
+  - CT
+  - anatomy
+---
+- **Abnormal origin**
+	- Absent left main stem (dual LCX and LAD origin)
+	- High origin
+- **Origin from an improper sinus**
+	- RCA from left anterior sinus
+	- LAD from right anterior sinus
+	- LCX from right anterior sinus
+	- Left mainstem from right anterior sinus
+	- Single coronary artery
+- **Origin from other structure**
+	- Anomalous left coronary artery from the pulmonary artery (ALCAPA)
+- **Congenital absence or aneurysm**
+	- Stenosis, atresia, hypoplasia
+	- Ectasia or aneurysm
+- **Abnormal number**
+	- Absent coronary artery
+	- Duplicated coronary artery
+- **Abnormal termination**
+	- Fistula with cardiac chamber, pulmonary artery, pulmonary vein, systemic circulation

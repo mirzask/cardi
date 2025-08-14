@@ -6,6 +6,9 @@ aliases:
   - MBF
   - MBFR
 ---
+- Coronary Flow Reserve measures the ability of a coronary artery to augment the flow to a territory in response to ↑ myocardial oxygen needs
+	- At rest, the myocardium is very efficient at extracting O2 from blood. Because the myocardium can't just extract more O2 from blood passing by, the coronary artery has the ability to augment flow if needed.
+	- As stenosis increases in an artery, the amount of autoregulation required to augment the flow simply at rest increases, ∴ there is a diminishing ability to augment flow
 - [[Positron Emission Tomography (PET)|PET]] measurement of MBF assesses the entire coronary circulation, including focal obstruction and diffuse disease of the epicardial coronary arteries, the functioning of the microvasculature(‼️), and the ability of the cell membrane to transport the radionuclide into the cell.
 	- Yes, MBF can be useful for detection of [[Microvascular Dysfunction|coronary microvascular disease]]
 - Interpretation of myocardial perfusion imaging (MPI) studies has been primarily qualitative or semi-quantitative in nature, assessing regional perfusion defects in relative terms. Quantitative positron emission tomography (PET) measurements of myocardial blood flow (MBF) in absolute terms (milliliters per gram per minute, mL/g/min) have led to a paradigm shift in the evaluation and management of patients with CAD.[^asnc]

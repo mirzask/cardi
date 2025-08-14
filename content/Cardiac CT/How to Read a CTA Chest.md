@@ -82,16 +82,14 @@ tags:
 			- LCC and RCC commissure → sinus of NCC
 		- LCC measurement:
 			- RCC and NCC commissure → sinus of LCC
-		- ![[Pasted image 20241219093726.webp|409]]
+	- You can also measure from sinus-to-sinus
+		- ![[How to Read a CTA Chest-1755196850162.webp]]
 
 Sinus-to-sinus versus sinus-to-commissure[^1]
 ![[How to Read a CTA Chest-1754601409356.webp]]
 
-
-> [!Warning] What if it is a **bicuspid aortic valve*?*
-> Measure from **Sinus-to-Sinus**
-> ![[Pasted image 20241219155905.webp|453]]
-
+Figure source: [^2]
+![[How to Read a CTA Chest-1755196688716.webp]]
 
 ## Measure at Sinotubular Junction
 
@@ -131,3 +129,5 @@ Sinus-to-sinus versus sinus-to-commissure[^1]
 
 
 [^1]: Isselbacher EM, Preventza O, Hamilton Black J 3rd, Augoustides JG, Beck AW, Bolen MA, Braverman AC, Bray BE, Brown-Zimmerman MM, Chen EP, Collins TJ, DeAnda A Jr, Fanola CL, Girardi LN, Hicks CW, Hui DS, Schuyler Jones W, Kalahasti V, Kim KM, Milewicz DM, Oderich GS, Ogbechie L, Promes SB, Gyang Ross E, Schermerhorn ML, Singleton Times S, Tseng EE, Wang GJ, Woo YJ; Peer Review Committee Members. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. 2022 Dec 13;146(24):e334-e482. doi: 10.1161/CIR.0000000000001106. Epub 2022 Nov 2. PMID: 36322642; PMCID: PMC9876736.
+
+[^2]: Tretter JT, Spicer DE, Franklin RCG, Béland MJ, Aiello VD, Cook AC, Crucean A, Loomba RS, Yoo SJ, Quintessenza JA, Tchervenkov CI, Jacobs JP, Najm HK, Anderson RH. Expert Consensus Statement: Anatomy, Imaging, and Nomenclature of Congenital Aortic Root Malformations. Ann Thorac Surg. 2023 Jul;116(1):6-16. doi: 10.1016/j.athoracsur.2023.03.023. Epub 2023 Jun 8. PMID: 37294261.

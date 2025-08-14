@@ -3,19 +3,37 @@ tags:
   - CT
   - cMRI
 ---
+
+| Emergent (Immediate followup)    | Urgent (may need workup/followup) | Non-urgent – may or may not need followup |
+| -------------------------------- | --------------------------------- | ----------------------------------------- |
+| [[Aortic Dissection]]            | Possible new malignancy           | Granulomatous disease (e.g. sarcoid)      |
+| Pneumothorax, Pneumomediastinum  | Lymphadenopathy                   | Cystic lung disease                       |
+| [[Pulmonary Embolism]]           | Esophageal thickening             | Fibrotic lung disease                     |
+| Infection (TB, empyema, abscess) | Pulmonary edema                   | Known malignancy (has prior studies)      |
+| Hemorrhage                       | Large pleural effusion            | Other chronic lung disease                |
+|                                  | Fracture                          | Pulmonary nodules                         |
+
+- [ ] Review the scout images!
 - [ ] Lower neck
 	- [ ] Thyroid
 - [ ] Chest wall
 	- [ ] Breast
 - [ ] Musculoskeletal
+	- [ ] Bone: compression fx? rib fx?
 - [ ] Lungs
+	- [ ] Parenchyma
 	- [ ] Pleura
 - [ ] Vessels
+	- [ ] Pulmonary arteries - filling defect suggestive of [[PE]]? You may not always have adequate contrast in the pulmonary arterial system; should be ≥200 HU to make a confident diagnosis. If you see a filling defect, trace it back to make sure it's not in a pulmonary vein segment.
+	- [ ] Aorta
+		- [ ] Type A or B dissection - not type of dissection, extent of flap, and potential complications
+		- [ ] Aortic size - use double oblique technique to get a true measure
 - [ ] Mediastinum
-	- [ ] Anterior
+	- [ ] Anterior - normally will just be composed of fat, small ≤1.5 cm lymph nodes, and vessels
+		- [ ] tl;dr: any mass in the anterior mediastinum requires further w/u
 	- [ ] Middle
 		- [ ] Trachea
-		- [ ] Esophagus
+		- [ ] Esophagus, GE junction
 		- [ ] Lymph nodes (also 👀 in axillae and hila)
 	- [ ] Posterior
 - [ ] Upper abdomen
@@ -24,6 +42,7 @@ tags:
 	- [ ] Liver
 	- [ ] Pancreas
 	- [ ] Hernias?
+
 
 Nice resource: [^1]
 
@@ -66,10 +85,22 @@ Example of thyroid lesion that underwent further work-up. [^1]
 
 # Lungs
 
+Use **lung windows** and **mediastinal windows**
+
 - Emphysema
 - Bronchiectasis
 - Interstitial lung disease (other than pulmonary fibrosis)
+- Ground-glass opacification
 - Pulmonary fibrosis
+- Pulmonary nodules
+
+## Pulmonary Nodules
+
+- Updated 2017 Fleischner society guidelines raised the size threshold for incidental lung nodule followup resulting in substantially less future testing (MacMahon 2017)
+- Applies to:
+	- Incidental nodules
+	- Solid nodules ≤6 mm in low-risk adults generally need no further follow-up. In higher-risk patients, a follow-up CT scan should be considered optional.
+- ⚠️ Does NOT apply to age < 35, immunocompromised or known malignancy.
 
 ## Lung examples
 
@@ -90,6 +121,20 @@ Emphysema
 - ⚠️ 100-130 HU at L1 (Osteopenia) → consider PCP evaluation.
 - ⚠️ < 100 HU at L1 (Osteoporosis) → PCP evaluation and consider DEXA.
 
+
+# Mediastinum
+
+## Esophagus, GE junction
+
+- Normal esophageal wall is thin.
+- CT is a poor method to evaluate the esophagus secondary to underdistention.
+- If thickening if present, consider nonemergent barium esophagram or endoscopy.
+
+Example: 75 y/o with *asymmetric* thickening of esophagus prompting endoscopy → Dx: Carcinoma.
+![[Extracardiac Chest Findings-1755203619068.webp|549x425]]
+
+Example: 67 year old male with diffuse symmetric thickening of esophagus → Dx: Carcinoma
+![[Extracardiac Chest Findings-1755203735697.webp|429x563]]
 # Upper Abdomen
 
 ## Adrenals
