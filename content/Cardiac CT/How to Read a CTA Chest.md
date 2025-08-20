@@ -5,7 +5,9 @@ tags:
 ---
 - Most common indication we see for CTA chest is for further evaluation after dilated ascending aorta noted on Echo.
 - CT is gold-standard to measure aortic size within the chest
-
+- Load images: Saghir's preferred method to load CT images is to click `Load` and use the `Bypass` module.
+	- For 4D, his go-to is `Angio` (under `Other` tab)
+	- The exception is `TAVR` and `TMVR` for each corresponding study
 # Load Images
 
 - You will see several `Series` available for your review, which are just different reconstructions.

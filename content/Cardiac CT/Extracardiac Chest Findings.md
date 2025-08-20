@@ -187,6 +187,12 @@ Algorithm source: [^2]
 - ⚠️ Cyst/mass
 	- Recommend work-up with contrast-enhanced  Abdomen CT or MRI.
 
+# Fluid Collections
+## Abscesses
+
+- Clues to calling a fluid collection an abscess include:
+	- **rim-enhancement**
+	- presence of air bubbles
 
 [^1]: Dyer DS, White C, Conley Thomson C, Gieske MR, Kanne JP, Chiles C, Parker MS, Menchaca M, Wu CC, Kazerooni EA. A Quick Reference Guide for Incidental Findings on Lung Cancer Screening CT Examinations. J Am Coll Radiol. 2023 Feb;20(2):162-172. doi: 10.1016/j.jacr.2022.08.009. Epub 2022 Dec 9. PMID: 36509659.
 [^2]: Berland LL, Silverman SG, Gore RM, Mayo-Smith WW, Megibow AJ, Yee J, Brink JA, Baker ME, Federle MP, Foley WD, Francis IR, Herts BR, Israel GM, Krinsky G, Platt JF, Shuman WP, Taylor AJ. Managing incidental findings on abdominal CT: white paper of the ACR incidental findings committee. J Am Coll Radiol. 2010 Oct;7(10):754-73. doi: 10.1016/j.jacr.2010.06.013. PMID: 20889105.

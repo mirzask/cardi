@@ -5,6 +5,8 @@ aliases:
   - HALT
 ---
 
+- HALT normally starts at base and works its way to the tip
+
 ![[Hypoattenuated Leaflet Thickening-1748913995408.webp|569x597]]
 Figure source: [^1]
 

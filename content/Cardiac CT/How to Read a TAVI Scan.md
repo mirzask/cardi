@@ -6,6 +6,8 @@ tags:
 - Related:
 	- [[Transcatheter Aortic Valve Implantation (TAVI)|TAVI]]
 
+- Saghir prefers to open this in `Load` → `TAVR` (available in the `Other` tab)
+	- `CPR` button at top for curved planar reconstruction, which creates a vessel surf kind of thing in TerraRecon
 - After looking at the **topogram**, look at the Left atrial appendage *delay* image. This `Series` will be called something like `LAA DELAY…`
 - Scroll through to make sure that the LAA fills appropriately with contrast.
 - The image `Series` that has the word “**Multiphase**” contains the actual gated heart study, i.e. obtained through all of the phases. 
@@ -21,6 +23,11 @@ tags:
 
 ![[How to Read a TAVI Scan-20241220132503705.webp]]
 Figure source: [^scct]
+
+# Estimate LVEF
+
+- On the Right top column there is an LVEF module that you can use to estimate LVEF
+	- Dr. Saghir said it works well about ~80% of the time.
 # [[Transcatheter Aortic Valve Implantation (TAVI)|TAVI]] "Landing Zone"
 
 - The TAVI “landing zone” comprises the valve cusps, aortic annulus and LVOT.[^scct]

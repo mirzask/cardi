@@ -1,0 +1,12 @@
+---
+tags:
+  - CT
+  - PAD
+---
+- Saghir likes to start by going cranial on axial view to see bottom portion of heart and descending aorta
+- Next, Saghir likes to look at the sagittal views → review the vessels (e.g., celiac, SMA, IMA, etc.) branching off of the aorta. Any pinching?
+- Renal arteries
+	- Can see as many as 4 renal arteries on either side
+- Go down each leg and evaluate
+- Look for 3-vessel runoff
+	- e.g. one-vessel runoff to the foot with occluded anterior and posterior tibial arteries; two-vessel runoff to the left foot with an occluded posterior tibial artery and a diminutive anterior tibial artery.

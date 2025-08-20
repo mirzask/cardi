@@ -63,6 +63,7 @@ def calculate_hemodynamics(vti_lvot, lvot_diameter, heart_rate, bsa,
 	- View: PLAX, zoomed up view
 	- Inner-edge to inner-edge in **mid-systole**
 	- Make measurements parallel and adjacent to the aortic valve *or* at the site of velocity measurement within 5 mm of the aortic annulus (where you'll likely be assessing LVOT VTI)
+- Aortic valve VTI is obtained using **CWD**
 
 **Continuity Equation** is based on the preservation of flow. In other words, the flow through the aortic valve will be equal to the flow through the LVOT. This translates into $\text{AV stroke volume = LVOT stroke volume}$.
 
