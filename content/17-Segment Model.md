@@ -2,7 +2,11 @@
 tags:
   - echo
   - nuclear
+aliases:
+  - Wall Motion Abnormalities
 ---
+
+
 
 ![[Pasted image 20241212113142.webp]]
 
@@ -11,10 +15,19 @@ tags:
 - Grading wall motion: A semiquantitative wall motion score can be assigned to each segment to calculate the LV wall motion score index as the average of the scores of all segments visualized. The following scoring system is recommended:
 	- normal or hyperkinetic,
 	- hypokinetic (reduced thickening),
-	- akinetic (absent or negligible thickening, e.g., scar), and
-	- dyskinetic (systolic thinning or stretching, e.g., aneurysm).
+	- akinetic (absent or negligible thickening, e.g., scar)
+		- no inward motion or thickening
+	- dyskinetic (systolic thinning or stretching, e.g., aneurysm)
+		- outward systolic (paradoxical) bulge
+	- aneurysmal
 
 ![[Pasted image 20241212114716.webp]]
+
+- Pitfalls and Challenges
+	- technical: foreshortened apex
+	- tethering: adjacent infarct pulls "normal" segment
+	- pseudo-dyskinesis
+	- artifacts, e.g. near field dropout, rib shadowing
 
 - Grading **extent/size** of disease
 	- small: 1-2 segments

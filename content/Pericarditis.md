@@ -17,11 +17,27 @@ tags:
 
 ![[Pericarditis-20240924213516134.webp|424]]
 
+
+| Therapy                                              | Dosing                                                                            | Duration                          | Tapering                                 | Monitoring | LOE |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------- | ---------- | --- |
+| **[[Aspirin]]**                                      | 500-1,000 mg 3 times daily                                                        | wks (acute) to mo (recurrent)     | Weekly                                   | Needed     | A   |
+| **Ibuprofen**                                        | 600-800 mg 3 times daily                                                          | wks (acute) to mo (recurrent)     | Weekly                                   | Needed     | A   |
+| **Indomethacin**                                     | 25-50 mg 3 times daily                                                            | wks (acute) to mo (recurrent)     | Weekly                                   | Needed     | B   |
+| **[[Colchicine]]**                                   | 0.6 mg twice daily or 0.6 mg once daily (<70 kg, severe renal/hepatic impairment) | 3 mo (acute), 6-12 mo (recurrent) | May be considered                        | Needed     | A   |
+| **Prednisone**                                       | 0.2-0.5 mg/kg/d                                                                   | wks to mo                         | Several mo                               | Needed     | B   |
+| **Anti–IL-1 agents**                                 |                                                                                   |                                   |                                          |            |     |
+| **Anakinra**                                         | 1-2 mg/kg/d up to 100 mg/d in adults                                              | >12 mo                            | Needed                                   | Needed     | A   |
+| **Rilonacept**                                       | 320 mg once followed by 160 mg weekly                                             | >12 mo                            | Stopping vs tapering under investigation | Needed     | A   |
+| **Goflikicept** (Not yet available in United States) | 80 mg every 2 wks                                                                 | >12 mo (under investigation)      | Unknown                                  | Needed     | B   |
+| **Azathioprine**                                     | Starting with 1 mg/kg per d then gradually increased to 2-3 mg/kg/d               | Several mo                        | Several mo                               | Needed     | C   |
+| **IVIG**                                             | 400 to 500 mg/kg IV daily for 5 d                                                 | 5 d                               | Not required                             | Needed     | C   |
+| **Radical pericardiectomy**                          | High-volume pericardial surgical centers                                          | Not applicable                    | Not applicable                           | Needed     | C   |
+Table source: [^2]
 # Acute Pericarditis
 
 ```
 # Acute pericarditis
-- Work-up: CBC, ESR, CRP (abnormal if > 3 mg/L), CK, troponin, 12-lead ECG, CXR
+- Work-up: CBC, ESR, CRP (abnormal if > 3 mg/L), CK, troponin (assess for epicardial inflammation; if significantly elevated consider myopericarditis), 12-lead ECG, CXR
 	- Consider TB testing in the appropriate context
 - Echo
 	- If acute pericarditis and LV dysfunction, most (85%) will have recovery after 12 months
@@ -64,7 +80,28 @@ tags:
 
 ![[Pericarditis-20250124084652199.webp]]
 
+### ECG in Pericarditis
+
+You may not always seen diffuse ST-segment elevation, so absence should not exclude Dx of pericarditis.
+
+![[Pericarditis-1757972350586.webp]]
+Source: [^1]
+
+### Imaging in Pericarditis
+
 ![[Pericarditis-20250124085149249.webp]]
+
+| TTE                                                                                                                      | CCT                                                                                                                                                            | CMR                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ▪ Normal findings in some patients. Pericardial thickening                                                               | ▪ Noncalcified pericardial thickening (>3 mm)                                                                                                                  | ▪ Thickening of pericardium at T1-weighted BB images (>3 mm)                                                                                                                                                                                                                                                                                         |
+| ▪ Segmental wall motion abnormalities or pathological myocardial strain values (in case of [[Myocarditis\|myocarditis]]) | ▪ Enhancement of the thickened visceral and parietal surfaces of the pericardial sac at late postcontrast CT scan                                              | ▪ Enhancement of pericardium on LGE sequence (inflammation) and T2-STIR sequence (edema) consistent with active inflammation and neovascularization (of prognostic importance)<br>▪ LGE+/T2-STIR+: acute/subacute phase or recurrent flares<br>▪ LGE+/T2-STIR-: subacute or chronic phase<br>▪ LGE-/T2-STIR-: resolution or end-stage/calcific phase |
+| ▪ [[Pericardial Effusion\|PEff]] with or without [[Pericardial Tamponade\|Tamponade]] (present in 40%-50% of cases)      | ▪ [[Pericardial Effusion\|PEff]] presence. CT attenuation values of the PEff may help distinguish between exudative and transudative fluid (on noncontrast CT) | ▪ [[Pericardial Effusion\|PEff]] presence. High signal intensity on T1-weighted BB images is suggestive of exudative PEffs                                                                                                                                                                                                                           |
+| ▪ Sign of [[Constrictive Pericarditis\|CP]] (often transient)                                                            |                                                                                                                                                                | ▪ Loss of the normal sliding between pericardial layers during the cardiac cycle is one feature consistent with pericarditis                                                                                                                                                                                                                         |
+Table source: [^2]
+
+Figure source: [^2]
+![[Pericarditis-1757973324452.webp]]
+
 ## Management of Acute Pericarditis
 
 Table source: [^esc]
@@ -94,6 +131,9 @@ Table source: [^esc]
 - 20% of patients with incessant pericarditis develop [[Constrictive Pericarditis|constrictive pericarditis]] [^jama]
 # Recurrent Pericarditis
 
+![[Pericarditis-1757974788511.webp]]
+Algorithm source: [^2]
+
 ![[Pericarditis-20240924215839878.webp|698]]
 
 - Try to target underlying etiology (if identifiable cause present)
@@ -109,3 +149,5 @@ Table source: [^esc]
 
 [^esc]: Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. European Heart Journal. 2015;36(42):2921-2964. doi:10.1093/eurheartj/ehv318
 [^jama]: Cremer PC, Klein AL, Imazio M. Diagnosis, Risk Stratification, and Treatment of Pericarditis: A Review. _JAMA._ 2024;332(13):1090–1100. doi:10.1001/jama.2024.12935
+[^1]: Chiabrando JG, Bonaventura A, Vecchié A, Wohlford GF, Mauro AG, Jordan JH, Grizzard JD, Montecucco F, Berrocal DH, Brucato A, Imazio M, Abbate A. Management of Acute and Recurrent Pericarditis: JACC State-of-the-Art Review. J Am Coll Cardiol. 2020 Jan 7;75(1):76-92. doi: 10.1016/j.jacc.2019.11.021. PMID: 31918837.
+[^2]: Wang TKM, Klein AL, Cremer PC, Imazio M, Kohnstamm S, Luis SA, Mardigyan V, Mukherjee M, Ordovas K, Vakamudi S, Wohlford GF. 2025 Concise Clinical Guidance: An ACC Expert Consensus Statement on the Diagnosis and Management of Pericarditis: A Report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2025 Jul 31:S0735-1097(25)06503-9. doi: 10.1016/j.jacc.2025.05.023. Epub ahead of print. PMID: 40767817.

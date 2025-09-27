@@ -226,6 +226,9 @@ flowchart TD
 ```
 
 
+![[Atrial Fibrillation (AFib)-1756579299641.webp]]
+
+
 
 ![[Atrial Fibrillation _AFib_-1746456432802.webp|554x701]]
 

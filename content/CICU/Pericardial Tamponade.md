@@ -4,6 +4,8 @@ aliases:
 ---
 Cardiac tamponade is a life-threatening, slow or rapid compression of the heart due to the pericardial accumulation of fluid, pus, blood, clots or gas as a result of inflammation, trauma, rupture of the heart or [[Aortic Dissection|aortic dissection]].
 
+![[Pericardial Tamponade-1758057379418.webp]]
+
 ![[Pericardial Tamponade-20240924221610679.webp|391]]
 
 - Cardiac Tamponade is a clinical diagnosis, so assessing for **pulsus paradoxus** at bedside is very useful.
@@ -22,7 +24,8 @@ Cardiac tamponade is a life-threatening, slow or rapid compression of the heart 
 - Fun fact: cath will show equilibration of average diastolic pressure and characteristic respiratory reciprocation of cardiac pressures, i.e. an inspiratory increase on the right and a concomitant decrease on the left---the proximate cause of **pulsus paradoxus**.
     -   Except in low-pressure tamponade, diastolic pressures throughout the heart are usually in the range of 15-30 mmHg.
 - Rate of accumulation is more important than the size of the effusion
-	- ![[Pericardial Tamponade-1745080874862.webp]]
+	- ![[Pericardial Tamponade-1758059272002.webp]]
+		- Figure source: [^2]
 
 # Diagnosis
 
@@ -34,11 +37,14 @@ Cardiac tamponade is a life-threatening, slow or rapid compression of the heart 
 ### Pulsus Paradoxus at Bedside
 
 - Inflate BP cuff until you can’t hear Korotkoff sounds
-- Start deflating until you hear sounds intermittently (sounds disappear with inspiration) - $\text{SBP}_1$
+- Start deflating until you hear sounds intermittently (sounds disappear with inspiration). Record the systolic pressure at which Korotkoff sounds are first audible - $\text{SBP}_1$
+	- sounds are initially intermittent and respirophasic, becoming audible with expiration and inaudible with inspiration
 - Keep deflating until you hear sounds continuously (during inspiration and expiration) - $\text{SBP}_2$
 - Pulsus paradoxus cutoffs: $\Delta = \text{SBP}_1 - \text{SBP}_2$
 	- $\Delta$ >10 mmHg → sens 98%, spec 70%, +LR 3.3, -LR 0.03
-	- $\Delta$ >12 mmHg? sens 98%, spec 83%, +LR 5.9, -LR 0.03
+	- $\Delta$ >12 mmHg → sens 98%, spec 83%, +LR 5.9, -LR 0.03
+	- ![[Pericardial Tamponade-1758058956304.webp]]
+- "Most textbooks define a greater than 10-mm Hg difference between the initial detection of sounds on expiration and the constant presence of sounds with each heartbeat through the respiratory cycle as a "pulsus paradoxus." Some experts suggest that the absolute value of pulsus paradoxus should be interpreted as a percentage of the pulse pressure or as a percentage of the expiratory systolic pressure." [^1]
 
 ## Echo in Cardiac Tamponade
 
@@ -80,3 +86,7 @@ Cardiac tamponade is a life-threatening, slow or rapid compression of the heart 
 	- Passive emptying of RA is dependent on pressure difference between RA and RV: in tamponade, the pericardial pressure takes over all other diastolic pressures (∴, loss of Y descent)
 	- Occurs d/t diastolic equalization of pressures in the RA and RV + lack of effective flow across the TV in *early* ventricular diastole
 	- ![[Pericardial Tamponade-1745081217944.webp]]
+
+[^1]: Roy CL, Minor MA, Brookhart MA, Choudhry NK. Does this patient with a pericardial effusion have cardiac tamponade? JAMA. 2007 Apr 25;297(16):1810-8. doi: 10.1001/jama.297.16.1810. PMID: 17456823.
+
+[^2]: Spodick DH. Acute cardiac tamponade. N Engl J Med. 2003 Aug 14;349(7):684-90. doi: 10.1056/NEJMra022643. PMID: 12917306.
