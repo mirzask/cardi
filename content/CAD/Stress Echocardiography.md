@@ -3,6 +3,33 @@ tags:
   - stresstesting
 ---
 
+- With any stress modality, want a double product (adequate stress to draw prognostic information) >20,000 and ideally >25,000.
+- See 2019 ASE Guidelines
+- Make sure you get a good baseline Echo, e.g. "regional wma, severe AS, aortic enlargement, you sure you want to put him on a treadmill?"
+- Bicycle 🚴‍♀️ is useful for measurement of [[Mitral Regurgitation|MR]]
+	- Need to interpret with a grain of salt b/c venous return is very high relative to exercise and LV cavity will be large d/t this preload w/ bike.
+- Prognostic information is comparable to SPECT
+- [[Dobutamine]]: start at 5-10, increase every 3 minutes (20 -> 30 -> 40)
+	- If still not achieved, can give [[Atropine|atropine]]
+- Hypertensive response
+	- SBP >182 or DBP > 96 for DSE
+	- SBP > 220 for ESE
+- Incidence of [[Atrial Fibrillation (AFib)|AFib]] with DSE is 1%
+	- <1 hr (61%) and <24h (96%)
+	- Rivas: will give some [[Beta-blockers|metoprolol]] and monitor in the lab. If still rapid AFib, will monitor and they typically go back into sinus overnight.
+- False negatives
+	- suboptimal workload
+	- single vessel disease
+		- especially LCx disease
+	- concentric LVH, [[Hypertrophic Cardiomyopathy|HCM]]
+	- severe AI or MR because you have a hyperdynamic LV
+- False positives
+	- Hyperrtensive response to stress
+	- LVH/HCM, DM -> low MPR
+	- exercise-induced coronary spasm
+	- cardiomyopathy
+	- [[Left Bundle Branch Block|LBBB]] (pharmacologic MPI is test of choice)
+- High risk features - see Table 3 from the ASE guideline paper
 - **Contraindications**
 	- Poor windows
 	- Unable to reach target HR

@@ -16,6 +16,8 @@ tags:
 - The most common cause of non-response to Regadenoson is failing to avoid caffeine ☕
 	- Half-life of caffeine in a healthy, young person is 4.5 hours. One of the reasons Bateman suspects there are issues of non-response with Regadenoson in patients with liver disease is that the caffeine lingers around much longer.
 - <u>Wall</u> volume on Cedars: anything ≥ 125 mL should make you think of LVH
+- Sperry: "if I see the septum (with reduced counts), sometimes I wonder if this may be [[Left Bundle Branch Block|LBBB]]"
+- Sperry on using *motion freeze*: if it makes the defect look better, he may accept it. However, if it makes the defect look worse, he may discount it.
 
 # Identifying the level - apex, mid, base
 

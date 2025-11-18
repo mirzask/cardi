@@ -13,3 +13,7 @@ aliases:
 	- Severe, symptomatic [[Mitral Regurgitation#Primary Mitral Regurgitation|primary MR]] with prohibitive risk of cardiac surgery (STS-Predicted Risk of Mortality ≥ 8% or high-risk characteristics) as assessed by a cardiac surgeon
 	- Severe, symptomatic [[Mitral Regurgitation#Secondary Mitral Regurgitation|secondary MR]] on maximally tolerated GDMT
 		- if MR severity and LV parameters are consistent with COAPT trial criteria
+
+
+Alfieri stitch for edge-to-edge repair:
+![[Mitral Transcatheter Edge-to-Edge Repair (mTEER)-1762813151587.webp]]
