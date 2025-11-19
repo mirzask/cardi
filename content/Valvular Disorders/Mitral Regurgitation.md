@@ -14,7 +14,12 @@ aliases:
 
 # Acute MR
 
-Acute MR is far less common than chronic MR and usually results in hemodynamic compromise. It occurs most commonly due to [[Mitral Regurgitation#Papillary muscle rupture|ruptured papillary muscle]] after acute myocardial infarction, ruptured chordae tendinae resulting in a flail leaflet, or leaflet destruction due to endocarditis and less frequently due to rapid onset of cardiomyopathy (e.g., [[Takotsubo Cardiomyopathy|Takotsubo]], [[Myocarditis|myocarditis]], or [[Post-partum Cardiomyopathy|postpartum cardiomyopathy]]). Patients often present with pulmonary edema from elevated LA pressure, tachycardia, and severe hypotension from loss of forward SV. The combination of hypotension and high LA pressure results in a low driving pressure and therefore lower MR jet velocity across the MV. Accordingly, [[Color Doppler|color Doppler]] imaging often will not show a large turbulent flow disturbance, and thus MR may be underestimated or not appreciated at all. The color Doppler jet is usually markedly <u>eccentric</u>, which again can underestimate MR severity. Anatomic imaging of flail leaflet or ruptured papillary muscle and the finding of a hyperdynamic LV with low Doppler systemic output along with clinical findings should be enough to substantiate the diagnosis, even if [[Color Doppler|color Doppler]] does not show a large MR jet. <font color="#c00000">Systolic flow reversal in the pulmonary veins is usually present and is helpful.</font> TEE may be better at identifying acute severe MR.
+- Acute MR is far less common than chronic MR and usually results in hemodynamic compromise. 
+- It occurs most commonly due to [[Mitral Regurgitation#Papillary muscle rupture|ruptured papillary muscle]] after acute myocardial infarction, ruptured chordae tendinae resulting in a flail leaflet, or leaflet destruction due to [[Endocarditis|endocarditis]] and less frequently due to rapid onset of cardiomyopathy (e.g., [[Takotsubo Cardiomyopathy|Takotsubo]], [[Myocarditis|myocarditis]], or [[Post-partum Cardiomyopathy|postpartum cardiomyopathy]]). 
+- Patients often present with pulmonary edema from elevated LA pressure, tachycardia, and severe hypotension from loss of forward SV. 
+- The combination of hypotension and high LA pressure results in a low driving pressure and therefore lower MR jet velocity across the MV. ==Accordingly, [[Color Doppler|color Doppler]] imaging often will NOT show a large turbulent flow disturbance, and thus MR may be underestimated or not appreciated at all.== The color Doppler jet is usually markedly <u>eccentric</u>, which again can underestimate MR severity. 
+- ==Anatomic imaging of flail leaflet or ruptured papillary muscle and the finding of a hyperdynamic LV with low Doppler systemic output along with clinical findings should be enough to substantiate the diagnosis, even if [[Color Doppler|color Doppler]] does not show a large MR jet.== <font color="#c00000">Systolic flow reversal in the pulmonary veins is usually present and is helpful.</font> TEE may be better at identifying acute severe MR.
+	- ![[Mitral Regurgitation-1763518176677.webp|385x350]]
 
 - Common causes include:
 	- [[Endocarditis]]
@@ -261,6 +266,18 @@ $$
 - The mitral inflow pattern is more reliable for assessing [[Mitral Regurgitation#Primary Mitral Regurgitation|primary MR]] because, in [[Mitral Regurgitation#Secondary Mitral Regurgitation|secondary MR]], it is difficult to determine whether E dominance is due to significant MR or elevated LV filling pressures. 
 - ⚠️ Peak E velocity is also affected by even *mild* degrees of [[Mitral Stenosis|mitral stenosis]] in the presence of [[Rheumatic Heart Disease|rheumatic disease]], [[Mitral Annular Calcification (MAC)|MAC]], or a mitral annular ring.
 
+### Regurgitant Volume (RVol) and Regurgitant Fraction
+
+$$
+\begin{align}
+\text{RVol} &=  \text{SV}_{\text{MV}} - \text{SV}_{\text{LVOT}} \\
+\text{RF} &= \frac{\text{RVol}}{\text{SV}_{\text{MV}}}
+\end{align}
+$$
+
+The example below is from Figure 4 of the [^1] showing Doppler calculations of SV at the LVOT and MV annulus sites. In this example of severe MR, $\text{SV}_{\text{MV}}$ was 183 mL (d = 3.5 cm, VTI = 19 cm) and $\text{SV}_{\text{LVOT}}$ was 58 mL (d = 2.3 cm, VTI = 14 cm). This yielded an RVol of 125 mL ($183 - 58 = 125$) and an RF of $\frac{125}{183}$ or 68%.
+![[Mitral Regurgitation-1763515725468.webp]]
+
 ## Pulmonary Vein Flow
 
 Pulsed Doppler of pulmonary venous flow is a useful adjunct to evaluating the hemodynamic consequences of MR. With increasing severity of MR, there is a diminution of the systolic velocity, culminating with <font color="#c00000">systolic flow reversal in severe MR</font>. 
@@ -322,3 +339,5 @@ The RF can be calculated by dividing the RVol by the LV SV for the first two met
 ## Carpentier IIIA Leaflet Motion
 
 <video width="600" height="350" src="https://www.jacc.org/cms/asset/16e1b98b-2471-4bd4-9377-43fbb4555bea/mmc4.mp4" controls></video>
+
+[^1]: https://www.asecho.org/wp-content/uploads/2017/04/2017VavularRegurgitationGuideline.pdf
