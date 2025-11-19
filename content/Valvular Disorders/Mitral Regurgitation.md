@@ -1,6 +1,8 @@
 ---
 tags:
   - valvulardisease
+aliases:
+  - MR
 ---
 
 

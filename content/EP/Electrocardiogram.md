@@ -6,6 +6,7 @@ aliases:
   - ECG
   - EKG
 ---
+- Electrical conduction typically begins in the sinus node located in the atrium and then travels to the atrioventricular node and down the bundle branches (conduction system) to allow coordinated filling and contraction of the ventricles.
 - Limb leads
 - Precordial leads: V1-V6
 	- Leads V1-V6 are <u>unipolar leads</u> that give you a perspective of cardiac activation from the <u>anterior</u> side of the heart.

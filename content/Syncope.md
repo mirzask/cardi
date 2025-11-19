@@ -60,6 +60,8 @@ tags:
 
 # Vaso-vagal syncope
 
+- Vasovagal (reflex) syncope, which portends a more benign clinical course, generally is manifested with an inciting factor or event (eg, dehydration, sight of blood, post–bowel movement) and preceding symptoms (eg, nausea, diaphoresis).[^1]
+
 ![[Syncope-1747667954825.webp]]
 
 - Reassurance
@@ -74,6 +76,7 @@ tags:
 
 # Cardiac Syncope
 
+- Cardiogenic or arrhythmogenic syncope comes on suddenly and without warning and may be associated with exertion.
 - Evaluation
 	- ECG
 	- [[Ambulatory ECG Monitoring]]
@@ -81,3 +84,5 @@ tags:
 		- 📝 Do a [[Stress Echocardiography|Stress Echo]] if there is exertion-related syncope or suspect a relation to catecholamine surge
 	- EP study
 		- Class I indications include unexplained syncope + ICM, unexplained syncope + structural heart disease, NSVT + prior MI w/ EF ≤ 40%
+
+[^1]: Tseng AS, Kowlgi GN, DeSimone CV. Management of Premature Ventricular Complexes in the Outpatient Setting. Mayo Clin Proc. 2023 Jul;98(7):1042-1053. doi: 10.1016/j.mayocp.2023.01.021. PMID: 37419573.
