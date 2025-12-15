@@ -36,6 +36,8 @@ aliases:
 
 # Diagnosis
 
+![[Accessory Pathway Conduction-1763755011840.webp]]
+
 ![[Accessory Pathway Conduction-1746313354618.webp]]
 
 - Noninvasive testing is generally considered safe and should be considered in asymptomatic WPW patients. This includes standard 12-lead ECG, ambulatory monitoring, and exercise stress testing (EST).

@@ -218,6 +218,9 @@ Regardless of etiology, if there is a small central jet, normal leaflet morpholo
 
 ### Flow convergence (PISA)
 
+![[Mitral Regurgitation-1765758769014.webp]]
+Figure source: [^2]
+
 Recall from [[Echo Math#PISA for Regurgitation|Echo Math]]:
 
 
@@ -277,6 +280,8 @@ $$
 
 The example below is from Figure 4 of the [^1] showing Doppler calculations of SV at the LVOT and MV annulus sites. In this example of severe MR, $\text{SV}_{\text{MV}}$ was 183 mL (d = 3.5 cm, VTI = 19 cm) and $\text{SV}_{\text{LVOT}}$ was 58 mL (d = 2.3 cm, VTI = 14 cm). This yielded an RVol of 125 mL ($183 - 58 = 125$) and an RF of $\frac{125}{183}$ or 68%.
 ![[Mitral Regurgitation-1763515725468.webp]]
+
+Also see Figure 16 from [^2] shown above in the [[Mitral Regurgitation#Flow convergence (PISA)|Flow Convergence (PISA)]] section.
 
 ## Pulmonary Vein Flow
 
@@ -341,3 +346,5 @@ The RF can be calculated by dividing the RVol by the LV SV for the first two met
 <video width="600" height="350" src="https://www.jacc.org/cms/asset/16e1b98b-2471-4bd4-9377-43fbb4555bea/mmc4.mp4" controls></video>
 
 [^1]: https://www.asecho.org/wp-content/uploads/2017/04/2017VavularRegurgitationGuideline.pdf
+
+[^2]: https://www.asecho.org/wp-content/uploads/2025/04/PIIS0894731721005940.pdf
