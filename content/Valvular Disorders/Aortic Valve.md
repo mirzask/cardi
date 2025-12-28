@@ -7,6 +7,7 @@ tags:
 	- Unrestricted systolic opening
 	- Normal area 3 to 4 cm2 (some textbooks say 3-5 cm^2)
 	- Normal opening 2 cm leaflet opening
+- The AV is a semilunar valve typically with three cusps located close to the center of the heart.
 
 - Methods for measuring the aortic valve on CT include [^ase-aorta]
 	- commissure-to-cusp

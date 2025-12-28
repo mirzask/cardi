@@ -13,3 +13,8 @@ draft: true
 		- Part 1: 🚧  (watched first 20 mins)
 - [[Heart Failure]] and [[Cardiomyopathies]]
 	- The [[Cardiomyopathies]] 🚧  (watched first 16 mins)
+- Vascular Disease
+	- [[Peripheral Arterial Disease]] ✅
+	- [[Aortic Disease]]
+	- [[Venous Thromboembolism (VTE)]]
+	- [[Carotid Artery Disease]] and [[Renal Artery Stenosis]]
