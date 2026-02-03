@@ -24,6 +24,9 @@ aliases:
 - [[Turner syndrome]]
 	- BAV prevlance is ~30% in women with Turner syndrome; is 30-60x more frequent in women with Turner syndrome than in women with 46,XX.
 	- By contrast, 7-18% of women with Turner syndrome have [[Aortic Coarctation|aortic coarctation]].
+
+
+![[Bicuspid Aortic Valve-1767150743416.webp]]
 # Management
 
 - Many undergoing aortic valve replacement will also need aortic root surgery b/c BAV is a disease of both the [[Aortic Valve|aortic valve]] and [[Aorta|aorta]] [^siu]

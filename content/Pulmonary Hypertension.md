@@ -4,6 +4,10 @@
 - Pulmonary hypertension (PH) is now defined by a mean pulmonary arterial pressure **>20 mmHg** _at rest_. The definition of [[Pulmonary Arterial Hypertension (PAH)]] also implies a pulmonary vascular resistance (PVR) >2 Wood Units and pulmonary arterial wedge pressure ≤15 mm Hg.[^acc10]
     - “Recent data from normal subjects has shown that normal mPAP was 14.0±3.3 mmHg. Two standard deviations above this mean value would suggest mPAP >20 mmHg as above the upper limit of normal (above the 97.5th percentile). This definition is no longer arbitrary, but based on a scientific approach.” ([Source](https://erj.ersjournals.com/content/53/1/1801913))
 -  It is essential to include **PVR** and pulmonary arterial wedge pressure (**PAWP**) in the definition of pre-capillary PH, in order to discriminate elevated PAP due to pulmonary vascular disease (PVD) from that due to left heart disease (LHD), elevated pulmonary blood flow, or increased intrathoracic pressure.[^esc]
+- Classified into 5 groups based on etiology of PH as defined by the 2018 World Symposium on Pulmonary Hypertension (WSPH)
+	- Group 1, or [[Pulmonary Arterial Hypertension (PAH)|PAH]], also requires normal left heart filling pressures (PCWP or LVEDP ≤ 15 mmHg) with PVR ≥ 2 WU.
+	- Group 3 (PH due to lung disease, hypoxia or both), Group 4 (PH due to pulmonary artery obstructions), and Group 5 (PH with multifactorial or unclear mechanisms) share similar hemodynamic criteria to Group 1 PH. 
+	- Group 2 (PH due to left heart disease) is diagnosed when PCWP > 15mmHg at rest or may be suggestive with significant increases in PAWP during provocative maneuvers during RHC (e.g. saline infusion or exercise).
 
 | Definition       | Hemodynamic characteristics                           |
 |------------------|-------------------------------------------------------|

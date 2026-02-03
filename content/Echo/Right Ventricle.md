@@ -6,8 +6,25 @@ aliases:
 ---
 
 - The RV is much more sensitive to [[Afterload|afterload]] changes than the LV
-	- b/c RV has lower systolic elastance compared to the LV
+	- because the RV has lower systolic elastance compared to the LV
 	- LV is a thicker, more muscular ventricle, ∴ the LV is able to handle ↑ afterload. This is *not* the case for the RV. For example, in acute PE the right heart can struggle.
+- The RV depends on the LV for a substantial portion of its contractile function. This interaction is intensified in the context of [[Right Heart Failure|RV failure]].
+- The main determinants of right ventricular function, like those of left ventricular function, are: [^1]
+	- [[Preload|preload]]
+	- [[Afterload|afterload]]
+	- contractility
+	- lusitropy
+
+# RV-PA Uncoupling
+
+- In response to increased [[Afterload|afterload]] (e.g., [[Pulmonary Arterial Hypertension (PAH)|PAH]], [[Pulmonary Embolism|PE]]/CTEPH, [[Pulmonic Stenosis|PS]]) the RV will initially respond with RV hypertrophy 💪 (accompanied by an ↑ in contractility and preserved SV). Over time, as contractility declines or ↑ afterload, the RV must dilate to maintain SV. Eventually, oxygen demand exceeds supply and contractility further declines ‭→ a state of ventriculoarterial uncoupling and [[Right Heart Failure|RV failure]].[^1]
+- RV-PA uncoupling is when the RV can no longer adapt to increased PA afterload ‭→ [[Right Heart Failure]]. 
+- At first the RV compensates (couples) to increased PA pressure, but at some point the wheels fall off and the RV fails (uncoupling).
+	- ![[Right Ventricle-1769900779130.webp]]
+- Methods for assessment of RV-PA uncoupling:
+	- TAPSE/PASP ratio (tricuspid annular plane systolic excursion (TAPSE) by the PA systolic pressure (PASP))
+		- a ratio of RV-PA coupling to get a sense of the "efficiency" of RV stroke work on the PA
+		- lower values are associated with worse outcomes in different patient populations (e.g. [[Heart Failure with Preserved Ejection Fraction (HFpEF)|HFpEF]], [[Amyloidosis]])
 # Echo
 
 ## Assessment of RV Size
@@ -122,3 +139,4 @@ With any cardiac surgery, you typically see an acute reduction in RV longitudina
 
 [^ase-2015]: https://asecho.org/wp-content/uploads/2015/01/ChamberQuantification2015.pdf
 [^rv-echo-view]: Genovese, D., Mor-Avi, V., Palermo, C., Muraru, D., Volpato, V., Kruse, E., Yamat, M., Aruta, P., Addetia, K., Badano, L. P., & Lang, R. M. (2019). Comparison Between Four-Chamber and Right Ventricular–Focused Views for the Quantitative Evaluation of Right Ventricular Size and Function. Journal of the American Society of Echocardiography, 32(4), 484–494. https://doi.org/10.1016/j.echo.2018.11.014
+[^1]: Houston BA, Brittain EL, Tedford RJ. Right Ventricular Failure. N Engl J Med. 2023 Mar 23;388(12):1111-1125. doi: 10.1056/NEJMra2207410. PMID: 36947468.
