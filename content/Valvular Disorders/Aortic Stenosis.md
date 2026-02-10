@@ -200,6 +200,20 @@ $$
 - TODO
 
 ![[Aortic Stenosis-20240920194206117.webp]]
+
+## Step-wise approach to Low-Gradient AS
+
+Source: [^1]
+1. In low gradient AS, the next step must always be to assess AVA.
+2. Effective AVA calculation indicates moderate AS when it is ≥ 1.0 cm2. In patients with a large LVOT, overestimation of flow and therefore AVA should be excluded.
+	1. A calculated effective AVA <1.0 cm2 only *suggests*, but does not confirm severe AS. This setting requires the most extensive further evaluation.
+3. Exclusion of measurement errors
+	1. All components that contribute to AVA calculation must be checked. In particular underestimation of AVA by flow underestimation owing to underestimation of the [[Left Ventricular Outflow Tract (LVOT)|LVOT]] area must be carefully excluded.
+4. Define flow status (normal flow = SVi ≥35 mL/m2; low flow = SVi < 35 mL/m2).
+	1. If normal flow is present, severe AS is very unlikely even if AVA is calculated <1 cm2. These patients will in general have moderate AS and AVA is likely to be miscalculated. The inconsistency of the cut-offs for AVA and velocity/gradient may be another explanation for this constellation of measurements as well as a very small body size.
+5. If low flow is present, further evaluation depends on LVEF and patients with preserved EF must be separated from those with reduced EF.
+	1. EF ≤50%: [[Dobutamine Stress Echocardiography|dobutamine echo]] should be performed to assess contractile/flow reserve (increase in SV on DSE by 20% or more) and to distinguish between true severe and pseudosevere AS
+
 # Diagnosis
 
 ## Physical Exam
@@ -240,6 +254,8 @@ Clues to *severe* AS
 - ⚠️ Measurements of AS severity made when the patient is hypertensive may underestimate or, less often, overestimate stenosis severity.[^2020-accaha]
 	- Systemic hypertension imposes a second pressure load on the LV, in addition to valve obstruction → ↓ forward stroke volume and lower transaortic pressure gradient than when the patient is normotensive. 
 	- If results indicate only moderate stenosis but were recorded when the patient was hypertensive, repeat measurements when the blood pressure is better controlled ensure that a diagnosis of severe AS is not missed.
+- [[Left Ventricular Outflow Tract (LVOT)|LVOT]] Diameter measurement can be error-prone and should be carefully assessed
+	- ![[Aortic Stenosis-1770571070638.webp]]
 - LV size and function is important! See [[Aortic Stenosis#Aortic Stenosis Hemodynamics|above]] for stages of LV involvement d/t AS.
 	- Also pay attention to concurrent valvular lesions (risk of [[Mitral Regurgitation#Secondary Mitral Regurgitation|functional MR]]), pulmonary pressures (d/t risk of [[Pulmonary Hypertension|pulmonary hypertension]]), , and the right side (risk of [[Right Heart Failure|RV dysfunction]]).
 - Location of the stenosis
@@ -438,4 +454,4 @@ def calculate_aortic_stenosis(vmax, vti_lvot, vti_ao, lvot_diameter):
 [^pawade]: Pawade, T., Sheth, T., Guzzetti, E., Dweck, M. R., & Clavel, M.-A. (2019). Why and How to Measure Aortic Valve Calcification in Patients With Aortic Stenosis. JACC: Cardiovascular Imaging, 12(9), 1835–1848. https://doi.org/10.1016/j.jcmg.2019.01.045
 [^cn001]: CardioNerds. “1. Aortic Stenosis: Case Discussion.” _Cardionerds_, 11 Dec. 2019, https://www.cardionerds.com/1-aortic-stenosis-part-1-case-discussion​/.
 [^jacc-adv]: Miller, P. Elliott, et al. “Acute Decompensated Valvular Disease in the Intensive Care Unit.” _JACC: Advances_, vol. 3, no. 12, Dec. 2024, p. 101402. _DOI.org (Crossref)_, https://doi.org/10.1016/j.jacadv.2024.101402.
-
+[^1]: Baumgartner H, Hung J, Bermejo J, Chambers JB, Edvardsen T, Goldstein S, Lancellotti P, LeFevre M, Miller F Jr, Otto CM. Recommendations on the Echocardiographic Assessment of Aortic Valve Stenosis: A Focused Update from the European Association of Cardiovascular Imaging and the American Society of Echocardiography. J Am Soc Echocardiogr. 2017 Apr;30(4):372-392. doi: 10.1016/j.echo.2017.02.009. PMID: 28385280.

@@ -120,8 +120,14 @@ $$
 
 ## [[Pulsed Wave Doppler|PWD]]
 
-- [[Pulsed Wave Doppler|PWD]]: **Holodiastolic flow reversal** is an abnormal finding and indicates at least moderate AR; when present in the abdominal aorta, it is consistent with severe AR.
+- [[Pulsed Wave Doppler|PWD]]: **Holodiastolic flow reversal** is an abnormal finding and indicates *at least* moderate AR; when present in the <u>abdominal aorta</u>, it is consistent with severe AR.
+	- Holodiastolic reversal (flow throughout diastole) strongly suggests moderate to severe AR
+- End-diastolic velocity: a value >20 cm/s in the descending aorta often suggests **severe AR**, correlating with an aortic regurgitant fraction ≥ 40%
+- Ratio of peak systolic velocity to End-diastolic velocity: a lower ratio (e.g., <5.0) indicates greater regurgitation
 
+![[Aortic Regurgitation-1770171757959.webp]]
+
+Figure [source](https://www.researchgate.net/figure/A-The-velocity-time-integral-VTI-of-descending-aortic-diastolic-flow-reversal-can-be_fig2_309669798)
 ## [[Pressure Half Time (PHT)]]
 
 
