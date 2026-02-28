@@ -56,6 +56,9 @@ Reference values for RV dimensions are listed in Table 8. [^ase-2015]
 ![[Pasted image 20240806132313.png]]
 
 
+![[Right Ventricle-1770818066087.webp]]
+Table source: [^2]
+
 ## Assessment of RV Function
 
 Table 10 Normal values for parameters of RV function
@@ -140,3 +143,5 @@ With any cardiac surgery, you typically see an acute reduction in RV longitudina
 [^ase-2015]: https://asecho.org/wp-content/uploads/2015/01/ChamberQuantification2015.pdf
 [^rv-echo-view]: Genovese, D., Mor-Avi, V., Palermo, C., Muraru, D., Volpato, V., Kruse, E., Yamat, M., Aruta, P., Addetia, K., Badano, L. P., & Lang, R. M. (2019). Comparison Between Four-Chamber and Right Ventricular–Focused Views for the Quantitative Evaluation of Right Ventricular Size and Function. Journal of the American Society of Echocardiography, 32(4), 484–494. https://doi.org/10.1016/j.echo.2018.11.014
 [^1]: Houston BA, Brittain EL, Tedford RJ. Right Ventricular Failure. N Engl J Med. 2023 Mar 23;388(12):1111-1125. doi: 10.1056/NEJMra2207410. PMID: 36947468.
+
+[^2]: Mukherjee M, Rudski LG, Addetia K, Afilalo J, D'Alto M, Freed BH, Friend LB, Gargani L, Grapsa J, Hassoun PM, Hua L, Kim J, Mercurio V, Saggar R, Vonk-Noordegraaf A. Guidelines for the Echocardiographic Assessment of the Right Heart in Adults and Special Considerations in Pulmonary Hypertension: Recommendations from the American Society of Echocardiography. J Am Soc Echocardiogr. 2025 Mar;38(3):141-186. doi: 10.1016/j.echo.2025.01.006. Erratum in: J Am Soc Echocardiogr. 2025 Jul;38(7):641. doi: 10.1016/j.echo.2025.05.001. PMID: 40044341.

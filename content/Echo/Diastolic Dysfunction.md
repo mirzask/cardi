@@ -203,6 +203,19 @@ Obtained from [^7]
 **(Left)** With normal diastolic function, LAP and LV pressure are normal with predominant early diastolic filling, short isovolumic relaxation time (IVRT), and deceleration time (DT). Mitral annulus early diastolic velocity (e′) exceeds a′. Onset of e′ precedes onset of E. **(Middle)** With impaired LV relaxation but normal LAP, early diastolic transmitral pressure gradient is reduced, leading to reduced E and prolonged DT and IVRT. Due to increased LA volume before LA contraction, LA contractility increases, leading to increased late diastolic transmitral pressure gradient, increased mitral A velocity, and decreased E/A ratio. e′ is delayed and reduced with increased a′. **(Right)** With impaired LV relaxation but increased LAP, E increases with short DT and IVRT. Due to increased late diastolic LV pressures and LA afterload, mitral A velocity decreases, leading to an increased E/A ratio. e′ is delayed and reduced with decreased a′. Increased intravascular volume in patients with grade I diastolic dysfunction leads to an increase in LAP and a pattern of predominant early LV filling (shift to right). Diuretics in patients with increased LAP shift mitral inflow pattern to one of predominant late diastolic filling.[^6]
 
 
+# Examples
+
+## Example 1: Don't Simply Binarize Based on Annular e' Velocities
+
+Mitral inflow pattern in a ~30 yo patient with severe LVH who initially presented with HTN emergency.
+![[Diastolic Dysfunction-1772249228848.webp]]
+
+![[Diastolic Dysfunction-1772249426632.webp]]
+
+![[Diastolic Dysfunction-1772249440634.webp]]
+
+If you just base it off the patient having medial e' >6, lateral e' >7, or average >6.5, then you may conclude that she has *normal* diastolic function. However, I'd argue that this would be incorrect. The patient is a ~30 yo with <u>severe</u> LVH. Bearing in mind her young age, you should expect her e' velocities to be much higher if she truly had normal diastology. With her very high E/A ratio, she has Grade 3 DD.
+
 
 
 

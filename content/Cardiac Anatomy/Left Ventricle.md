@@ -87,6 +87,9 @@ Recall, $\frac{\text{EDV - ESV}}{\text{EDV}}$ so we will estimate LV global syst
 	- ∴ as a quality check, make sure that the tracings line up well otherwise your measurements will be invalid.
 - 🌟 Biplane Method of Disks (MOD) summation (modified Simpson's rule)
 	- recommended 2D echocardiographic method by the 2015 Chamber Quantification Guidelines committee
+	- "At the mitral valve level, the contour is closed by connecting the two opposite sections of the mitral ring with a straight line. LV length is defined as the distance between the middle of this line and the most distant point of the LV contour." (2015 Guidelines)
+	- <u>Tip</u>: A4C and A2C lengths should be within 10% of each other, otherwise suggests foreshortening
+	- ⚠️ make sure you are avoiding papillary muscles, false chords, etc. when doing tracing
 	- ![[Pasted image 20241212105915.webp|367]]
 - Area-length method
 	- useful when apical endocardial definition precludes accurate tracing
