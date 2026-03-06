@@ -57,6 +57,12 @@ Additional echocardiographic signs suggestive of pulmonary hypertension[^esc]
 
 ![[Pulmonary Hypertension-20241222073938104.webp]]
 
+## Systolic Septal Flattening
+
+The following are examples of systolic septal flattening, which can occur in the context of RV pressure overload.
+![[PH-SystolicSeptalFlattening.mp4]]
+
+![[PH-SystolicSeptalFlattening-contrast.mp4]]
 
 # Vasoreactivity Testing
 
