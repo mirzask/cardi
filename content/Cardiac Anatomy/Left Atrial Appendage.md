@@ -6,6 +6,8 @@ aliases:
 ---
 # Echo of LAA
 
+- On TEE, imaging of the LAA is recommended to be obtained at ME 0˚, 45˚, 90˚, and 135˚; add X-plane views PRN
+
 ## Emptying Velocities on TEE
 
 ![[Left Atrial Appendage-20241222080805691.webp|307]]

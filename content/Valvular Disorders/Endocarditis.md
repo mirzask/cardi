@@ -2,6 +2,7 @@
 aliases:
   - Infective Endocarditis
   - infective endocarditis
+  - Prosthetic Valve Endocarditis
 ---
 ```text
 # Endocarditis
@@ -48,7 +49,14 @@ Figure source: [^otto]
 
 ![[Endocarditis-20240909202301609.webp]]
 
+## Prosthetic Valve Endocarditis
 
+![[Endocarditis-1775410988730.webp]]
+Table source: [^1]
+
+Opening and closing angles for different [[Prosthetic Valves|prosthetic valves]]:
+![[Endocarditis-1775411216389.webp]]
+Table source: [^1]
 # Echo
 
 
@@ -115,3 +123,5 @@ Figure source: [^otto]
 
 
 [^otto]: Otto, C. M., Nishimura, R. A., Bonow, R. O., Carabello, B. A., Erwin, J. P., Gentile, F., Jneid, H., Krieger, E. V., Mack, M., McLeod, C., O’Gara, P. T., Rigolin, V. H., Sundt, T. M., Thompson, A., & Toly, C. (2021). 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Journal of the American College of Cardiology, 77(4), e25–e197. https://doi.org/10.1016/j.jacc.2020.11.018
+
+[^1]: Budde RPJ, Faure ME, Abbara S, Alkadhi H, Cremer PC, Feuchtner GM, Gonzales HM, Kiefer TL, Leipsic J, Nieman K, Revels J, Wang DD, Williamson E, Wyler von Ballmoos MC, Zwischenberger BA, Salgado R. Cardiac computed tomography for prosthetic heart valve assessment. An expert consensus document of the Society of Cardiovascular Computed Tomography (SCCT), the American College of Cardiology (ACC), the European Society of Cardiovascular Radiology (ESCR), the North American Society of Cardiovascular Imaging (NASCI), the Radiological Society of North America (RSNA), the Society for Cardiovascular Angiography & Interventions (SCAI) and Society of Thoracic Surgeons (STS). J Cardiovasc Comput Tomogr. 2025 Jul-Aug;19(4):366-386. doi: 10.1016/j.jcct.2025.04.007. Epub 2025 Jun 17. PMID: 40527640.

@@ -2,7 +2,8 @@
 tags:
   - echo
 ---
-
+- High temporal resolution: 1000 – 2000 frames / sec
+	- Relative to 2D echo, which is typically 30-100 frames / sec
 # B-bump
 
 B-bump on M-mode indicates **elevated [[LV End Diastolic Pressure (LVEDP)|LVEDP]]**

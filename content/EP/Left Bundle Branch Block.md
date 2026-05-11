@@ -45,6 +45,10 @@ Figure [source](https://tech.snmjournals.org/content/34/4/193)
 	- R peak time >60 ms in leads V4, V5, and V6
 	- Absence of Q wave in leads I, V5, and V6
 
+# Comparison of LBBB ECG Criteria
+
+![[Left Bundle Branch Block-1778422415045.webp]]
+Table source: [^3]
 # Strauss Criteria for Complete LBBB
 
 - [^2] propose stricter criteria for **complete LBBB** that include:
@@ -59,3 +63,7 @@ Figure [source](https://tech.snmjournals.org/content/34/4/193)
 [^brady]: Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay. Journal of the American College of Cardiology. 2019;74(7):e51-e156. doi:10.1016/j.jacc.2018.10.044
 [^1]: Upadhyay GA, Cherian T, Shatz DY, Beaser AD, Aziz Z, Ozcan C, Broman MT, Nayak HM, Tung R. Intracardiac Delineation of Septal Conduction in Left Bundle-Branch Block Patterns. Circulation. 2019 Apr 16;139(16):1876-1888. doi: 10.1161/CIRCULATIONAHA.118.038648. PMID: 30704273.
 [^2]: Strauss DG, Selvester RH, Wagner GS. Defining left bundle branch block in the era of cardiac resynchronization therapy. Am J Cardiol. 2011 Mar 15;107(6):927-34. doi: 10.1016/j.amjcard.2010.11.010. PMID: 21376930.
+
+[^1]: 
+
+[^3]: van Deursen CJ, Blaauw Y, Witjens MI, Debie L, Wecke L, Crijns HJ, Prinzen FW, Vernooy K. The value of the 12-lead ECG for evaluation and optimization of cardiac resynchronization therapy in daily clinical practice. J Electrocardiol. 2014 Mar-Apr;47(2):202-11. doi: 10.1016/j.jelectrocard.2014.01.007. Epub 2014 Jan 6. PMID: 24444866.

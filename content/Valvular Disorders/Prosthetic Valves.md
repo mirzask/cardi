@@ -70,6 +70,10 @@ aliases:
 
 # Complications
 
+## [[Endocarditis|Prosthetic Valve Endocarditis]]
+
+See [[Endocarditis|Prosthetic Valve Endocarditis]]
+
 ## Thrombosis
 
 - Poor adherence, brief interruption, or subtherapeutic anticoagulation are common.[^1]
@@ -111,6 +115,10 @@ Figure source: [^1]
 - [[Cardiac MRI]]
 	- ⚠️ significant artifacts often prevent accurate evaluation of structure and function. Currently, cardiac magnetic resonance is not recommended by any of the guidelines.[^1]
 
+![[Prosthetic Valves-1775411334830.webp]]
+Figure source: [^2]
+Caption: Mechanical PHV Thrombosis. Images of a Patient With a Mechanical Mitral Phv (Carbomedics, Size 29 Mm) who Developed Progressive Heart Failure. TTE showed severely increased pressure gradients (PG) (mean 18 mmHg; max 30 mmHg) (A) over the PHV. Fluoroscopy showed immobility of one of the valve leaflets and greatly diminished mobility of the other (D). CT reconstructions in diastole confirmed fluoroscopy findings of the restricted leaflets (E). Moreover, CT revealed a hypodense mass attached to the hinges and leaflets and on both the ventricular and atrial side, making thrombus most likely (arrowheads E and F). Two days after thrombolysis, TTE showed decreased PG (mean 9 mmHg, max 21 mmHg) (B) and fluoroscopy demonstrated improved opening of one leaflet with the other still immobilized (G). A repeat CT scan confirmed fluoroscopy findings and showed diminished thrombus load (H,I). TTE performed 6 weeks after discharge showed full mobility of both leaflets and normalized PG (mean 4 mmHg, max 9 mmHg) (C).
+
 ### Management of mechanical valve thrombosis
 
 - Guideline-recommended treatments include heparin anticoagulation, thrombolysis, and surgery.[^1]
@@ -129,3 +137,5 @@ Figure source: [^1]
 See [[Hypoattenuated Leaflet Thickening|HALT]]
 
 [^1]: Soria Jiménez CE, Papolos AI, Kenigsberg BB, Ben-Dor I, Satler LF, Waksman R, Cohen JE, Rogers T. Management of Mechanical Prosthetic Heart Valve Thrombosis: JACC Review Topic of the Week. J Am Coll Cardiol. 2023 May 30;81(21):2115-2127. doi: 10.1016/j.jacc.2023.03.412. PMID: 37225366.
+
+[^2]: Budde RPJ, Faure ME, Abbara S, Alkadhi H, Cremer PC, Feuchtner GM, Gonzales HM, Kiefer TL, Leipsic J, Nieman K, Revels J, Wang DD, Williamson E, Wyler von Ballmoos MC, Zwischenberger BA, Salgado R. Cardiac computed tomography for prosthetic heart valve assessment. An expert consensus document of the Society of Cardiovascular Computed Tomography (SCCT), the American College of Cardiology (ACC), the European Society of Cardiovascular Radiology (ESCR), the North American Society of Cardiovascular Imaging (NASCI), the Radiological Society of North America (RSNA), the Society for Cardiovascular Angiography & Interventions (SCAI) and Society of Thoracic Surgeons (STS). J Cardiovasc Comput Tomogr. 2025 Jul-Aug;19(4):366-386. doi: 10.1016/j.jcct.2025.04.007. Epub 2025 Jun 17. PMID: 40527640.

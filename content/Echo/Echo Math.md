@@ -105,7 +105,7 @@ Using Echo hemodynamics, you may also be able to calculate PVR with the followin
 $$
 \text{PVR} = \bigg( \frac{V_{\text{TR}}}{\text{VTI}_{\text{RVOT}}} \bigg) \cdot 10 + 0.16
 $$
-
+where TR is measured in m/s and RVOT VTI in cm
 
 # [[Pressure Half Time (PHT)]]
 
@@ -117,6 +117,7 @@ $$
 $$
 \text{Mitral Valve Area (MVA)} = \frac{220}{\text{PHT}}
 $$
+
 
 # Modified Bernoulli Equation for Pressure Gradients
 

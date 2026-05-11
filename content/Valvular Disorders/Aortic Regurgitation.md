@@ -60,6 +60,7 @@ Surveillance with repeat non-invasive testing, e.g. repeat TTE
 - 📝 In patients with moderate or severe AR and *suboptimal* TTE images or a discrepancy between clinical and TTE findings, TEE, CMR, or cardiac catheterization is indicated for the assessment of LV systolic function, systolic and diastolic volumes, aortic size, and AR severity (Class 1) [^otto]
 
 ![[Aortic Regurgitation-20240915105701314.webp]]
+
 # Exam
 
 - Wide pulse pressure
@@ -151,6 +152,14 @@ and valve area is *inversely proportional* to PHT, i.e. larger PHT is associated
 Examples:
 ![[Aortic Regurgitation-20240731142429890.webp]]
 
+## Markers of LV dysfunction
+
+- Beyond existing guideline factors of LVEF and LVESD, [^2] provide compelling evidence to consider additional markers (namely LV volumes and [[Global Longitudinal Strain (GLS)|GLS]]) of LV dysfunction in a Mayo cohort with asymptomatic chronic ≥moderate AI.
+	- They used cutoffs of indexed ESV of ≥45 mL/m2 and GLS worse than -15%
+
+![[Aortic Regurgitation-1778203298388.webp]]
+Figure source: [^2]
+
 # [[Cardiac CT]]
 
 - CT imaging is the primary approach for diagnosis of [[Aortic Dissection|acute aortic dissection]] because it is highly accurate and continuously available at most medical centers.[^otto]
@@ -161,3 +170,4 @@ When Is CMR Indicated? While echocardiography remains the first line modality fo
 
 [^otto]: Otto, C. M., Nishimura, R. A., Bonow, R. O., Carabello, B. A., Erwin, J. P., Gentile, F., Jneid, H., Krieger, E. V., Mack, M., McLeod, C., O’Gara, P. T., Rigolin, V. H., Sundt, T. M., Thompson, A., & Toly, C. (2021). 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Journal of the American College of Cardiology, 77(4), e25–e197. https://doi.org/10.1016/j.jacc.2020.11.018
 [^1]: https://www.asecho.org/wp-content/uploads/2017/04/2017VavularRegurgitationGuideline.pdf
+[^2]: Anand V, Michelena HI, Scott CG, Lee AT, Rigolin VH, Pislaru SV, Kane GC, Crestanello JA, Pellikka PA. Echocardiographic Markers of Early Left Ventricular Dysfunction in Asymptomatic Aortic Regurgitation: Is It Time to Change the Guidelines? JACC Cardiovasc Imaging. 2025 Mar;18(3):266-274. doi: 10.1016/j.jcmg.2024.09.005. Epub 2024 Nov 13. PMID: 39545891.
