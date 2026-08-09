@@ -2,6 +2,8 @@
 tags:
   - anticoagulation
 ---
+- While DOACs are commonly used, Dr. Geske (Mayo) has anecdotally noted DOAC-failure and he frequently favors using [[Warfarin]] instead.
+
 # LV Apical Thrombus
 
 ## Example

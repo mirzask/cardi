@@ -69,7 +69,7 @@ TODO
 	- Cardiovascular testing and monitoring cannot prevent or assess risk for recurrent SCAD
 - A reasonable approach to those with a strong desire to become parents:
 	- Minimize risks for unplanned pregnancy
-	- Provide thorough pre-conception counseling
+	- Provide thorough [[Pre-Conception Counseling|pre-conception counseling]]
 - Reviewing available data on pregnancy outcomes and focusing on individual maternal/fetal risks such as left ventricular function, residual cardiac symptoms, and teratogenic drug use
 - Due to the hormonal stimulation protocols required, there are potential and unknown risks of in vitro fertilization, whether or not a gestational carrier is used.
 	- "Natural cycle" (unstimulated) in vitro fertilization with a gestational carrier may be safer
